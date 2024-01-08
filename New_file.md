@@ -1,14 +1,18 @@
 MeetingWord Backup(20231118)
 ===
-###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg/badge)](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
+
+###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
+ 
 # [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
 
 # [Meeting1 - Down](http://meetingwords.com/CP0hu5b6tM)
 
-# [CHAT1 Down](https://chattory.com/?chat=272165)
+- [CHAT1 Down](https://chattory.com/?chat=272165)
 
-# [CHAT2 Down](https://chattory.com/?chat=855798)
+- [CHAT2 Down](https://chattory.com/?chat=855798)
 
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
@@ -26,16 +30,22 @@ MeetingWord Backup(20231118)
 
 - ### [前端Web開發HTML5+CSS3](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
 
+- [New York Times](https://cn.nytimes.com/zh-hant/)
+
+- [New York Time + UDN](https://udn.com/author/articles/2/810)
+
 - [William Yeh](https://william-yeh.net/)
 
 ---
 
+## My Video
+
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
-- [安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
+- [ :a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
 
 - [徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
-- [小彩籽](https://www.ixigua.com/home/1943557887754557/)
+- [ :B: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
 
 - [华哥货车自驾游](https://www.ixigua.com/home/3237374800190640/?list_entrance=anyVideo)
 - [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
@@ -47,52 +57,109 @@ MeetingWord Backup(20231118)
 
 
 
+## My Novel
+
+- [ :a: 大醫無疆](http://tw.zhsxs.com/zhsbook/63512.html)
+
+- [奶爸學園](http://tw.zhsxs.com/zhsbook/58422.html)
+
+- [我的公公叫康熙]( http://tw.zhsxs.com/zhsbook/63202.html)
+
+- [從1982開始的趕山生涯]( http://tw.zhsxs.com/zhsbook/64247.html)
+
+- [廢土第一美食小攤](https://tw.zhsshu.com/book/65377.html)
+
+- [大國軍艦](  https://tw.zhsshu.com/book/63150.html)
+
+- [外科教父]( https://tw.zhsshu.com/book/60196.html)
+ 
+- [帝國第一紈絝]( https://www.xpiaotian.com/zh_hant/book/334402/)
+
+- [:+1: 讓你造拖拉機，你去造火箭]( https://tw.zhsshu.com/book/65456.html)
+
+- [ :+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
+
+- [人在異界搞基建]( https://tw.zhsshu.com/book/65525.html)
+
+- [滿級大佬在星際下崗再就業]( https://tw.zhsshu.com/book/64743.html)
+
+- [穿越后在星際養靈植]( https://tw.zhsshu.com/book/63582.html)
+
+- [從低魔世界歸來]( https://tw.zhsshu.com/book/63817.html)
+
+- [重回年代，我有宇宙簽到系統]( https://tw.zhsshu.com/book/64741.html)
+
+- [從1981年衛校開始]( https://tw.zhsshu.com/book/63314.html)
+    - https://www.xiaoshuo.com.tw/14245/
+    
+- [從大學講師到首席院士]( https://tw.zhsshu.com/book/63171.html)
+
+- [重回七七種田養娃](  https://tw.zhsshu.com/chapter/63162.html)
+
+- [重生1977年從知青開始]( https://tw.zhsshu.com/book/61637.html)
+
+- [說好制作爛游戲](https://tw.zhsshu.com/book/64884.html)
+
+- [人生1984](https://tw.zhsshu.com/book/65280.html)
+
+- [我在星際賣盒飯]( http://tw.zhsxs.com/zhschapter/63868.html)
+
+- [宋檀記事]( http://tw.zhsxs.com/zhschapter/63215.html)
+
+- [我的姐夫是太子]( http://tw.zhsxs.com/zhsbook/63117.html)
+
+- [我的1995小農莊]( http://tw.zhsxs.com/zhsbook/63515.html)
+
+- [重生90：我靠種田培養學霸老哥]( http://tw.zhsxs.com/zhsbook/63450.html)
+- [科技霸主從帶娃開始]( http://tw.zhsxs.com/zhschapter/62257.html)
+- [重生八零，山有靈兮我有田]( http://tw.zhsxs.com/zhschapter/63592.html)
+- [種田開荒，我在古代嬌養侯爺]( http://tw.zhsxs.com/zhsbook/62771.html)
+- [旅行從攝影開始]( http://tw.zhsxs.com/zhsbook/64275.html)
+- [重返2000：大國機長]( http://tw.zhsxs.com/zhsbook/63638.html)
+- [從跟天后領證開始]( http://tw.zhsxs.com/zhsbook/64266.html)
+- [一口天價炒飯]( http://tw.zhsxs.com/zhsbook/64874.html)
+- [滿級千金她颯爆回歸]( http://tw.zhsxs.com/zhschapter/63892.html)
+- [魔眼小神醫]( http://tw.zhsxs.com/zhsbook/58600.html)
+- [掌门低调点]( https://www.xhsxsw.com/book/zhangmenditiaodian/)
+- [重生去當鄉村醫生]( http://tw.zhsxs.com/zhschapter/64160.html)
+- [做媒這一塊]( http://tw.zhsxs.com/zhsread/63008_22283246.html)
+- https://tw.linovelib.com/novel/3435/173996.html
+- https://tw.linovelib.com/novel/2456/174935_2.html
+- https://tw.linovelib.com/novel/2796/134690.html
+
+- [Back to 60](https://book.qq.com/book-chapter/48496611)
+
+- [Back to 1981 school](https://www.xiaoshuo.com.tw/14245/)
+
+- https://www.hetubook.com/index.php
+- https://www.hetubook.com/book/7171/index.html
+- https://www.hetubook.com/book/345/index.html
+- https://www.hetubook.com/book/4249/index.html
+- https://www.hetubook.com/book/3085/index.html
+- [末世血皇](https://big5.quanben5.com/n/moshixuehuang/xiaoshuo.html)
+
+- https://czbooks.net/n/s6pofo
+- https://czbooks.net/n/s66f22
+- https://czbooks.net/n/cp1md9b
+- https://czbooks.net/n/ui6i2p
+- https://czbooks.net/n/s6p60j
+- https://czbooks.net/n/ui87pd
+- https://czbooks.net/n/s6paki
+
+- https://tw.uukanshu.com/
+
+
+- [我獨自升級 Manga](https://www.kuaikanmanhua.com/web/topic/4319/)
+- [輪迴第7次的反派千金](https://www.wenku8.net/book/2864.htm)
+
 ---
 
-大國實業 http://tw.zhsxs.com/zhsbook/64623.html
-大醫無疆 http://tw.zhsxs.com/zhsbook/63512.html
-奶爸學園 http://tw.zhsxs.com/zhsbook/58422.html
-我的公公叫康熙 http://tw.zhsxs.com/zhsbook/63202.html
-從1982開始的趕山生涯 http://tw.zhsxs.com/zhsbook/64247.html
-廢土第一美食小攤 https://tw.zhsshu.com/book/65377.html
-大國軍艦  https://tw.zhsshu.com/book/63150.html
-外科教父 https://tw.zhsshu.com/book/60196.html  
-帝國第一紈絝 https://www.xpiaotian.com/zh_hant/book/334402/
-
-讓你造拖拉機，你去造火箭 https://tw.zhsshu.com/book/65456.html
-人在異界搞基建 https://tw.zhsshu.com/book/65525.html
-滿級大佬在星際下崗再就業 https://tw.zhsshu.com/book/64743.html
-穿越后在星際養靈植 https://tw.zhsshu.com/book/63582.html
-從低魔世界歸來 https://tw.zhsshu.com/book/63817.html
-重回年代，我有宇宙簽到系統 https://tw.zhsshu.com/book/64741.html
-從1981年衛校開始 https://tw.zhsshu.com/book/63314.html     https://www.xiaoshuo.com.tw/14245/
-從大學講師到首席院士 https://tw.zhsshu.com/book/63171.html
-重回七七種田養娃  https://tw.zhsshu.com/chapter/63162.html
-重生1977年從知青開始 https://tw.zhsshu.com/book/61637.html
-說好制作爛游戲 https://tw.zhsshu.com/book/64884.html
-年代：從下鄉后開始的咸魚生活 https://tw.zhsshu.com/book/65120.html
-人生1984 https://tw.zhsshu.com/book/65280.html
-
-
-https://www.hetubook.com/index.php
-https://www.hetubook.com/book/7171/index.html
-https://www.hetubook.com/book/345/index.html
-https://www.hetubook.com/book/4249/index.html
-https://www.hetubook.com/book/3085/index.html
-https://big5.quanben5.com/n/moshixuehuang/xiaoshuo.html
-
-
-
-
-https://tw.uukanshu.com/
-
----
-
-My magazine
+## My magazine
 share magazine >>> https://gofile.io/d/HlD0mf
+
 root >>> https://gofile.io/d/5ZxCbx
-Z-Library
-https://singlelogin.re/ 
+
+Z-Library https://singlelogin.re/ 
 
 
 Convert Web to PDF 
@@ -103,28 +170,30 @@ https://github.com/git-lfs/git-lfs
 
 
 GRE Words
-https://examstrategist.com/most-common-gre-vocabulary-words/
-https://www.kaptest.com/study/gre/top-52-gre-vocabulary-words/
-https://www.facebook.com/photo/?fbid=700197472114144&set=pcb.700202198780338
+- https://examstrategist.com/most-common-gre-vocabulary-words/
+- https://www.kaptest.com/study/gre/top-52-gre-vocabulary-words/
+- https://www.facebook.com/photo/?fbid=700197472114144&set=pcb.700202198780338
 
-了解近30種電氣元件電氣基礎知識講解
-https://www.youtube.com/watch?v=TDhsZJJGlQA
+[了解近30種電氣元件電氣基礎知識講解](https://www.youtube.com/watch?v=TDhsZJJGlQA)
 
 Megger
 https://zhuanlan.zhihu.com/p/612443006
 https://factpedia.org/index.php?title=%E5%85%86%E6%AC%A7%E8%A1%A8&variant=zh-hant
-Claude: 【電工電路識圖佈線接線與維修】1冊（清倉價）NT$799 【電工電路識圖佈線接線與維修+電工從零基礎到實戰】NT$1099
-9:57Claude: https://cheats.rs/
-18:36Claude: 「水豚醬_工作超實用貼圖」
 
-ChatGPT
+【電工電路識圖佈線接線與維修】1冊（清倉價）NT$799 【電工電路識圖佈線接線與維修+電工從零基礎到實戰】NT$1099
+
+
+
+### ChatGPT
 https://karpathy.ai/zero-to-hero.html
 https://github.com/xtekky/gpt4free
 
-鹹蛋玉米 https://www.youtube.com/watch?v=Xp-FEV8llRQ
+[鹹蛋玉米](https://www.youtube.com/watch?v=Xp-FEV8llRQ)
+
+[Cheat RS](https://cheats.rs/)
 
 
-Pixiv
+### Pixiv
 https://www.pixiv.net/
 https://www.pixiv.net/users/3284839
 https://www.pixiv.net/tags/%E7%94%9F%E7%90%86/artworks
@@ -134,7 +203,7 @@ https://www.furuke.com/
 https://e-hentai.org/
 
 
-Piano
+### Piano
 https://en.wikipedia.org/wiki/MuseScore
 https://en.wikipedia.org/wiki/List_of_music_software
 https://learnpianovivi.pixnet.net/blog/post/249445869-%E7%B1%B3%E7%B1%B3%E8%80%81%E5%B8%AB%E6%84%9B%E7%94%A8%E7%9A%84%E5%88%9D%E5%AD%B8%E9%8B%BC%E7%90%B4%E6%95%99%E6%9D%90
@@ -147,7 +216,7 @@ https://inintomusic.asia/self-taught-piano/
 https://www.getit01.com/p2018041925214361/
 https://www.dreambigpoem.com/
 
-免費樂譜
+### 免費樂譜
 https://musopen.org/zh-hant/
 https://tianyanstudio.blogspot.com/2015/07/10_30.html
 https://pianoroomno1.wordpress.com/2017/10/23/10%E5%80%8B%E5%85%8D%E8%B2%BB%E9%8B%BC%E7%90%B4%E8%AD%9C%E7%B6%B2%E7%AB%99%E6%8E%A8%E8%96%A6%EF%BC%81/
@@ -157,7 +226,7 @@ https://www.playpcesor.com/2016/04/skoove.html
 https://blog.xuite.net/arvin66/home/204216324#
 https://www.musicca.com/zh
 
-免費樂譜辨識軟體
+### 免費樂譜辨識軟體
 http://nick6239.blogspot.com/2018/06/ocr.html
 https://pdf.wondershare.tw/pdf-knowledge/convert-pdf-to-midi.html
 https://www.reneelab.net/convert-pdf-to-midi.html
@@ -166,16 +235,12 @@ https://www.reneelab.net/convert-pdf-to-midi.html
 賴禎祥的摺紙世界(The Origami World Of Lai-Chen-Hsiang)
 摺紙教學DIY學習
 
-MTK AP
-SSID: Eirene_TP_2.4G/Eirene_TP_5G 
-Password: 87654321
-
 用 Web 介面加入 Webex 會議時，加入後都聽不到聲音的情況。因為我有兩個輸出音訊的設備，預設選錯的時候就會覺得怎麼都沒聲音。剛好 Webex 的 Web UI 並沒有提供調整音訊裝置的地方，所以就會卡一段時間。
 以下這兩個連結是 Chrome / Edge 用來調整瀏覽器預設音訊/視訊裝置的位址 
  chrome://settings/content/camera
  chrome://settings/content/microphone
 
-### 過來門口按609#，幫你開門 666
+## 過來門口按609#，幫你開門 666
 
 這似乎也證明了抬杠的終極奧義，其實就隻是兩點。
 
@@ -184,46 +249,23 @@ Password: 87654321
     第二就是始終堅持不能放棄，不論是轉進話題還是死纏爛打，一定不能做倒數第二個說話的人，
     要保證最後一句話，一定是從自己這邊發出的。
 
-pm
-https://ponpizai.com/
+- [椪皮仔 pm](https://ponpizai.com/)
 
-拯救資工系學生的基本素養 系列
-https://ithelp.ithome.com.tw/users/20103745/ironman/3078
+- [拯救資工系學生的基本素養](https://ithelp.ithome.com.tw/users/20103745/ironman/3078)
 
 
-
-https://www.linetv.tw/drama/11909/eps/2?source=DRAMA_EPISODE_MENU_LIST&source_drama_id=11909&type=link
+- [男女蹺蹺板](https://www.linetv.tw/drama/11909/eps/2?source=DRAMA_EPISODE_MENU_LIST&source_drama_id=11909&type=link)
+- 
 https://www.youtube.com/@3blue1brown
 
 https://www.deepl.com/write
 
-我在星際賣盒飯 http://tw.zhsxs.com/zhschapter/63868.html
-重生1977年 http://tw.zhsxs.com/zhschapter/61637.html
-宋檀記事 http://tw.zhsxs.com/zhschapter/63215.html
-重回七七種田養娃 http://tw.zhsxs.com/zhsbook/63162.html
-我的姐夫是太子 http://tw.zhsxs.com/zhsbook/63117.html
-我的1995小農莊 http://tw.zhsxs.com/zhsbook/63515.html
-重生90：我靠種田培養學霸老哥 http://tw.zhsxs.com/zhsbook/63450.html
-科技霸主從帶娃開始 http://tw.zhsxs.com/zhschapter/62257.html
-重生八零，山有靈兮我有田 http://tw.zhsxs.com/zhschapter/63592.html
-種田開荒，我在古代嬌養侯爺 http://tw.zhsxs.com/zhsbook/62771.html
-旅行從攝影開始 http://tw.zhsxs.com/zhsbook/64275.html
-重返2000：大國機長 http://tw.zhsxs.com/zhsbook/63638.html
-從跟天后領證開始 http://tw.zhsxs.com/zhsbook/64266.html
-一口天價炒飯 http://tw.zhsxs.com/zhsbook/64874.html
-滿級千金她颯爆回歸 http://tw.zhsxs.com/zhschapter/63892.html
-魔眼小神醫 http://tw.zhsxs.com/zhsbook/58600.html
-掌门低调点 https://www.xhsxsw.com/book/zhangmenditiaodian/
-重生去當鄉村醫生 http://tw.zhsxs.com/zhschapter/64160.html
-做媒這一塊 http://tw.zhsxs.com/zhsread/63008_22283246.html
-https://tw.linovelib.com/novel/3435/173996.html
-https://tw.linovelib.com/novel/2456/174935_2.html
-https://tw.linovelib.com/novel/2796/134690.html
 
 
 
 
-樂理自學
+
+### 樂理自學
 https://www.facebook.com/groups/724728875187178
 https://www.youtube.com/watch?v=Q_EqY7AlBzM
 https://www.youtube.com/@user-hy2ts5vg8i/playlists
@@ -293,11 +335,11 @@ https://github.com/vanhoefm/macstealer
 https://www.youtube.com/@MrPiano-ew7cz
 https://www.youtube.com/watch?v=esljyLyIj7Q
 
-ebook
+## ebook
 http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/?redirectUrl=b-ok.cc%252F
  以上是世界最大的電子書資料庫登入連結; 可用 tor 瀏覽器 (onion) 隱匿電子足跡瀏覽器開啟以上網址, 註冊, 每天可10本電子書 (用 calibre如簡體可用外掛轉繁) 
 
-Manga
+## Manga
 https://www.manhuagui.com/comic/34253/
 https://www.wenku8.net/modules/article/articleinfo.php?id=2971&charset=big5
 http://m.dm5.cn/manhua-yingxiongwang-weileqiongjinwudaoerzhuansheng-ranhou-chengweishijiezuiqiangdejianxiqishi/
@@ -328,11 +370,13 @@ https://github.com/sysprog21/vwifi
 
 http://tw.zhsxs.com/zhslist/%E6%88%91%E7%9A%84.html
 
+## My Game
 https://ani.gamer.com.tw/
 
 retro game
 https://github.com/ZgzInfinity/OutRun
 https://github.com/djyt/cannonball
+
 Windows 98復活計劃（三）：透過DOSBox Pure執行DOS遊戲
 https://www.popot.org/custom_levels.php?mod=0000232
 https://playminigames.net/categories/arcade
@@ -353,15 +397,17 @@ https://www.myabandonware.com/
 https://www.vogons.org/index.php
 https://www.freedos.org/download/
 https://www.schillmania.com/armor-alley/
+
 openra https://www.openra.net/
 
-Apple II
+## Apple II
 https://github.com/AppleWin/AppleWin
 https://mirrors.apple2.org.za/ftp.apple.asimov.net/
 http://apple2.guidero.us/doku.php/start
 http://roger.geek.nz/index.html
 http://www.applelogic.org/index.html
 http://stjarnhimlen.se/apple2/
+
 Video of me running CP/M - http://www.youtube.com/watch?v=ulQ4CWBfR_g
 https://www.callapple.org/
 http://cpmarchives.classiccmp.org/cpm/mirrors/www.cpm8680.com/
@@ -369,36 +415,38 @@ CP/M 3.1 to the Apple II + Softcard platform (here http://cpm.z80.de/download/ap
 http://loderunnerwebgame.com/LodeRunner/
 
 
-pahole
+## pahole
 https://github.com/jmesmon/pahole
 https://xnum.github.io/2018/03/pahole/
 
-syzkaller
+## syzkaller
 https://github.com/google/syzkaller
 https://ithelp.ithome.com.tw/users/20151153/ironman/5164
 https://www.collabora.com/news-and-blog/blog/2020/03/26/syzkaller-fuzzing-the-kernel/
 
 
-software enineer comic
+## software enineer comic
 https://www.monkeyuser.com/toc/
 https://iximiuz.com/en/posts/ssh-tunnels/
 
 
-webtools
-------------
-https://free.com.tw/category/internet/
-https://reachone01.github.io/
+## webtools
+- https://free.com.tw/category/internet/
+- https://reachone01.github.io/
 
 Tools PKStep
 https://www.pkstep.com/
 https://www.mapmarker.app/webapp/index.html
+
 Pinta：加強版小畫家
 paint.net
 https://www.gdaily.org/19415/gamer-download
 https://www.gdaily.org/22554/2020-watch-video
 https://www.gdaily.org/21237/gimy-tv-download
 https://github.com/miyouzi/aniGamerPlus
+
 PhotoDemon 9.0 免安裝中版 - 支援圖層的免費影像處理軟體
+
 Batch Image Combiner 1.2.3.4 免安裝中文版 - 多張照片拼貼工具
 
 git cheat sheet
@@ -408,7 +456,7 @@ https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 youtube downloader --> mp3, mp4  https://www.converto.io/en53
 fb, ig, youtube   https://zh.savefrom.net/226/
 
-pm
+## pm
 https://www.projectup.net/article/view/id/16489
 https://www.projectup.net/article/view/id/16490
 
@@ -416,7 +464,7 @@ https://cs.android.com/android/platform/superproject/+/master:packages/modules/W
 
 https://github.com/royeo/awesome-programming-books
 
-# Game
+### Game
 『友情破壞四大天王』，分別是：
 
 - 敲冰塊，1985，任天堂
@@ -425,10 +473,11 @@ https://github.com/royeo/awesome-programming-books
 - 松鼠大作戰，1990，卡普空
 - at&t
 
-game manual
+### game manual
 https://onedrive.live.com/?id=1B62962E79AC09B8%21359&cid=1B62962E79AC09B8
 https://onedrive.live.com/?id=1B62962E79AC09B8%21359
-OLD GAME MANUAL1
+
+### OLD GAME MANUAL1
 https://sites.google.com/site/oldgamemanual1/Home
 http://www.endlessfight.org/forum/viewthread.php?tid=3073
 http://game.signage-cloud.org/Home
@@ -437,12 +486,13 @@ https://home.gamer.com.tw/artwork.php?sn=5627530
 https://www.mobile01.com/topicdetail.php?f=514&r=2&t=1755838
 https://archive.org/details/soft-world-magazine-collection/1987/%E8%BB%9F%E9%AB%94%E4%B8%96%E7%95%8C%E8%BF%BD%E8%B8%AA%20-%20%E7%AC%AC2%E8%99%9F/
 https://topaz2012.pixnet.net/blog/post/26392440
+
 FIRST LOOK: Low Latency Analogue & Digital Retro Gaming Interface | CTRLDock
 
-DOS game
+### DOS game
 https://dos.zczc.cz
 
-家用主機 & 大型電玩
+### 家用主機 & 大型電玩
 https://emulatorgames.online/
 https://myemulator.online/
 https://www.retrogames.cz/
@@ -455,22 +505,21 @@ https://gist.github.com/ertclee/16c6fcce0c54afa7b5cd29aa0f4fa645
 https://www.youtube.com/watch?v=UNxpRiw8pRE
 https://github.com/codecrafters-io/build-your-own-x
 
-online radio
+### online radio
 http://publicdomainradio.org/
 https://free.com.tw/category/internet/
 https://xiaoheimi.net/index.php
 
-clock
+### clock
 https://flipclocker.com/
 
-Z80
+### Z80
 http://www.winape.net/index.jsp
 https://www.chibiakumas.com/z80/index.php#Lesson1
 
 
 
-GBA
--------
+### GBA
 - gameboy online or gba online
 - https://uncleit.net/game-boy%E6%A8%A1%E6%93%AC%E5%99%A8vba%E4%B8%8B%E8%BC%89%E8%88%87%E6%95%99%E5%AD%B8.html
 - https://www.moonlol.com/gba%E6%A8%A1%E6%93%AC%E5%99%A8%E9%87%91%E6%89%8B%E6%8C%87-2935.html
@@ -480,7 +529,7 @@ GBA
 https://github.com/keirf/flashfloppy/wiki/
 
 
-6502
+## 6502
 https://www.chibiakumas.com/6502/#Lesson1
 
 
@@ -492,12 +541,10 @@ Krita v5.1.5 取代 Photoshop, Painter 的專業繪圖軟體（繁體中文版�
 https://blog.user.today/
 
 
-Rubber band
+## Rubber band
 https://www.youtube.com/watch?v=8de50u4vASg
 
-------------------------------------
-HidMarcos and LuaMarcos
-------------------------------------
+## HidMarcos and LuaMarcos
 - https://github.com/me2d13/luamacros
 - http://www.hidmacros.eu/forum/viewforum.php?f=12&sid=c196ba55e7a7642443b7ceaf77bf144b
 - https://miquelvir.medium.com/secondkeyboard-1c39e52e023b
@@ -510,10 +557,10 @@ HidMarcos and LuaMarcos
 - https://github.com/VollRahm/NotEnoughHotkeys/
 - https://github.com/evilC/AutoHotInterception
 
-Autohotkey 2.0
+### Autohotkey 2.0
 https://jdev.tw/blog/7948
 
-### Sokoban ###
+### Sokoban
 http://sokoban.cn/
 http://sokoban.ws/sokoplayer/SokoPlayer_HTML5_en.php
 http://sokoban.org/
@@ -529,7 +576,7 @@ https://mediachance.com/midimacros/
 https://www.cool3c.com/article/185877
 https://cloudpilot-emu.github.io/
 
-Javascript
+## Javascript
 https://awesome-programming-books.github.io/
 https://github.com/mynane/PDF
 https://github.com/wanlixi/javascript-learn-book
@@ -559,26 +606,26 @@ https://dedjo0.itch.io/cuphead-game-and-watch-edition
 https://www.reddit.com/r/GameAndWatchMods/
 
 
-Sharp SM-5A Debugger
+## Sharp SM-5A Debugger
 - https://www.septimus.sk/KB1013dbg/index.html
 - http://www.ebastlirna.cz/modules.php?name=Forums&file=viewtopic&p=1130447#1130447
 - https://seanriddle.com/topgun.html
 - http://bitsavers.trailing-edge.com/components/sharp/_dataBooks/1990_Sharp_Microcomputers_Data_Book.pdf
 - https://github.com/trevorjay/marios-binary-factory
 
-roms: 
+## roms: 
 - https://stickfreaks.com/ocau/
 - https://www.google.com.tw/search?q=gnw_ball.zip%2F&newwindow=1&sxsrf=ALiCzsaWcKI6UB7PjO5c5DvcATS0ey_dTg%3A1670422177370&source=hp&ei=oZ6QY4GiFIOTr7wPvsOJqAY&iflsig=AJiK0e8AAAAAY5CssYQqTjB8K6yUuewQ26tVzRgy5Ybz&ved=0ahUKEwjB9oTE1-f7AhWDyYsBHb5hAmUQ4dUDCAo&uact=5&oq=gnw_ball.zip%2F&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECdQvQ1YxS5guzRoAXAAeACAAViIAaABkgEBMpgBAKABAqABAbABCg&sclient=gws-wiz
 
-howto mame: 
+## howto mame: 
 - https://www.emurom.net/us/emulation/mame-roms/detail-93277-game.watch%3A.ball.html
 - https://65k2.com/2021/06/23/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-mame-%E7%8E%A9%E9%81%8D%E6%89%80%E6%9C%89-game-watch-%E6%8E%8C%E6%A9%9F%E9%81%8A%E6%88%B2/
 https://emupedia.net/beta/
 
-8051
+## 8051
 http://www.edsim51.com/
 
-adlib
+## adlib
 https://jeff-russ.github.io/AdlibBlaster/
 https://zh.wikipedia.org/zh-tw/AdLib
 https://zh.wikipedia.org/zh-tw/Sound_Blaster
@@ -620,11 +667,11 @@ https://www.techbang.com/posts/17935-electronic-sound-synthesis-of-evolution-mor
 https://sites.google.com/trexmusictw.page/monkeyplaymusic/%E7%8C%B4%E9%9F%B3%E7%A0%94%E7%A9%B6%E6%89%80?authuser=0
 free daw
 
-chatGPT
+## chatGPT
 https://www.explainthis.io/zh-hant/chatgpt/guide
 
 
-Adlib utility
+## Adlib utility
 https://www.dosdays.co.uk/topics/Manufacturers/adlib.php
 http://vgmpf.com/Wiki/index.php/AdLib_(DOS)
 https://github.com/topics/adlib
@@ -636,12 +683,13 @@ https://milkytracker.org/
 https://16-bits.org/index.php
 https://openmpt.org/
 
-FM Synthesis
+## FM Synthesis
 https://zhuanlan.zhihu.com/p/49945974
 https://digilog.tw/
 https://wiki.nicechord.com/index.php/%E9%A6%96%E9%A0%81
 https://www.techbang.com/posts/17935-electronic-sound-synthesis-of-evolution-more-lifelike-sound-fm-sound-source
-google: FM合成
+
+## google: FM合成
 https://github.com/stohrendorf/ppplay
 https://asb2m10.github.io/dexed/
 https://www.bilibili.com/video/BV1Zi4y1k7D9/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b7ed8e004bb8d0d23eb933ba6bcc2bb5
@@ -655,7 +703,7 @@ https://www.youtube.com/watch?v=bW_WiuVBA_s
 https://digilog.tw/posts/496
 
 
-Electronic piano
+## Electronic piano
 https://www.zhihu.com/topic/19581702/hot
 https://zhuanlan.zhihu.com/p/478915811
 https://hackmd.io/@idoleat
@@ -668,29 +716,28 @@ midi player -roland mt-32 emu
 https://www.dearhoney.idv.tw/2305/roland-yamaha-synth-install-windows10-dosbox/
 
 
-school days
+### school days
 https://zh.m.wikipedia.org/zh-tw/School_Days
 https://always1027.pixnet.net/blog/post/39847504-%E3%80%90%E5%8B%95%E7%95%AB%E5%BF%83%E5%BE%97%E3%80%91school-days%EF%BC%8D%E7%B6%93%E5%85%B8%E9%BB%91%E6%9A%97%E5%8A%87%E6%83%85
 https://www.youtube.com/results?search_query=School+Days%E6%97%A5%E5%9C%A8%E6%A0%A1%E5%9C%92+02
 
-校園迷糊大王
+### 校園迷糊大王
 https://www.bilibili.com/bangumi/play/ss1446
 
-CF-END
+### CF-END
 https://mrncciew.com/2014/10/02/cwap-802-11-control-frame-types/
 https://zhuanlan.zhihu.com/p/20750579
 http://www.tsnien.idv.tw/Network_WebBook/chap15/15-6%20%E8%A8%8A%E6%A1%86%E6%A0%BC%E5%BC%8F.html
 
 
 
-LCD driver
---------------
+### LCD driver
 https://blog.csdn.net/cxycao/article/details/77112984
 https://www.twblogs.net/a/5d5f2986bd9eee5327fded82
 https://www.huanqiuic.com/uploads/pdf/20220104/pYYBAGDIGKyAGkPgAAim__kiSww668.pdf
 
 
-c
+## c
 https://hackmd.io/@sysprog?utm_source=preview-mode&utm_medium=rec
 http://wiki.csie.ncku.edu.tw/User/yaohwang99
 https://hackmd.io/@unknowntpo/lab0-c_sandbox
