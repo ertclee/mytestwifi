@@ -6,13 +6,9 @@ MeetingWord Backup(20231118)
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
  
-# [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
+## [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
 
-# [Meeting1 - Down](http://meetingwords.com/CP0hu5b6tM)
-
-- [CHAT1 Down](https://chattory.com/?chat=272165)
-
-- [CHAT2 Down](https://chattory.com/?chat=855798)
+### [Meeting1 - Down](http://meetingwords.com/CP0hu5b6tM)
 
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
@@ -36,16 +32,28 @@ MeetingWord Backup(20231118)
 
 - [William Yeh](https://william-yeh.net/)
 
+- [:+1: ThreadX](https://github.com/eclipse-threadx/)
+
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+- [ :+1: z-lib](https://zh.singlelogin.re/)
+- [ :+1: dbook](https://www.dbooks.org/)
+
+- [ :+1:  :+1:  :+1: My saved webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
+
 ---
 
 ## My Video
 
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
 - [ :a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
-
-- [徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
+ 
+- [ :panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
 - [ :B: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
+- [冬梅来了](https://www.ixigua.com/home/6891924794/?source=pgc_author_name&list_entrance=anyVideo)
+
+### ooo
 
 - [华哥货车自驾游](https://www.ixigua.com/home/3237374800190640/?list_entrance=anyVideo)
 - [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
@@ -54,10 +62,14 @@ MeetingWord Backup(20231118)
 - [868黑娃黑妹](https://www.ixigua.com/home/1965517735472455/?source=pgc_author_name&list_entrance=anyVideo)
 - [穷游的似水年华](https://www.ixigua.com/home/85614639172/?list_entrance=category&video_card_type=shortvideo)
 - [家和远方的旅行](https://www.ixigua.com/home/2392171011639870/?source=pgc_author_name&list_entrance=anyVideo)
+- [刘师傅游记](https://www.ixigua.com/home/51025704100/?source=pgc_author_name&list_entrance=anyVideo)
+- [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
+- [杰森bababa](https://www.ixigua.com/home/94380112921/?source=pgc_author_name&list_entrance=anyVideo)
 
 
 
 ## My Novel
+- [大國實業](http://tw.zhsxs.com/zhsbook/64623.html)
 
 - [ :a: 大醫無疆](http://tw.zhsxs.com/zhsbook/63512.html)
 
@@ -127,7 +139,7 @@ MeetingWord Backup(20231118)
 - https://tw.linovelib.com/novel/2456/174935_2.html
 - https://tw.linovelib.com/novel/2796/134690.html
 
-- [Back to 60](https://book.qq.com/book-chapter/48496611)
+- [ :a: Back to 60](https://book.qq.com/book-chapter/48496611)
 
 - [Back to 1981 school](https://www.xiaoshuo.com.tw/14245/)
 
@@ -138,19 +150,38 @@ MeetingWord Backup(20231118)
 - https://www.hetubook.com/book/3085/index.html
 - [末世血皇](https://big5.quanben5.com/n/moshixuehuang/xiaoshuo.html)
 
-- https://czbooks.net/n/s6pofo
-- https://czbooks.net/n/s66f22
-- https://czbooks.net/n/cp1md9b
-- https://czbooks.net/n/ui6i2p
-- https://czbooks.net/n/s6p60j
-- https://czbooks.net/n/ui87pd
-- https://czbooks.net/n/s6paki
+- [ :+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
+- [讓你造拖拉機，你去造火箭](https://czbooks.net/n/s66f22)
+- [我在七零修拖拉機](https://czbooks.net/n/cp1md9b)
+- [重生1990：開局打造酒王](https://czbooks.net/n/ui6i2p)
+- [機械煉金術士](https://czbooks.net/n/s6p60j)
+- [我有一座海濱五星大酒店](https://czbooks.net/n/ui87pd)
+- [城一代的奮鬥史](https://czbooks.net/n/uibkpk)
+- [整座大山都是我的獵場](https://czbooks.net/n/s6paki)
+- [你好，我的1979](https://czbooks.net/n/uimc76)
+- [這個中醫有點強](https://czbooks.net/n/uipjdh)
+- [淫術煉金士](https://czbooks.net/n/c34pi5)
+- [煉金術士的異界日常](https://czbooks.net/n/uia1b6)
+- [方士的煉金攻略](https://czbooks.net/n/ulg6c)
+- []()
+- []()
+- []()
+- [佐佐木與文鳥小嗶](https://tw.linovelib.com/novel/3210/catalog)
+- []()
+
 
 - https://tw.uukanshu.com/
 
 
-- [我獨自升級 Manga](https://www.kuaikanmanhua.com/web/topic/4319/)
 - [輪迴第7次的反派千金](https://www.wenku8.net/book/2864.htm)
+- [反派千金等級99](https://www.wenku8.net/novel/2/2780/index.htm)
+- [北海道辣妹贼拉可爱 Manga](https://www.dm5.com/manhua-beihaidaolameizeilakeai/)
+- [:red_circle: 女王的手術刀](https://www.baozimh.com/comic/nuwangdeshouzhudao-liuren_8qfeip)
+- [我獨自升級](https://www.baozimh.com/comic/woduzishengji-duburedicestudio_gi486f)
+
+- [秒殺外掛太強了](https://www.baozimh.com/comic/miaoshawaiguataiqiangliaoyishijiedejiahuomengenbenjiubushiduishouao-naduhuawantengxiaogangzhichenglaitisato)
+
+- [Ivon的部落格](https://ivonblog.com/)
 
 ---
 
@@ -182,7 +213,7 @@ https://factpedia.org/index.php?title=%E5%85%86%E6%AC%A7%E8%A1%A8&variant=zh-han
 
 【電工電路識圖佈線接線與維修】1冊（清倉價）NT$799 【電工電路識圖佈線接線與維修+電工從零基礎到實戰】NT$1099
 
-
+- [:grinning: ThreadX](https://github.com/eclipse-threadx/)
 
 ### ChatGPT
 https://karpathy.ai/zero-to-hero.html
@@ -578,9 +609,13 @@ https://cloudpilot-emu.github.io/
 
 ## Javascript
 https://awesome-programming-books.github.io/
+
 https://github.com/mynane/PDF
+
 https://github.com/wanlixi/javascript-learn-book
+
 http://javascript.klab.tw/teach
+
 https://javascript.alphacamp.co/js-free-self-study-resources.html
 
 
@@ -805,12 +840,11 @@ https://github.com/PacktPublishing/
 https://course.rs/basic/trait/generic.html
 https://github.com/rust-zurichsee/meetups
 
-
-https://paiza.io/projects/Nz0h-djQlzT-HdFOkRUoFQ?language=c
+- [:o: online codeing](https://paiza.io/projects/Nz0h-djQlzT-HdFOkRUoFQ?language=c)
 
 https://www.youtube.com/c/appleboy48/playlists
-- 
-https://rust-lang.tw/book-tw/title-page.html
+
+- https://rust-lang.tw/book-tw/title-page.html
 
 http://tw.gitbook.net/rust/install.html
 
@@ -832,8 +866,8 @@ http://www.microkernel.info/
 https://sysprog21.github.io/lkmpg/
 https://github.com/sysprog21/lkmpg
 
-https://replit.com/~
-aA...
+- [:o: online codeing](https://replit.com/~)
+    - pwd: aA...
 
 
 https://blog.libralight.dev/
