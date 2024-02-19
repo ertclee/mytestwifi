@@ -1,10 +1,9 @@
 前端Web開發HTML5+CSS3
 ===
 
-
 [![hackmd-github-sync-badge](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w/badge)](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
 
-###### tags: `Xian` `Galaxian` `HTML5` `CSS3`
+tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
 
@@ -50,23 +49,26 @@
 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-- [ :+1: z-lib](https://zh.singlelogin.re/)
+- [:+1: z-lib](https://zh.singlelogin.re/)
 
-- [ :+1: dbook](https://www.dbooks.org/)
+- [:+1: dbook](https://www.dbooks.org/)
 
 - [awesome](https://github.com/ertclee/awesome-programming-books-1/tree/master/javascript)
 
-- [CS-Books](https://gitee.com/ForthEspada/CS-Books) 
+- [CS-Books](https://gitee.com/ForthEspada/CS-Books)
 
 - [js book](https://github.com/basicExploration/books)
+
 ---
 
 - CSDN: ertclee@yahoo.com/aA3......0!
 
-- [ :+1:  :+1:  :+1: My webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
+- [:+1:  :+1:  :+1: My webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
 
 ---
+
 # Wiki
+
 - [Javascipt](https://zh.wikipedia.org/wiki/JavaScript)
 
 - [HTML5](https://zh.wikipedia.org/wiki/HTML5)
@@ -84,17 +86,19 @@
 - []()
 
 ## Web Tools
+
 - [ip138](https://tool.ip138.com/)
 
 - [bidianer](https://www.bidianer.com/site/index)
 
-- []()
+- [zx](https://google.github.io/zx/)
 
 - []()
 
 - []()
 
 # Playground
+
 - [:dart: codepen](https://codepen.io/your-work/)
 
 - [:dart: jsfiddle](https://jsfiddle.net/)
@@ -110,8 +114,40 @@
 
 - [Glitch.com](https://glitch.com/dashboard)
 
+- [jsbin](https://jsbin.com/?html,css,js,console)
+
+- [RExp playground](https://regex101.com/)
+
+- [TS Playground](https://www.typescriptlang.org/play)
+
+- [TS Playground](https://www.mycompiler.io/new/typescript)
+
+- [TS Playground](https://playcode.io/typescript-playground)
+
+- [codesandbox](https://codesandbox.io/p/sandbox/typescript-form-validator-bkdkp)
+
+- [Runit](https://runkit.com/ertclee)
+
+- []()
+
+- []()
+
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex)
+
+- [i-hate-regex](https://ihateregex.io/)
+
+- [regexr](https://regexr.com/)
+
+- [regextester](https://www.regextester.com/)
+
+- [工具邦](https://tw.piliapp.com/)
+
+- []()
+
 ---
-- ## 小马技术官网
+
+## 小马技术官网
+- 小马技术官网
     - [官网](https://komavideo.com/)
     - [播單一覽](https://komavideo.com/tag/)
     - [深学AWS](https://deeplearnaws.com/)
@@ -146,37 +182,46 @@
 
 - [前端工具百寶箱 - 六角學院](https://ithelp.ithome.com.tw/users/20111449/ironman/1767)
 
-- [Chrome Extension 開發與實作 ](https://ithelp.ithome.com.tw/users/20079450/ironman/1149)
+- [Chrome Extension 開發與實作](https://ithelp.ithome.com.tw/users/20079450/ironman/1149)
 
 - [洛奇的邪惡組織手札](https://summer10920.github.io/)
 
 - [codelove](https://codelove.tw/)
 
-- []()
+- [thevalleyofcode](https://thevalleyofcode.com/)
 
 - []()
 
+## 教學站
+
+- [Fooish 程式技術](https://www.fooish.com/)
+
+- [openhome](https://openhome.cc/zh-tw/javascript/)
+
+- [深入現代前端開發](https://f2e.kalan.dev/javascript-basic/2.html)
+
+- [ES6 入門教學 阮一峰](https://es6.ruanyifeng.com/#README)
+
+- [網道（WangDoc.com）是一個文件網站](https://wangdoc.com/)
+
+- [Node.js 從零開始](https://ithelp.ithome.com.tw/users/20119300/ironman)
+
+- [黑馬程式設計師前端](https://www.zhihu.com/org/hei-ma-cheng-xu-yuan-qian-duan)
+
+- [黑馬程式設計師官方](https://blog.csdn.net/itcast_cn?type=blog)
+  - https://space.bilibili.com/37974444
+
 - []()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- []()
 
 ## 2024年web前端开发学习路线图
+
+- ### [roadmap.sh](https://roadmap.sh/)
+
 - [2024年web前端開發學習路線圖](https://www.bilibili.com/read/cv10431130/)
 
-- ### [黑马程序员前端—HTML+CSS专栏](https://www.zhihu.com/column/c_1585649072823918592)
-    
+- ### [黑马程序员前端—HTML+CSS专栏](https://www.zhihu.com/column/c_1585649072823918592) 
 - [JS Play ground](https://playcode.io/)
 - [CSS LESS Play ground](http://lesscssismore.com/o85wui/)
 
@@ -229,12 +274,11 @@
 
 - []()
 
-
-
 ## 前端Web开发HTML5+CSS3+移动web视频教程
+
 - [前端Web开发HTML5+CSS3+移动web视频教程](https://www.bilibili.com/video/BV1kM4y127Li/)
 
-- [ :+1: 黑马程序员pink老师前端入门教程](https://www.bilibili.com/video/BV14J4114768)
+- [:+1: 黑马程序员pink老师前端入门教程](https://www.bilibili.com/video/BV14J4114768)
     - Mr. Pink 10M views
     - [Github note](https://github.com/willzhao77/html_css_material)
 
@@ -258,6 +302,7 @@
 - [HTML相关知识【黑马程序员前端】](https://blog.csdn.net/m0_46629123/article/details/132079338)
 
 ## Difference between HTML and HTML5
+
 - [Difference between HTML and HTML5](https://www.geeksforgeeks.org/difference-between-html-and-html5/)
 
 - [HTML5 - Tags Reference](https://www.tutorialspoint.com/html5/html5_tags.htm)
@@ -271,6 +316,14 @@
 - [菜雞小海獺的前端成長之旅](https://ithelp.ithome.com.tw/users/20161801/ironman/5981)
 
 - [後轉前要多久](https://ithelp.ithome.com.tw/users/20125192/ironman)
+
+- [前端路上那些重要與不重要的小事](https://ithelp.ithome.com.tw/users/20065859/ironman)
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
@@ -287,6 +340,7 @@ Difference between "> or " /> in HTML
 - []()
 
 ## HTML5
+
 - [網頁設計基礎](https://waxdoll.gitbooks.io/webdesignfoundations/content/index.html)
 
 - [網頁設計 HTML5 & CSS3 - TS 教學講義](http://tsweb44.com/TS_HTML5CSS3_4/TSwrite/index.html)
@@ -308,9 +362,9 @@ Difference between "> or " /> in HTML
 
 - [html](https://www.fooish.com/html/)
 
-- []()
+- [:o:【Udemy排名第一的 HTML5+CSS3 课程】](https://www.bilibili.com/video/BV1A34y1e7wL)
 
-- []()
+- [wangdoc](https://wangdoc.com/)
 
 - []()
 
@@ -323,6 +377,7 @@ Difference between "> or " /> in HTML
 - [W3 school css selector](https://www.w3school.com.cn/cssref/css_selectors.asp)
 
 - [:+1: 金魚都能懂的 CSS 選取器](https://ithelp.ithome.com.tw/users/20112550/ironman/2799)
+    - https://csscoke.com/
 
 - [重新學習網頁設計](https://ithelp.ithome.com.tw/users/20102825/ironman/1314)
 
@@ -512,7 +567,7 @@ Difference between "> or " /> in HTML
 
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/javascript/)
 
-- []()
+- [你不懂JS（系列叢書）](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN?tab=readme-ov-file#%E4%BD%A0%E4%B8%8D%E6%87%82js%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6)
 
 - []()
 
@@ -540,6 +595,16 @@ Difference between "> or " /> in HTML
 - http://javascript.klab.tw/teach
 - https://javascript.alphacamp.co/js-free-self-study-resources.html
 
+### Web前端三板斧系列 - 加绒Web3
+- [Web前端三板斧系列](https://www.bilibili.com/video/BV1CL411o7kH)
+- [JS-上：](https://www.bilibili.com/video/BV1CL411o7kH)
+- [JS-下：](https://www.bilibili.com/video/BV1Ba4y1N7MW)
+- [HTML5+CSS3：](https://www.bilibili.com/video/BV1Po4y1s7MC)
+- [Vue3：](https://www.bilibili.com/video/BV1kv4y1G7Jr)
+- [Node.js：](https://www.bilibili.com/video/BV1Zs4y1c7mv)
+
+
+
 ### ES6 Key
 - [Vision 的發文列表](https://ithelp.ithome.com.tw/users/20107907/articles)
 
@@ -550,7 +615,7 @@ Difference between "> or " /> in HTML
 
 - [GG](https://ithelp.ithome.com.tw/users/20107810/ironman)
 
-- []()
+- [](https://surge.sh/)
 
 - []()
 
@@ -589,15 +654,95 @@ Difference between "> or " /> in HTML
 
 - []()
 
-- []()
+### JS DOC
+- [JSDOC](https://jsdoc.app/)
+
+- [使用jsdoc註解並快速產生api文件](https://www.gss.com.tw/blog/javascript%E4%BD%BF%E7%94%A8jsdoc%E8%A8%BB%E8%A7%A3%E4%B8%A6%E5%BF%AB%E9%80%9F%E7%94%A2%E7%94%9Fapi%E6%96%87%E4%BB%B6)
+
+- [JSDoc 入門](https://www.jsdoc.com.cn/)
+
+- [標註工具 JSDoc](https://johnnywang1994.github.io/book/articles/js/jsdoc.html)
+
+- [別擔心，你還可以寫 JSDoc 標注類型](https://israynotarray.com/javascript/20230513/284079926/)
 
 - []()
 
 - []()
 
+- []()
 
+## 柯里化
+
+- [柯里化](https://zh.wikipedia.org/zh-tw/%E6%9F%AF%E9%87%8C%E5%8C%96)
+
+- [柯里化（Currying）](https://zh.javascript.info/currying-partials)
+
+- [Currying in JavaScript](https://www.cythilya.tw/2017/02/27/currying-in-javascript/)
+
+- [柯里化(Currying) 學習](https://cate50503.medium.com/%E6%9F%AF%E9%87%8C%E5%8C%96-currying-%E5%AD%B8%E7%BF%92-e4b69bc4166b)
+
+- [第 4 章：Curry（柯里化）](https://jigsawye.gitbooks.io/mostly-adequate-guide/content/ch4.html)
+
+- [函数柯里化](https://tsejx.github.io/javascript-guidebook/core-modules/ecmascript-function-objects/function-types/function-currying/)
+
+- [第 4 章: 柯里化（curry）](https://llh911001.gitbook.io/mostly-adequate-guide-chinese/ch4)
+
+- [JavaScript 之路，往前邁進吧](https://ithelp.ithome.com.tw/users/20151114/ironman/5425)
+
+- [從技術文章深入學習 JavaScript](https://ithelp.ithome.com.tw/users/20124350/ironman/3019)
+
+- []()
+
+### Javascript 分號戰爭
+
+- [Javascript 分號戰爭](https://medium.com/cypressyi-technote/javascript-%E5%88%86%E8%99%9F%E6%88%B0%E7%88%AD-4652b218bdf9)
+
+``` txt
+不加分號
+嚴格上來說不加分號其實不是不加，而是在開頭是：
+
++ — [  (  /  `
+這樣的句子才加，因為這些句子是實際會造成 ASI 判斷錯誤的因素，
+優點是你只需要遵循上面的規則，比起向前去看 { 開頭片段，判斷需
+不需要加上分號來說，思維負擔會比較小，StandardJS 主要推薦這
+樣的格式。
+```
+
+- [standardjs](https://standardjs.com/)
+
+- [ES6 Destructuring Assignment 解構賦值](https://medium.com/cypressyi-technote/es6-destructuring-assignment-%E8%A7%A3%E6%A7%8B%E8%B3%A6%E5%80%BC-398ceb7e9cac)
+
+- []()
+
+## ES6 Destructuring Assignment 解構賦值
+
+- [ES6 Destructuring Assignment 解構賦值](https://medium.com/cypressyi-technote/es6-destructuring-assignment-%E8%A7%A3%E6%A7%8B%E8%B3%A6%E5%80%BC-398ceb7e9cac)
+
+## Netlify
+
+- [Netlify](https://app.netlify.com/teams/ert-clee/overview)
+
+- [netlify 超佛心的靜態網站hosting服務](https://blog.alantsai.net/posts/2018/07/migrate-blog-to-ssg-demo-devops-8-netlify-free-static-site-hosting-service)
+
+- [《賴田捕手：番外篇》第 36 天：用 Netlify 佈署前端網頁 (一)](https://ithelp.ithome.com.tw/tags/articles/netlify)
+    - https://ithelp.ithome.com.tw/users/20120178/articles
+
+- [三步驟用 Netlify 輕鬆架網站](https://bojne.medium.com/%E4%B8%89%E6%AD%A5%E9%A9%9F%E7%94%A8-netlify-%E8%BC%95%E9%AC%86%E6%9E%B6%E7%B6%B2%E7%AB%99-67d65ce135f6)
+
+- [surge](https://surge.sh/)
+
+- [靜態網頁部署 Github pages、Surge.sh、Netlify](https://medium.com/cypressyi-technote/%E9%9D%9C%E6%85%8B%E7%B6%B2%E9%A0%81%E9%83%A8%E7%BD%B2-github-pages-surge-sh-netlify-8bc8ac7123b0)
+
+- [使用 Surge.sh 部署](https://www.nuxtjs.cn/faq/surge-deployment)
+
+- [getsomecat](https://github.com/getsomecat/GetSomeCats)
+
+- []()
+
+- []()
 
 ### JS Plugin - swiper
+
 - [swiperjs](https://swiperjs.com/)
 
 - [Swiper cn](https://www.swiper.com.cn/)
@@ -617,25 +762,20 @@ Difference between "> or " /> in HTML
 - []()
 
 ### SlideShow -JS lib
-- Swiper
-https://swiperjs.com/
-Swiper 中文版
-https://www.swiper.com.cn/
-Swiper 各版本
-https://unpkg.com/browse/swiper@6.4.5/
-- Slick
-http://kenwheeler.github.io/slick/
-- Splide
-https://splidejs.com/
-- Glide
-https://glidejs.com/
-- PIGNOSE
-https://www.pigno.se/barn/PIGNOSE-ParallaxSlider/
+- [Swiper](https://swiperjs.com/)
+- [Swiper 中文版](https://www.swiper.com.cn/)
+- [Swiper 各版本](https://unpkg.com/browse/swiper@6.4.5/)
+- [Slick](http://kenwheeler.github.io/slick/)
+- [Splide](https://splidejs.com/)
+- [Glide](https://glidejs.com/)
+- [PIGNOSE](https://www.pigno.se/barn/PIGNOSE-ParallaxSlider/)
+
 ### LightBox
-- Magnific Popup
-https://dimsemenov.com/plugins/magnific-popup/
- 
+
+- [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/)
+
 ### Lodash
+
 - [Lodash](https://lodash.com/)
 
 - [Lodash CN](https://www.lodashjs.com/)
@@ -648,9 +788,56 @@ https://dimsemenov.com/plugins/magnific-popup/
 
 - [Lodash - 讓你事半功倍的好工具](https://hsueh-jen.gitbooks.io/webcrawler/content/lesson-3-pa-chong-tao-jian/lodash.html)
 
+### Leaflet library: MAP, GIS
+
+- [leafletjs](https://leafletjs.com/)
+
+- [Leaflet新手村](https://hackmd.io/@MQnk0oZ2QV2lvIEV6IY1Wg/ryJF8EcFd)
+
+- [使用Leaflet及Folium開啟網頁地圖大門](https://ithelp.ithome.com.tw/users/20112552/ironman/2074)
+
+- [OSM + Leaflet 學習筆記 1](https://www.letswrite.tw/leaflet-osm-basic/)
+
+- [[WebGIS教學系列]Leaflet新手教學](https://www.spatialgeolab.com/leaftlet-tutorial-taichungps/)
+
+- 快速建構地圖服務（一） - 認識 HERE Studio / Data Hub](https://ithelp.ithome.com.tw/articles/10235386)
+
+- [Leaflet 教程](https://leafletjs.cn/examples.html)
+
+- []()
+
+- []()
+
+### Public API
+
+- [Public API](https://github.com/public-apis/public-apis)
+
+- [第三方 API 整理](https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E7%AC%AC%E4%B8%89%E6%96%B9-api-%E6%95%B4%E7%90%86-115868a56959)
+
+- [rapidapi](https://rapidapi.com/collection/list-of-free-apis)
+
+- [Public API](https://github.com/public-api-lists/public-api-lists)
+
+- [free-apis](https://free-apis.github.io/#/)
+
+- [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+- [dummyjson](https://dummyjson.com/)
+
+- [forkify-api](https://forkify-api.herokuapp.com/v2)
+    - https://github.com/Djarma12/Forkify
+    - https://github.com/BerkAbay/JS-Forkify
+
+- []()
+
+- []()
+
+- []()
+
 ---
 
 ## jQuery
+
 - [黑马程序员前端基础教程|jQuery网页开发案例精讲](https://www.bilibili.com/video/BV1a4411w7Gx)
 
 - [jQuery入门到精通全套完整版-Web前端jQuery初学者零基础学习实战](https://www.bilibili.com/video/BV1Jg4y1B7n4)
@@ -665,7 +852,7 @@ https://dimsemenov.com/plugins/magnific-popup/
     - https://github.com/ohlaixinyu?tab=repositories
     - https://blog.csdn.net/CaptainDrake/article/details/129231893
     - https://blog.csdn.net/m0_57265007/article/details/127182954
-    - 
+
 - [黑马前端jquery-pink老师 2021](https://www.bilibili.com/video/BV1wo4y1R7t6)
 
 - [pink老师的es6  2019全新javaScript进阶面向对象ES6](https://www.bilibili.com/video/BV1Kt411w7MP)
@@ -746,6 +933,7 @@ http://www.ptt.cc/bbs/Ajax/M.1227954896.A.9A7.html
 http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 ### jQuery plugin
+
 - [jq22](https://www.jq22.com/)
 
 - [jQuery之家](http://www.htmleaf.com/)
@@ -761,9 +949,21 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - [jQuery全屏滚动插件fullPage.js演示](https://www.dowebok.com/demo/77/)
     - [dowebok-做好网站](https://www.dowebok.com/)
 
+## E-chart and D3.js
+- [三十天成為D3.js v7 好手](https://ithelp.ithome.com.tw/users/20134930/ironman/4181)
 
+- [echarts](https://echarts.apache.org/zh/index.html)
+
+- [Canvas]()
+
+- [一次性学会 Canvas 动画绘图（核心精讲+50个案例）2023最新教程](https://www.bilibili.com/video/BV16T411B7kP)
+
+- []()
+
+- []()
 
 ## Ajax
+
 - [黑马程序员前端AJAX入门到实战全套教程，包含学前端框架必会的（ajax+node.js+webpack+git），一套全覆盖](https://www.bilibili.com/video/BV1MN411y7pw)
 
 - [黑马前端2023新版AJAX从入门到项目实战全套教程，ajax前后端数据交互解决方案](https://www.bilibili.com/video/BV1Tz4y1v76j)
@@ -794,15 +994,15 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [Google ajax教學](https://www.google.com/search?newwindow=1&sca_esv=597753161&sxsrf=ACQVn084DBz6zQ5fZGZ4L2hjWYp2oVTYSw:1705050084551&q=ajax%E6%95%99%E5%AD%B8&sa=X&ved=2ahUKEwj9oPTEvteDAxW73TQHHTsMDOQQ1QJ6BAglEAE&biw=1422&bih=671&dpr=1.25)
 
-
 - [JS 入門 – AJAX](https://hackmd.io/@peggyted0129/SJqzl5Ay_)
 
 - [mdn ajax](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
-- [前端三分鐘 ](https://ithelp.ithome.com.tw/users/20130026/ironman/5783?page=1)
+- [前端三分鐘](https://ithelp.ithome.com.tw/users/20130026/ironman/5783?page=1)
 
 - [AJAX 完整解說系列](https://www.casper.tw/development/2020/09/30/about-ajax/)
-    - [基礎 AJAX 練習使用 jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+- [基礎 AJAX 練習使用 jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 - [JavaScript -- ajax相关知识点的笔记](https://blog.csdn.net/m0_56387086/article/details/126402626)
     - https://gitee.com/zheng-zhifan/projects
@@ -881,17 +1081,19 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - []()
 
+## Fetch and XMLRequest()
+
 - []()
 
-
 ### Javascript promise
+
 - [Google javascript Promise bilibili](https://www.google.com.tw/search?q=javascript+Promise+bilibili&newwindow=1&sca_esv=597772508&biw=1580&bih=746&tbm=vid&sxsrf=ACQVn09PZ-YOCI9VTANWrirwEoTk0qBqwQ%3A1705059002520&ei=uiKhZYWuH8al2roPy6Ws2Ag&ved=0ahUKEwiF86nh39eDAxXGklYBHcsSC4sQ4dUDCA0&uact=5&oq=javascript+Promise+bilibili&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhtqYXZhc2NyaXB0IFByb21pc2UgYmlsaWJpbGkyBRAhGKABSIZ1UPESWP5xcAN4AJABAJgBfaABxAiqAQQxMS4yuAEDyAEA-AEBwgIEECMYJ8ICBRAAGIAEwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTCAgcQIRgKGKABiAYB&sclient=gws-wiz-video)
 
 - [最好理解的Promise教程](https://www.bilibili.com/video/BV1454y1R7vj)
 
-- [JavaScript Promise 全介紹
-](https://www.casper.tw/development/2020/02/16/all-new-promise/)
-
+- [JavaScript Promise 全介紹](https://www.casper.tw/development/2020/02/16/all-new-promise/)
+  - [:+1: Jasper](https://ithelp.ithome.com.tw/users/20083608/ironman)
+  
 - [ES6 Promise的用法，ES7 async/await异步处理同步化](https://www.bilibili.com/video/BV1XW4y1v7Md)
 
 - [共读系列-现代JavaScript教程-Episode12-异步编程/Asynchronous/回调函数/回调地狱/CallBack/期约/Promise](https://www.bilibili.com/video/BV1pY4y1E7HN/?vd_source=b7ed8e004bb8d0d23eb933ba6bcc2bb5)
@@ -907,6 +1109,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - []()
 
 ### WangEditor
+
 - [wangEditor 5](https://www.wangeditor.com/)
 
 - [wangEditor](https://github.com/wangeditor-team/wangEditor)
@@ -941,8 +1144,8 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
     - [彭彭的課程教學](https://training.pada-x.com/docs/)
     - [Javascript](https://training.pada-x.com/javascript-start.htm)
 
-
 # Node.JS
+
 - [黑马程序员Node.js全套入门教程](https://www.bilibili.com/video/BV1a34y167AZ/)
 
 - [尚硅谷Node.js零基础视频教程](https://www.bilibili.com/video/BV1gM411W7ex)
@@ -969,7 +1172,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [[學習之路] Node.js 入門教學](https://summer10920.github.io/2020/12-30/article-nodejs/)
 
-- [打造一個漂亮乾淨俐落的 RESTful API ](https://ithelp.ithome.com.tw/users/20107247/ironman/1312)
+- [打造一個漂亮乾淨俐落的 RESTful API](https://ithelp.ithome.com.tw/users/20107247/ironman/1312)
 
 - [13 Object-Oriented Design Patterns for Node.js Developers](https://morioh.com/a/908a1f0f8300/13-object-oriented-design-patterns-for-nodejs-developers)
 
@@ -984,6 +1187,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - []()
 
 ## Deno
+
 - [wikipedia](https://zh.wikipedia.org/zh-tw/Deno)
 
 - []()
@@ -1020,6 +1224,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 
 # VUE 2, 3
+
 - [Vue2+Vue3](https://www.bilibili.com/video/BV1HV4y1a7n4/)
 
 - [Vue2+Vue3基础入门到实战项目全套教程的学习笔记](https://blog.csdn.net/qq_44154915/article/details/132968498)
@@ -1065,6 +1270,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - []()
 
 ### Vue 核心技术与实战 智慧商城
+
 - [接口文档](https://apifox.com/apidoc/shared-12ab6b18-adc2-444c-ad11-0e60f5693f66/doc-2221080)
 
 - [演示地址](http://cba.itlike.com/public/mweb/#/)
@@ -1093,9 +1299,6 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - [newbee-mall](https://github.com/newbee-ltd/newbee-mall-vue3-app)
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
-
-- [i-hate-regex](https://github.com/geongeorge/i-hate-regex)
-    - https://ihateregex.io/
 
 - [projects](https://gitee.com/colyha/projects)
 
@@ -1212,7 +1415,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 ## Utils
 
-### Webpack
+### Webpack, Parcel, Yarn, Vite
 - [尚硅谷Webpack5入门到原理](https://www.bilibili.com/video/BV14T4y1z7sw)
 
 - [webpack详解](https://blog.csdn.net/qq_43743402/article/details/123652090)
@@ -1223,30 +1426,19 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - []()
 
-## Utils
-
-### Vite
 - []()
 
 - []()
 
 - []()
 
-### Yarn
+### npm, npx, Pnpm
 - []()
 
 - []()
 
 - []()
 
-### Pnpm
-- []()
-
-- []()
-
-- []()
-
-### npx
 - []()
 
 - []()
@@ -1325,7 +1517,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [在 React 生態圈內打滾的一年 feat. TypeScript](https://ithelp.ithome.com.tw/users/20106935/ironman)
 
-- []()
+- [React 給新手的入門磚](https://app.heptabase.com/w/42324c8e9245bf332423e50a02f098a2e8b35a164cd22447c879d6e2215a99c6?id=029c9732-a564-48fb-bae9-fc10a5de5b94)
 
 - []()
 
@@ -1499,13 +1691,13 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [前端轉職人生](https://ithelp.ithome.com.tw/users/20162644/ironman/6495)
 
-- [CSScoke](https://ithelp.ithome.com.tw/users/20112550/ironman)
-    - 金魚都能懂的CSS必學屬性
-    - 金魚都能懂的Bootstrap5網頁框架開發
-    - 金魚都能懂的 CSS 選取器
-    - 金魚都能懂的這個網頁畫面怎麼切
-    - 連續30天的超實務網頁設計的垂直置中教學
-    - 金魚都能懂的網頁設計入門
+- [CSScoke 金魚都能懂的](https://ithelp.ithome.com.tw/users/20112550/ironman)
+  - 金魚都能懂的CSS必學屬性
+  - 金魚都能懂的Bootstrap5網頁框架開發
+  - 金魚都能懂的 CSS 選取器
+  - 金魚都能懂的這個網頁畫面怎麼切
+  - 連續30天的超實務網頁設計的垂直置中教學
+  - 金魚都能懂的網頁設計入門
 
 - []()
 
@@ -1531,7 +1723,17 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 - https://ithelp.ithome.com.tw/2023ironman
 - 
 
-# Truetype
+# Typescript
+
+- [:+1:【Udemy教程 Max】2022 TypeScript 从入门到精通](https://www.bilibili.com/video/BV1MF411T7rn)
+  - [Note](https://hackmd.io/AGE13beBR_W2ahOrZGbo2A)
+  - [Max Github](https://github.com/themaximehardy)
+
+- [:+1:【Udemy】TypeScript完整指南 Part-1 Stephen Grider](https://www.bilibili.com/video/BV1yL4y1F7Qg?p=1)
+  - [Part-2](https://www.bilibili.com/video/BV19i4y1m7mg)
+  - [Backup](https://www.bilibili.com/video/BV1KL411K7cH)
+  - [github](https://github.com/StephenGrider/typescriptcasts)
+
 - [TypeScript 基礎入門](https://willh.gitbook.io/typescript-tutorial/)
 
 - [TypeScript 基礎入門](https://hackmd.io/@Heidi-Liu/typescript)
@@ -1577,15 +1779,75 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [TypeScript 中文手册](https://typescript.bootcss.com/)
 
-- []()
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
+
+- [typescript-book-chinese](https://jkchao.github.io/typescript-book-chinese/)
+
+- [typescript-book-chinese](https://www.fly63.com/nav/2346)
+
+- [深入理解TypeScript](https://www.manongbook.com/front/1487.html)
+
+- [Rayeee 的 TypeScript 的學習日記](https://ithelp.ithome.com.tw/users/20162544/ironman/6560)
+
+- [:+1:TypeScript 學習之路](https://magiclen.org/typescript-introduction/)
+
+- [:+1:讓 TypeScript 成為你全端開發的 ACE](https://ithelp.ithome.com.tw/users/20120614/ironman/2685)
 
 - []()
 
 - []()
 
 - []()
+
+- []()
+
+### Decorator
+
+- [十分鐘帶你了解 TypeScript Decorator](https://oldmo860617.medium.com/%E5%8D%81%E5%88%86%E9%90%98%E5%B8%B6%E4%BD%A0%E4%BA%86%E8%A7%A3-typescript-decorator-48c2ae9e246d)
+
+- [用 TypeScript 中的裝飾器 (Decorators) 做 Logging](https://hackmd.io/@sherman/HJOGZQ_1P)
+
+- [理解TS装饰器Decorator](https://blog.csdn.net/weixin_43443341/article/details/124316254)
+
+- [Decorators](https://typescript.bootcss.com/decorators.html)
+
+- [TypeScript 學習之路─第十八章：裝飾器(Decorator)](https://magiclen.org/typescript-decorator/)
+
+- 不會JavaScript也可以直接學TypeScript！TypeScript學習之路系列文章，共18章：
+  - [第一章：認識TypeScript](https://magiclen.org/typescript-introduction/)
+  - [第二章：用TypeScript寫個猜數字程式吧！](https://magiclen.org/typescript-guess-number/)
+  - [第三章：在Node.js專案中使用TypeScript](https://magiclen.org/typescript-nodejs/)
+  - [第四章：TypeScript程式語言的基礎概念](https://magiclen.org/typescript-concepts/)
+  - [第五章：TypeScript程式語言的物件](https://magiclen.org/typescript-object/)
+  - [第六章：TypeScript程式語言的介面和抽象](https://magiclen.org/typescript-interface-abstract-class/)
+  - [第七章：TypeScript程式語言的列舉](https://magiclen.org/typescript-enum/)
+  - [第八章：TypeScript程式語言的泛型](https://magiclen.org/typescript-generics/)
+  - [第九章：進階的型別用法](https://magiclen.org/typescript-advanced-type/)
+  - [第十章：陣列和物件的解構(Destructuring)](https://magiclen.org/typescript-destructuring/)
+  - [第十一章：try-catch 錯誤處理](https://magiclen.org/typescript-try-catch/)
+  - [第十二章：迭代器(Iterator)與產生器(Generator)](https://magiclen.org/typescript-iterator-generator/)
+  - [第十三章：事件循環(Event Loop)與回呼函數(Callback Function)](https://magiclen.org/typescript-event-loop-callback/)
+  - [第十四章：用Promise把非同步程式寫成同步的樣子](https://magiclen.org/typescript-promise/)
+  - [第十五章：用「async / await」語法擺脫難以閱讀的非同步程式](https://magiclen.org/typescript-async-await/)
+  - [第十六章：模組](https://magiclen.org/typescript-module/)
+  - [第十七章：命名空間(namespace)](https://magiclen.org/typescript-namespace/)
+  - [第十八章：裝飾器(Decorator)](https://magiclen.org/typescript-decorator/)
+  - [第十八章：格式化文字](https://magiclen.org/rust-formatted-string/)
+  - [學完了怎麼辦？這邊還有更多讓你學📣📣](https://magiclen.org/category/node-js/)
+
+- []()
+
+- [如何用JavaScript偵測網頁瀏覽器是否有擋廣告？](https://magiclen.org/adblock-checker/)
+
+- [class-transformer](https://github.com/typestack/class-transformer)
+  - [CN](https://juejin.cn/post/6844904117115027463)
+
+- [class-validator](https://github.com/typestack/class-validator)
+
+
 
 # Bebal
+
 - [Bebal](https://babeljs.io/)
 
 - [Bebal CN](https://www.babeljs.cn/)
@@ -1695,7 +1957,8 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - []()
 
-## Regular Expression
+## Regular Expression(REXP, RE)
+
 - [Google 正則表達式](https://www.google.com/search?q=%E6%AD%A3%E5%89%87%E8%A1%A8%E9%81%94%E5%BC%8F&newwindow=1&sca_esv=596828094&sxsrf=ACQVn091BpHXgWstSzPZFtplP_KD7jdysg%3A1704790359506&ei=VwmdZdy2HuKp2roPk-OpmAQ&ved=0ahUKEwicvq3-9s-DAxXilFYBHZNxCkMQ4dUDCBA&uact=5&oq=%E6%AD%A3%E5%89%87%E8%A1%A8%E9%81%94%E5%BC%8F&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-ato-WJh-ihqOmBlOW8jzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeSO0CUABYAHAAeAGQAQCYAVigAViqAQExuAEDyAEA-AEB4gMEGAAgQYgGAQ&sclient=gws-wiz-serp#ip=1)
 
 - [JavaScript：Regex 正則表達式](https://heidiliu2020.github.io/regex/)
@@ -1710,7 +1973,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [正規表示式（Regular Expression）](https://hackmd.io/@aaronlife/regular-expression)
 
-### RE online
+### RExp online
 - [正則表達式在線測試工具](https://coding.tools/tw/regex-tester)
 
 - [:+1: Regex Tester](https://tw.piliapp.com/regex-tester/#javascript)
@@ -1738,7 +2001,7 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 - [yaml是什麼? 能吃嗎? 和json有甚麼不同](https://jing-siao.github.io/ymlAndJson/)
 
-- []()
+- [typescript 5 vs 4](https://www.toimc.com/typescript-5-vs-4/)
 
 - [在 GitHub Pages 上部署 Hexo](https://hexo.io/zh-tw/docs/github-pages.html)
 - []()
@@ -1873,8 +2136,69 @@ JavaScript 異步編程是一個重要的主題，特別是在處理 Web 開發�
 
 - []()
 
+- []()
+
+# LeetCode
+- [Leetcode刷題學習筆記](https://hackmd.io/@meyr543/r1skFcvgY)
+
+- [前端工程師用 javaScript 學演算法](https://ithelp.ithome.com.tw/users/20106426/ironman)
+
+- [高中生程式解題系統](https://zerojudge.tw/)
+
+- [Awesome CS Training](https://github.com/goodjack/awesome-cs-training)
+
+- [codewars](https://www.codewars.com/dashboard)
+
+- [leetcode](https://leetcode.com/)
+
+- [mathematicsart](https://mathematicsart.com/solved-exercises/)
+
+- []()
+
+- []()
+
+
+
+## JavaScript Cheatsheet
+- [JavaScript String Cheatsheet: Everything You Need to Know](https://morioh.com/a/165ba2b947b9/javascript-string-cheatsheet-everything-you-need-to-know)
+
+- [Modern JavaScript Cheatsheet: Everything You Need to Know](https://morioh.com/a/4b846cf44a9a/modern-javascript-cheatsheet-everything-you-need-to-know)
+
+- [100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript)
+
+- [100jsprojects](https://www.100jsprojects.com/)
+
+- []()
+
+# Electron
+
+- [【Udemy课程】Electron for Desktop Apps](https://www.bilibili.com/video/BV1pY4y1i7Ac)
+
+- [利用 electron.js 建立桌面 APP ( Windows )](https://hackmd.io/@c36ICNyhQE6-iTXKxoIocg/BJXGRjI4I)
+
+- [快速入門](https://imfly.gitbooks.io/electron-docs-gitbook/content/zh-TW/tutorial/quick-start.html)
+
+- [ElectronJS](https://ithelp.ithome.com.tw/users/20111867/ironman/2941)
+
+- []()
+
+- []()
+
+- []()
+
+## CRUD
+
+- [網頁後端的30件小事](https://ithelp.ithome.com.tw/users/20129556/ironman/3154)
+
+- [React前端工程師的菜鳥學習日記 ](https://ithelp.ithome.com.tw/users/20142045/ironman/5444)
+
+- []()
+
+
+
 ---
-```
+
+``` txt
 關於 HTML 和 CSS 的學習建議，我找到了一些有用的資源和技巧，你可以參考一下：
 
 MDN 是一個非常權威和詳細的網頁開發教程，它涵蓋了 HTML 和 CSS 的基礎知識和進階主題，並提供了許多實例和練習。你可以按照它的順序學習，也可以根據你的需要查找你感興趣的內容。
