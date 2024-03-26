@@ -5,25 +5,30 @@
 
 tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
-- [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
+---
 
-- [Meeting1 - Down](http://meetingwords.com/CP0hu5b6tM)
+- [前端Web開發HTML5+CSS3 Part 1](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
+- [前端Web開發HTML5+CSS3 Part 2](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
 
-- ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
+---
 
-- ### [Data Transfer 資料交換區X](https://hackmd.io/xfCzcuCTQLmGe1x4aq43RA)
+- ### [My backup](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
+
+- [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
+
+- [Data Transfer 資料交換區X](https://hackmd.io/xfCzcuCTQLmGe1x4aq43RA)
 
 - ### [:+1:Home Video 資料交換區](https://hackmd.io/RsyAHjm6Sw2vddPfDtNeYg?both#)
 
-- ### [MeetingWord Backup(20230607)](https://hackmd.io/SvfPzqlESm6MAYC1rDixJw)
+- [MeetingWord Backup(20230607)](https://hackmd.io/SvfPzqlESm6MAYC1rDixJw)
 
-- ### [Temp HackMd(20230120)](https://hackmd.io/7_xuAeqwRPGaMiVdm2S8tQ)
+- [Temp HackMd(20230120)](https://hackmd.io/7_xuAeqwRPGaMiVdm2S8tQ)
 
-- ### [Note3:](https://hackmd.io/jR7Qc2MuTMKqJJQQWyYfHA)
+- [Note3:](https://hackmd.io/jR7Qc2MuTMKqJJQQWyYfHA)
 
-- ### [Note2:](https://hackmd.io/Qhbr1UQ6RBa-j-zR8o7B9w)
+- [Note2:](https://hackmd.io/Qhbr1UQ6RBa-j-zR8o7B9w)
 
-- ### [go link](https://hackmd.io/EA_uxlsrRQO62Hf5lusjcA)
+- [go link](https://hackmd.io/EA_uxlsrRQO62Hf5lusjcA)
 
 - ### [Rust Link](https://hackmd.io/6fXSw_GFSIKFMksSOmyvQw)
 
@@ -106,7 +111,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [:dart: jsfiddle](https://jsfiddle.net/)
 
 - [:o: replit](https://replit.com/~)
-    - pwd: aA...
+  - pwd: aA...
 
 - [:o: paiza](https://paiza.io/projects/Nz0h-djQlzT-HdFOkRUoFQ?language=c)
 
@@ -128,9 +133,15 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [codesandbox](https://codesandbox.io/p/sandbox/typescript-form-validator-bkdkp)
 
+- [stackblitz](https://stackblitz.com/)
+
 - [Runit](https://runkit.com/ertclee)
 
-- []()
+- [Meee 圖床](https://meee.com.tw/)
+
+- [angular](https://angular.dev/playground)
+
+- [primeng](https://primeng.org/)
 
 - []()
 
@@ -144,18 +155,13 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [工具邦](https://tw.piliapp.com/)
 
-- []()
-
----
-
-- [前端Web開發HTML5+CSS3 Part 1](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
-- [前端Web開發HTML5+CSS3 Part 2](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
+- [Unicode UTF-8](https://life.huli.tw/2022/05/21/what-is-encoding-ascii-unicode-utf8-5fe55a98bee0/)
 
 ---
 
 ## 小马技术官网
 - 小马技术官网
-    - [官网](https://komavideo.com/)
+  - [官网](https://komavideo.com/)
     - [播單一覽](https://komavideo.com/tag/)
     - [深学AWS](https://deeplearnaws.com/)
     - [深学Azure](https://deeplearnazure.com/)
@@ -213,7 +219,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [Node.js 概述 阮一峰](https://javascript.ruanyifeng.com/nodejs/basic.html#)
 
-- []()
+- [Node.js 實戰密技](https://ithelp.ithome.com.tw/users/20083608/ironman)
 
 - []()
 
@@ -411,7 +417,7 @@ Difference between "> or " /> in HTML
 - [CSS選擇器介紹( 1 )](https://medium.com/ui-ux%E7%B7%B4%E5%8A%9F%E5%9D%8A/css%E9%81%B8%E6%93%87%E5%99%A8%E4%BB%8B%E7%B4%B9-1-ec19bc5b33a)
 
 - [30個你必須記住的CSS選擇器](https://webdesign.tutsplus.com/zh-hant/the-30-css-selectors-you-must-memorize--net-16048t)
-    - [CSS](https://webdesign.tutsplus.com/c/htmlcss/s/css)
+  - [CSS](https://webdesign.tutsplus.com/c/htmlcss/s/css)
 
 - [重新認識 CSS - Attribute selector (屬性選擇器)](https://titangene.github.io/article/css-attribute-selector.html)
 
@@ -429,7 +435,7 @@ Difference between "> or " /> in HTML
 
 - [30 天打造我的前端武器庫](https://ithelp.ithome.com.tw/users/20129991/ironman/4968)
 
-- [30 天前端學習心得 ](https://ithelp.ithome.com.tw/users/20129991/ironman/4966)
+- [30 天前端學習心得](https://ithelp.ithome.com.tw/users/20129991/ironman/4966)
 
 - [網路技術學習筆記](https://ithelp.ithome.com.tw/users/20091785/ironman/941)
 
@@ -462,6 +468,7 @@ Difference between "> or " /> in HTML
 - []()
 
 ### 偽類和偽元素
+
 - :+1: [CSS FAQ】偽元素 (pseudo element) 和偽類 (pseudo class) 差在哪？](https://stringpiggy.hpd.io/pseudo-element-pseudo-class-difference/)
 
 - [偽元素和偽類差別在哪？](https://medium.com/cs%E8%87%AA%E5%AD%B8%E4%B9%8B%E8%B7%AF/%E5%81%BD%E5%85%83%E7%B4%A0%E5%92%8C%E5%81%BD%E9%A1%9E%E5%B7%AE%E5%88%A5%E5%9C%A8%E5%93%AA-ced08e0b7399)
@@ -688,7 +695,7 @@ Difference between "> or " /> in HTML
 
 - [別擔心，你還可以寫 JSDoc 標注類型](https://israynotarray.com/javascript/20230513/284079926/)
 
-- []()
+- [picsum](https://picsum.photos/)
 
 - []()
 
@@ -821,9 +828,9 @@ Difference between "> or " /> in HTML
 
 - [OSM + Leaflet 學習筆記 1](https://www.letswrite.tw/leaflet-osm-basic/)
 
-- [[WebGIS教學系列]Leaflet新手教學](https://www.spatialgeolab.com/leaftlet-tutorial-taichungps/)
+- [WebGIS Leaflet新手教學](https://www.spatialgeolab.com/leaftlet-tutorial-taichungps/)
 
-- 快速建構地圖服務（一） - 認識 HERE Studio / Data Hub](https://ithelp.ithome.com.tw/articles/10235386)
+- [快速建構地圖服務](https://ithelp.ithome.com.tw/articles/10235386)
 
 - [Leaflet 教程](https://leafletjs.cn/examples.html)
 
@@ -832,7 +839,9 @@ Difference between "> or " /> in HTML
 
 - [QR code api](https://goqr.me/)
 
-- []()
+### Mapbox
+
+- [打造你的主題地圖](https://ithelp.ithome.com.tw/users/20152687/ironman/5887)
 
 ### Public API
 
@@ -858,7 +867,7 @@ Difference between "> or " /> in HTML
 
 - [faker runit](https://npm.runkit.com/%40faker-js%2Ffaker)
 
-- [前端工程師不能不知道的生產力工具](https://ithelp.ithome.com.tw/users/20110962/ironman)
+- [前端工程師的生產力工具](https://ithelp.ithome.com.tw/users/20110962/ironman)
 
 - [Starship API](https://swapi.dev/)
 
@@ -879,13 +888,13 @@ Difference between "> or " /> in HTML
 
 ## jQuery
 
-- [黑马程序员前端基础教程|jQuery网页开发案例精讲](https://www.bilibili.com/video/BV1a4411w7Gx)
+- [黑马jQuery精讲](https://www.bilibili.com/video/BV1a4411w7Gx)
 
-- [jQuery入门到精通全套完整版-Web前端jQuery初学者零基础学习实战](https://www.bilibili.com/video/BV1Jg4y1B7n4)
+- [jQuery入门到精通](https://www.bilibili.com/video/BV1Jg4y1B7n4)
 
-- [5天完全学会【jQuery】有案例、有项目，带你从放弃到精通！](https://www.bilibili.com/video/BV1sL411P7Sf)
+- [5天完全学会jQuery](https://www.bilibili.com/video/BV1sL411P7Sf)
 
-- [:+1: pink老师的jQuery 黑马程序员前端基础教程|jQuery网页开发案例精讲 2019](https://www.bilibili.com/video/BV1a4411w7Gx)
+- [:+1: pink的jQuery 2019](https://www.bilibili.com/video/BV1a4411w7Gx)
     - https://gitee.com/xiaoqiang001/jquery/tree/master/
     - https://blog.csdn.net/Augenstern_QXL/article/details/117707994
     - https://blog.csdn.net/Augenstern_QXL/article/details/119411810
@@ -896,9 +905,9 @@ Difference between "> or " /> in HTML
 
 - [黑马前端jquery-pink老师 2021](https://www.bilibili.com/video/BV1wo4y1R7t6)
 
-- [pink老师的es6  2019全新javaScript进阶面向对象ES6](https://www.bilibili.com/video/BV1Kt411w7MP)
+- [pink的es6 2019全新javaScript进阶面向对象ES6](https://www.bilibili.com/video/BV1Kt411w7MP)
 
-- [黑马前端pink老师——jQuery入门基础学习笔记](https://blog.csdn.net/weixin_44566194/article/details/127601313)
+- [黑马pink老师——jQuery入门基础学习笔记](https://blog.csdn.net/weixin_44566194/article/details/127601313)
 
 - [javascript-study](https://github.com/LinJingOK/javascript-study)
     - https://github.com/LinJingOK/jQuery-study
@@ -908,7 +917,7 @@ Difference between "> or " /> in HTML
 
 - [[JS]JQuery 引入、入口函数、JQuery 对象](https://blog.csdn.net/m0_53022813/article/details/127736409?spm=a2c6h.12873639.article-detail.56.1e1c5cf9eRQvgg)
 
-- [JavaScript前端课程-dom-bom-js-es6新语法-jQuery-数据可视化echarts黑马pink老师前端入门基础视频教程(500多集)持续](https://www.bilibili.com/video/BV1Sy4y1C7ha)
+- [黑马pink老师前端入门基础(500多集)](https://www.bilibili.com/video/BV1Sy4y1C7ha)
 
 - [front-notes](https://github.com/ironartisan/front-notes)
 
@@ -1005,13 +1014,13 @@ http://www.ptt.cc/bbs/Ajax/M.1228036140.A.559.html
 
 ## Ajax
 
-- [黑马程序员前端AJAX入门到实战全套教程，包含学前端框架必会的（ajax+node.js+webpack+git），一套全覆盖](https://www.bilibili.com/video/BV1MN411y7pw)
+- [黑马AJAX（ajax+node.js+webpack+git）](https://www.bilibili.com/video/BV1MN411y7pw)
 
-- [黑马前端2023新版AJAX从入门到项目实战全套教程，ajax前后端数据交互解决方案](https://www.bilibili.com/video/BV1Tz4y1v76j)
+- [黑马前端2023新版AJAX](https://www.bilibili.com/video/BV1Tz4y1v76j)
 
 - [【尚硅谷】3小时Ajax入门到精通](https://www.bilibili.com/video/BV1WC4y1b78y)
 
-- [3小时带你玩转jQuery+Ajax（前端开发-从入门到精通）](https://www.bilibili.com/video/BV19L4y1v7Dy)
+- [3小时带你玩转jQuery+Ajax](https://www.bilibili.com/video/BV19L4y1v7Dy)
 
 - [黑马---ajax学习笔记](https://blog.csdn.net/texry/article/details/128043419)
 
@@ -1459,6 +1468,24 @@ password: LxNgSTnduNw7LhYd
 
 - []()
 
+### pug, ejs, handlebars
+
+- [pug](https://pugjs.org/api/getting-started.html)
+
+- [在 Express 中使用範本引擎](https://expressjs.com/zh-tw/guide/using-template-engines.html)
+
+- [自學程式開發](https://ithelp.ithome.com.tw/users/20120981/ironman/2871)
+
+- [Express 加入 EJS](https://medium.com/@ted31539/node-js-express-%E5%8A%A0%E5%85%A5-ejs-7f7f37316b52)
+
+- [Express、EJS](https://teagan-hsu.coderbridge.io/2021/01/13/express-ejs/)
+
+- [handlebars筆記](https://medium.com/ling-ni-lee/handlebars%E7%AD%86%E8%A8%98-helper%E6%87%89%E7%94%A8-16978fd6c352)
+
+- [handlebars](https://eruditeness.news.blog/2019/08/27/node-js%E5%88%9D%E5%AD%B8%E7%AD%86%E8%A8%989-%E9%80%B2%E4%B8%80%E6%AD%A5%E4%BA%86%E8%A7%A3express-handlebars%E8%AE%8A%E6%95%B8%E4%BD%BF%E7%94%A8%E8%88%87%E8%AA%8D%E8%AD%98helper1/)
+
+- []()
+
 ### Deno
 
 - [wikipedia](https://zh.wikipedia.org/zh-tw/Deno)
@@ -1484,32 +1511,6 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 - []()
 
 - []()
-
-## Next.JS
-
-- [從零開始學習 Next.js](https://ithelp.ithome.com.tw/users/20110504/ironman)
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-要學習 Next.js，建議具備以下知識和技能作為前提：
-
-1. **基本的 HTML、CSS 和 JavaScript：** Next.js 是建立在 React 框架之上的，因此對於 HTML、CSS 和 JavaScript 的基本知識是必要的。了解 HTML 元素、CSS 樣式和 JavaScript 的 DOM 操作是很重要的。
-
-2. **React 框架：** Next.js 是 React 的應用程式框架，因此對於 React 的基本概念和工作原理要有一定的了解。這包括 JSX 語法、組件、狀態管理、生命週期方法等。
-
-3. **Node.js 和 npm（Node Package Manager）：** Next.js 是基於 Node.js 平台開發的，因此對於 Node.js 的基本概念和 npm 的使用方式要有一定的了解。這包括如何安裝、管理依賴項、運行 Node.js 應用程序等。
-
-4. **基本的網絡開發知識：** 了解 HTTP 協議、客戶端和服務器端之間的通信、網頁的生命週期以及基本的網絡安全性知識是很有幫助的。
-
-5. **前端開發工具：** 熟悉一些常用的前端開發工具，比如代碼編輯器（VS Code、Sublime Text 等）、開發者工具（Chrome DevTools 等）以及版本控制工具（Git 等）。
-
-雖然上述的知識不是學習 Next.js 的絕對必要條件，但它們將有助於更好地理解和應用 Next.js 框架。特別是對於 React 和 Node.js 的熟悉程度，直接影響了你對 Next.js 的學習和應用效果。如果你已經具備了上述的知識和技能，那麼學習 Next.js 將會更加輕鬆和有趣。
 
 
 # VUE 2, 3
@@ -1774,7 +1775,7 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 - [Bootstrap 套件不可不知的 7 大技能](https://vocus.cc/article/63706864fd897800011362e2)
 
 - [[基礎課程] Bootstrap5 教學（一）](https://summer10920.github.io/2021/02-16/bs5-class-1/)
-    - [洛奇的邪惡組織手札](https://summer10920.github.io/categories/)
+    - [洛奇的手札](https://summer10920.github.io/categories/)
 
 - []()
 
@@ -1784,20 +1785,39 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 - []()
 
-# React &小程序開發
+# React
 
-- [Udemy - Stephen Grider- Modern React with Redux 2019 Update](https://www.bilibili.com/video/BV1Q7411a7X5)
+- [Stephen Grider- Modern React with Redux 2019 Update](https://www.bilibili.com/video/BV1Q7411a7X5)
   - [2022 Part1](https://www.bilibili.com/video/BV1nS4y1z7tg)
   - [2022 Part2](https://www.bilibili.com/video/BV1ov4y1A7as)
+  - [:+1:2024 Part1](https://www.bilibili.com/video/BV1hr421p7P3)
+  - [2024 Part2](https://www.bilibili.com/video/BV11K421t7j2)
+  - [2024 Part3](https://www.bilibili.com/video/BV1xZ42127gA)
+  - [2024 Part4](https://www.bilibili.com/video/BV1ir421p7ar)
+  - [2024 Part5](https://www.bilibili.com/video/BV1wv421k784)
 
-- [NextJS & React - The Complete Guide - Max
-](https://www.bilibili.com/video/BV1Nv41187TA)
+- [React & TypeScript - 实用指南 - Max](https://www.bilibili.com/video/BV17p4y1d7mc)
+  - [React & TypeScript - The Practical Guide 2023-10](https://www.bilibili.com/video/BV18M411D7PA)
+  - 课程资料：pan.baudu.com/s/1rUl-dCRKgX92ZeSIrc29WQ?pwd=inph 提取码: inph
+  - https://github.com/orgs/academind/repositories
+
+- [React 1~7 2023指南 - Max](https://www.bilibili.com/video/BV1LN4y1z78q)
+ 
+- [NextJS & React - The Complete Guide - Max](https://www.bilibili.com/video/BV1Nv41187TA)
+
+- [Jonas React 2024 P1](https://www.bilibili.com/video/BV1gy421z7mn)
+  - [P2](https://www.bilibili.com/video/BV1Wx4y1k7YK)
+  - [P3](#)
+  - [2023 P6](https://www.bilibili.com/video/BV15h4y197FZ)
+  - 課程資料：度盤/s/17aqdX9_hG1agHwzUrLsEOA?pwd=eguk 提取碼: eguk
+  
+
+
+ - [React Doc](https://zh-hans.react.dev/reference/react)
+
+- [黑马程序员前端React18 2023 Chaichai](https://www.bilibili.com/video/BV1ZB4y1Z7o8)
 
 - [React入门到项目实战](https://www.bilibili.com/video/BV1jg4y1x7yD)
-
-- [黑马程序员React从零基础入门 - pink老师推荐 2021](https://www.bilibili.com/video/BV14y4y1g7M4)
-
-- [黑马程序员React从零基础入门 - same as above 2021](https://www.bilibili.com/video/BV1gh411U7JD)
 
 - [尚硅谷React教程](https://www.bilibili.com/video/BV1wy4y1D7JT)
 
@@ -1844,40 +1864,31 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 - [React 走出新手村](https://ithelp.ithome.com.tw/users/20129020/ironman/5968)
 
+- [從React至Redux Saga](https://ithelp.ithome.com.tw/users/20152673/ironman/5863)
+
+- []()
+
 ## Redux
 
 - [Redux 深入淺出](https://ithelp.ithome.com.tw/articles/10287139)
 
 - [Redux的介紹及實戰教學](https://hackmd.io/@Agry/BJWmCg6vq)
 
-- []()
+- [modern-react-with-redux](https://bryan-guner.gitbook.io/my-docs/react_revisited/modern-react-with-redux)
 
 - []()
 
-### 好客租房移动Web
-- [好客租房移动Web](https://blog.csdn.net/itcast_cn/article/details/128904003)
+### SWR
 
-- [好客租房移动web项目（1）](https://blog.csdn.net/qq_31784189/article/details/103356237)
+- [SWR](https://swr.vercel.app/)
 
-- [fanxinhua / 好客租房移动端](https://gitee.com/fanxinhua/hkzf)
+- [React SWR](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/react-swr-485b8e41ef78)
 
-- [young / hkzf-server](https://gitee.com/yroad/hkzf-server)
+- [SPYxFRONTEND](https://ithelp.ithome.com.tw/users/20129873/ironman/5274)
 
-- [黑马广州前端 / React_54_好客租房项目](https://gitee.com/gzqd201802/react_54_hkzf)
-
-- [cuiwuzhi](https://github.com/cuiwuzhi)
-
-- [China-xianyu](https://github.com/China-xianyu)
-
-- [Daazzer](https://github.com/Daazzer)
-
-- [zfp111](https://github.com/zfp111)
+- [react data fetching library - SWR](https://www.morrisctech.com/content/2020/05/24/swr_and_stale_closure/)
 
 - [phpStudy v8.1（32+64位） 版本下载及更新日志](https://www.xp.cn/wenda/401.html)
-
-- [好客租房移动Web（React案例）｜ 青训营](https://juejin.cn/post/7271505439773638696)
-
-- [React好房租客项目：项目搭建与整体布局](https://zhuanlan.zhihu.com/p/613839213)
 
 - [别再用破解版 Navicat 了，几款免费且好用的 SQL 客户端送给你](https://blog.csdn.net/huhigher/article/details/107225846)
 
@@ -1891,14 +1902,10 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 - []()
 
-### React 18
+## React 18
 - [黑马React18(2023): 基础Part 1](https://blog.csdn.net/CaptainDrake/article/details/134510332)
 
 - [黑马React18: 基础Part II](https://blog.csdn.net/CaptainDrake/article/details/134516614)
-
-- [最全的react视频【黑马程序员】2019](https://blog.csdn.net/wgf5845201314/article/details/88794362)
-
-- [B站黑马程序员React教程笔记 (至99P)2021](https://blog.csdn.net/m0_69895544/article/details/126481959)
 
 - [front-end-rss](https://github.com/ChanceYu/front-end-rss)
 
@@ -1913,6 +1920,8 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 
 ## CSS
+
+- [Bulma](https://bulma.io/)
 
 - [CSS浮动详解及案例](https://blog.csdn.net/u010358168/article/details/107168619)
 - [CSS定位详解及案例](https://blog.csdn.net/u010358168/article/details/107117359)
@@ -2100,6 +2109,9 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 - [TypeScript 中文手册](https://typescript.bootcss.com/)
 
+- [TypeScript翻譯](https://www.yuque.com/fechaichai/learningtypescript)
+  - [Chaichai](https://space.bilibili.com/495118923)
+
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 
 - [typescript-book-chinese](https://jkchao.github.io/typescript-book-chinese/)
@@ -2192,37 +2204,10 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 - []()
 
 
-# Angular2 
-- Angular - The Complete Guide (2022 Edition), Max
-  - [Part 1](https://www.bilibili.com/video/BV1yY41177yK)
-  - [Part 2](https://www.bilibili.com/video/BV11Y4y1v7zT)
-  - [Part 3](https://www.bilibili.com/video/BV1Bu411e7bD)
-
-- []()
-
-- []()
-
-- []()
-
-## RxJs
-
-- [打通 RxJS 任督二脈](https://ithelp.ithome.com.tw/users/20020617/ironman)
-
-- [rxjs](https://rxjs.tech/)
-
-- [30 天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman/1199)
-
-- [RxJS 是什麼？](https://ken-chen.medium.com/rxjs-%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%A7%80%E5%AF%9F%E8%80%85-%E8%A2%AB%E8%A7%80%E5%AF%9F%E7%9A%84%E5%B0%8D%E8%B1%A1-a7dd9ded3b4b)
-
-- [RxJS 教學](https://blog.techbridge.cc/2017/12/08/rxjs/)
-
-- [learn-rxjs](https://rxjs-cn.github.io/learn-rxjs-operators/)
-
-- []()
-
 # Projects
 
 ## 小兔鲜儿
+
 - [2023新版前端web入门](https://www.zhihu.com/org/hei-ma-cheng-xu-yuan-qian-duan/posts?page=3)
 
 - [Day 09 - 小兔鲜儿1](https://zhuanlan.zhihu.com/p/627997580)
