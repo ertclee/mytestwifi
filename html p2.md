@@ -1,7 +1,7 @@
 前端Web開發HTML5+CSS3 Part 2
 ===
 
-[![hackmd-github-sync-badge](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w/badge)](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
+[![hackmd-github-sync-badge](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ/badge)](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
 
 tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
@@ -64,6 +64,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [js book](https://github.com/basicExploration/books)
 
+- [Think Speak](https://thingspeak.com/account)
 ---
 
 - CSDN: ertclee@yahoo.com/aA3......0!
@@ -102,6 +103,18 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
   - Why not print pdf?
 - [Paste to Markdown](https://p2m.gh.miniasp.com/)
 
+- [工具邦](https://tw.piliapp.com/)
+
+- [rakko](https://zh-tw.rakko.tools/)
+
+- [ascii](https://ascii.mastervb.net/)
+
+- [ascii](https://www.techmarks.com/ascii-generator/)
+
+- [lowdb](https://github.com/typicode/lowdb)
+
+- []()
+
 - []()
 
 # Playground
@@ -135,9 +148,13 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [Runit](https://runkit.com/ertclee)
 
-- []()
+- [stackblitz](https://stackblitz.com/)
 
-- []()
+- [Meee 圖床](https://meee.com.tw/)
+
+- [angular](https://angular.dev/playground)
+
+- [primeng](https://primeng.org/)
 
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex)
 
@@ -148,6 +165,39 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [regextester](https://www.regextester.com/)
 
 - [工具邦](https://tw.piliapp.com/)
+
+- [:+1:2024前端學習資源](https://www.may-notes.com/free-front-end-collection/)
+
+- [老衛的部落格](https://waylau.com/books/)
+  - https://gitee.com/waylau
+
+- [d3](https://github.com/d3/d3)
+
+- [awesome](https://github.com/sindresorhus/awesome)
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
@@ -168,7 +218,64 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [30個 HackMD 技巧](https://ithelp.ithome.com.tw/users/20121130/ironman/5793)
 
-- []()
+- [Modern Web 2022](https://ithelp.ithome.com.tw/2022ironman/web)
+
+- [Modern Web 2023](https://ithelp.ithome.com.tw/2023ironman/web)
+
+- [I Want To Know JS](https://ithelp.ithome.com.tw/users/20107790/ironman)
+
+- [前端工程師不能不知道的生產力工具](https://ithelp.ithome.com.tw/users/20110962/ironman)
+
+- [使用 Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Using_promises)
+
+- [柴柴_前端教書匠](https://www.yuque.com/fechaichai)
+
+- [dselegent/Learning-Notes](https://github.com/dselegent/Learning-Notes)
+  - https://blog.dselegent.icu/
+
+- [浮雲雅築](https://shaurong.blogspot.com/)
+
+- [30 個 JavaScript 奇妙小技巧](https://codelove.tw/@tony/post/pxdP0x)
+
+- [Web-Check：免費開源的網站資訊檢視工具](https://tools.wingzero.tw/article/sn/2476)
+
+- [提升工作效率的工具](https://codelove.tw/@tony/post/yx06ja)
+
+- [Beyond XSS](https://ithelp.ithome.com.tw/users/20091346/ironman/6155)
+
+- [12 個你應該知道的中英文假字、文章產生器（Lorem Ipsum）](https://free.com.tw/lorem-ipsum-generator/)
+
+- [fakerjs](https://fakerjs.dev/)
+
+- [json-generator](https://json-generator.com/)
+
+- [reqres.in](https://reqres.in/)
+
+- [Dog](https://random.dog)
+
+- [Cat](https://random.cat)
+
+- [openbrewerydb](https://openbrewerydb.org/)
+
+- [next json-generator](https://next.json-generator.com/)
+
+- [publicapis](https://publicapis.dev/category/test-data)
+
+- [mockaroo](https://www.mockaroo.com/)
+
+- [randomuser](https://randomuser.me/)
+
+- [random-data-api](https://random-data-api.com/)
+
+- [free-apis](https://rapidapi.com/collection/best-free-apis)
+
+- [實作串接 API](https://v61265.coderbridge.io/2020/07/22/week4-js-%E5%AF%A6%E4%BD%9C%E4%B8%B2%E6%8E%A5-api/)
+
+- [json5](https://json5.org/)
+
+- [JSON5 解決了 JSON 的兩大痛點](https://juejin.cn/post/6904473733067440142)
+
+- [JSON5 更舒服的 JSON](https://wxnacy.com/2018/02/18/json5/)
 
 - []()
 
@@ -182,17 +289,631 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-- []()
+- [學習30套前端技術(2018)](https://ithelp.ithome.com.tw/users/20091292/ironman)
+
+- [loremflickr](https://loremflickr.com/)
 
 - []()
 
-- []()
-
-### Curl
+### Web Tools
 
 - [Linux Curl Command 指令](https://blog.techbridge.cc/2019/02/01/linux-curl-command-tutorial/)
 
+- [etherpad](https://etherpad.org/)
+
+- [Etherpad](https://zh.wikipedia.org/wiki/Etherpad)
+
+- [lidongxuwork](https://gitee.com/lidongxuwork/projects)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# VS code
+
+- [VS Code Extension之旅](https://ithelp.ithome.com.tw/users/20108634/ironman)
+
+- [前端 Debug 技巧](https://ithelp.ithome.com.tw/users/20129636/ironman/3382)
+
+- [divjoy](https://divjoy.com/)
+
+- [egghead](https://egghead.io/q?access_state=free)
+
+- [前端內參](https://github.com/coffe1891/frontend-hard-mode-interview)
+
+- [apis](https://github.com/craigsdennis/intro-to-apis-course)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Node.JS
+
+- [Node JS Advanced Concepts - Stephen](https://www.bilibili.com/video/BV1mL411W7fb)
+
+- [[一(01-08)]Udemy - Mastering NodeJS with Interview Questions 2024](https://www.bilibili.com/video/BV1MN4y167fZ)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# React18
+
+- [Heima React18](https://www.bilibili.com/video/BV1ZB4y1Z7o8)
+
+- [react學習筆記](https://blog.csdn.net/qq_51986661/article/details/128949647)
+
+- [黑馬React](https://blog.csdn.net/CaptainDrake?type=blog)
+
+- [React 走出新手村](https://ithelp.ithome.com.tw/users/20129020/ironman/5968)
+
+- [深入淺出Redux](https://ithelp.ithome.com.tw/users/20129020/ironman/5360)
+
+- [react-js-libraries](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
+
+- [學習 Webpack 的魔法，建立 React 專案](https://medium.com/@yohalin/%E5%AD%B8%E7%BF%92-webpack-%E7%9A%84%E9%AD%94%E6%B3%95-%E5%BB%BA%E7%AB%8B-react-%E5%B0%88%E6%A1%88-83a27acc8567)
+
+- [JSX 簡明入門](https://blog.techbridge.cc/2016/04/21/react-jsx-introduction/)
+
+- [給初入JS框架新手的React.js入門](https://ithelp.ithome.com.tw/users/20116826/ironman)
+
+- [踏入React地獄的那些事](https://ithelp.ithome.com.tw/users/20161756/ironman/5991?page=1)
+
+- [React生態系](https://ithelp.ithome.com.tw/users/20130417/ironman/5306)
+
+- [React這個好朋友](https://ithelp.ithome.com.tw/users/20116883/ironman)
+
+- [React Query 基礎使用](https://www.may-notes.com/react-query-tutorial/)
+
+- [React + GraphQL 全端](https://ithelp.ithome.com.tw/users/20128902/ironman)
+  - https://www.bilibili.com/video/BV1G34y1B7YP
+
+- [2023ironman](https://ithelp.ithome.com.tw/2023ironman/reward_team)
+
+- [sqlzap](https://sqlzap.com/)
+
+- [react.express](https://www.react.express/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## React Router
+
+- [reactrouter](https://reactrouter.com/en/main)
+
+- [ErickKS](https://github.com/ErickKS/vite-react-router)
+
+- [wouter](https://github.com/molefrog/wouter)
+
+- [react-router-dom](https://medium.com/@galohernandez/vite-react-react-router-dom-the-latest-way-312ee887197e)
+
+- [React Router with Vite](https://medium.com/@alousiusk/react-router-with-vite-a-powerful-combination-for-modern-web-development-858729485248)
+
+- [preactjs](https://preactjs.com/)
+
+- [HeyPuter](https://github.com/HeyPuter/puter)
+
+- []()
+
+- []()
+
+## Redux and RTK
+
+- [Redux工具包](https://redux-toolkit-cn.netlify.app/introduction/quick-start)
+
+- [redux](https://cn.redux.js.org/)
+
+- []()
+
+- [immer](https://immerjs.github.io/immer/)
+
+- [React效能優化](https://eddychang.me/blog/what-is-immutability)
+
+- [react 學習immer](https://medium.com/@Hsu.Yang-Min/day28-%E6%88%91%E7%9A%84-react-%E5%AD%B8%E7%BF%92%E8%A8%98%E9%8C%84-immer-31cfd21e866a)
+
+- [Joy Shaheb](https://www.freecodecamp.org/news/author/joy/)
+
+- [semantic ui](https://semantic-ui.com/)
+
+- []()
+
+## Next.JS
+
+- [從零開始學習 Next.js](https://ithelp.ithome.com.tw/users/20110504/ironman)
+
+- [使用Next.js開發](https://weianofsteel.medium.com/learn-next-js-fefb1ddbe147)
+
+- [從 Next.js 開始的 React](https://ithelp.ithome.com.tw/users/20129873/ironman/4202)
+
+- [SPYxFRONTEND](https://ithelp.ithome.com.tw/users/20129873/ironman/5274)
+
+- [Next.js+React Jerga 2023](https://www.bilibili.com/video/BV1Tx421C7A3)
+  - https://www.bilibili.com/video/BV15t421V79Y
+  - https://www.bilibili.com/video/BV1uy421q7f6
+
+- [Next.js 和 React - 完整指南 Max 2022](https://www.bilibili.com/video/BV1G54y1o7RP/)
+  - https://www.bilibili.com/video/BV1v5411X7RG/
+
+- [Next.js 14 入門課程](https://www.bilibili.com/video/BV1Eg4y1e7xy)
+
+- [收集陽光的暖風](https://space.bilibili.com/27551908)
+
+- [在 Next.js 14 裡面把 Notion 當資料庫用](https://yual.in/posts/using-notion-as-database-in-nextjs-14)
+
+- [React 簡化 – Next.js](https://www.bilibili.com/video/BV1Mm411R7Ww)
+
+- []()
+
+- []()
+
+## API and Library
+
+- [free api](https://morioh.com/a/db0543ba9652/150-free-apis-for-software-and-web-development)
+
+- [框架和函式庫](https://codelove.tw/@tony/post/Zq4LZq)
+
+- [QR code](https://goqr.me/)
+
+- []()
+
+- []()
+
+- []()
+
+## Bulma CSS
+
+- [bulma.io](https://bulma.io/)
+
+- [Bulma](https://askie.today/intro-of-bulma-css-framework/)
+
+- [基礎教程](https://medium.com/%E5%BF%AB%E6%A8%82%E5%AD%B8%E7%A8%8B%E5%BC%8F/%E5%A5%A0%E5%9F%BA%E6%96%BCflexbox%E7%9A%84css%E6%A1%86%E6%9E%B6-bulma%E5%9F%BA%E7%A4%8E%E6%95%99%E7%A8%8B-451c403d75c3)
+
+- [Skeleton Loading](https://medium.com/tiffrrr/css-%E4%BD%BF%E7%94%A8background-animation-%E8%A3%BD%E4%BD%9Cskeleton-loading-screen-f68fb307525c)
+
+- [newcss](https://newcss.net/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Angular
+
+幫大家整理本次 **2021 iThome 鐵人賽**的**所有 Angular 主題**：
+
+- google: iThome 鐵人賽的所有 Angular
+
+1. [Angular 深入淺出三十天：表單與測試](   https://ithelp.ithome.com.tw/users/20090728/ironman/3881)
+
+2. [擺脫菜鳥的訓練，Angualr 基礎教學](   https://ithelp.ithome.com.tw/users/20124767/ironman/3894)
+
+3. [新新新手閱讀 Angular 文件30天](https://ithelp.ithome.com.tw/users/20140093/ironman/3909)
+
+4. [Angular 學徒之路 feat. TypeScript](https://ithelp.ithome.com.tw/users/20140183/ironman/3996)
+
+5. [Angular+Spring Boot API 處理股市資料](https://ithelp.ithome.com.tw/users/20138857/ironman/4048)
+
+6. [網站一條龍 - 從架站到前端](https://ithelp.ithome.com.tw/users/20140664/ironman/4207)
+
+7. [Angular 常見問題大小事](https://ithelp.ithome.com.tw/users/20093270/ironman/4623)
+
+8. [關於我作夢變成工程師這檔事（Angular篇)](https://ithelp.ithome.com.tw/users/20128395/ironman/4876)
+
+9. [Nativescript 由初學到初學+30天](https://ithelp.ithome.com.tw/users/20140959/ironman/4644)
+
+- [Angualr 基礎教學](https://ithelp.ithome.com.tw/users/20124767/ironman/3894)
+
+- [Angular學起來](https://ithelp.ithome.com.tw/users/20125192/ironman/5938)
+
+- [Angular從零開始](https://ithelp.ithome.com.tw/users/20119300/ironman)
+
+- [Angular紀錄](https://medium.com/@zhyixi82105/angular-%E5%AF%A6%E6%88%B0%E7%B4%80%E9%8C%84-%E4%B8%80-dfbf858002b0)
+
+- [2023心得](https://medium.com/coding-hot-pot/2023-f2e-%E9%90%B5%E4%BA%BA%E8%B3%BD%E5%BF%83%E5%BE%97-9f809fd8e418)
+
+- [Angular筆記](https://ithelp.ithome.com.tw/users/20109645/ironman)
+
+- [Angular筆記](https://hackmd.io/ajQPzmciRqKAJvl0ml8whw)
+
+- []()
+
+- [Angular12入門實戰](https://www.bilibili.com/video/BV1bt411e71b)
+
+- [Angular_前端框架](https://www.bilibili.com/video/BV1Q84y1g7Fn)
+
+- [Angular 大師之路](https://ithelp.ithome.com.tw/users/20020617/ironman)
+
+- [Jonny - Angular 目錄](https://jonny-huang.github.io/angular/)
+
+- Angular - The Complete Guide(2022 Max)
+  - [Part 1](https://www.bilibili.com/video/BV1yY41177yK)
+  - [Part 2](https://www.bilibili.com/video/BV11Y4y1v7zT)
+  - [Part 3](https://www.bilibili.com/video/BV1Bu411e7bD)
+
+- Angular - The Complete Guide(Max 2024)
+  - [Part 1](https://www.bilibili.com/video/BV1iK421b7Kh)
+  - [Part 2](https://www.bilibili.com/video/BV1ry421i7pa)
+  - [Part 3](https://www.bilibili.com/video/BV1Vr421H7Gq)
+  - [Part 4](https://www.bilibili.com/video/BV1vx421y71g)
+  - [Part 5](https://www.bilibili.com/video/BV14w4m1Z7BZ)
+
+- [The Modern Angular Bootcamp - Stephen](https://www.bilibili.com/video/BV18K411Q7Fx)
+  - [P2](https://www.bilibili.com/video/BV1Ld4y1y7ue)
+  - P3 missing
+
+- [自己的樣板(Structural Directives)](https://fullstackladder.dev/blog/2018/10/31/mastering-angular-16-custom-structural-directives/)
+
+- [PWA](https://ithelp.ithome.com.tw/users/20071512/ironman)
+
+- []()
+
+- []()
+
+## RxJs
+
+- [rxjs](https://rxjs.tech/)
+
+- [RxJS 是什麼？](https://ken-chen.medium.com/rxjs-%E6%98%AF%E4%BB%80%E9%BA%BC-%E8%A7%80%E5%AF%9F%E8%80%85-%E8%A2%AB%E8%A7%80%E5%AF%9F%E7%9A%84%E5%B0%8D%E8%B1%A1-a7dd9ded3b4b)
+
+- [learn-rxjs](https://rxjs-cn.github.io/learn-rxjs-operators/)
+
+- [打通 RxJS 任督二脈](https://ithelp.ithome.com.tw/users/20020617/ironman)
+
+- [30 天精通 RxJS](https://ithelp.ithome.com.tw/users/20103367/ironman)
+
+- [一小時帶你掌握 RxJS 關鍵知識](https://hackmd.io/fqIUT6XqSIGjiQJIzv2cww)
+
+- [RxJS 教學](https://blog.techbridge.cc/2017/12/08/rxjs/)
+
+- [RxJS完成簡易計數器](https://medium.com/@wei30172/%E7%94%A8rxjs%E5%AE%8C%E6%88%90%E7%B0%A1%E6%98%93%E8%A8%88%E6%95%B8%E5%99%A8-ed00e7d33f0b)
+
+- [ttp3 前端資源](https://hackmd.io/@hsuchihting/r1BRJBJ4O)
+
+- [ITHome 第 12 屆鐵人賽](https://gist.github.com/qrtt1/0a1dc27c8aa77ffc00f622ec1dac4526)
+
+- [Rxjs從入門到精通](https://www.luoxiao123.cn/rxjs-knowledge-arrange.html)
+
+- [前端筆記](https://www.yuque.com/tmfl/html)
+
+- [Jimmy 的架站筆記](https://jimmyswebnote.com/change-career-to-front-end-developer)
+
+- [WillHuangTW](https://www.slideshare.net/WillHuangTW/presentations)
+
+- [bilibili](https://space.bilibili.com/11375865/video?tid=0&pn=10&keyword=&order=pubdate)
+
+- [Ultimate Courses - RxJS Masterclass](https://www.bilibili.com/video/BV1tG4y1X7Jk/ "Ultimate Courses - RxJS Masterclass")
+  - https://ultimatecourses.com/learn/rxjs-masterclass 
+  
+- [Ultimate Courses - RxJS Basics](https://www.bilibili.com/video/BV1iy4y1R7vG/ "Ultimate Courses - RxJS Basics")
+
+- [learnrxjs](https://www.learnrxjs.io/)
+
+- []()
+
+- []()
+
+## Jasmine and Karma
+
+- [Angular testing](https://cloverhsc.blogspot.com/2018/11/angular-testing-1.html)
+
+- [Angular新手村學習筆記](https://ithelp.ithome.com.tw/users/20107868/ironman)
+
+- [用 Jasmine 撰寫一個 JavaScript 的單元測試](https://dotblogs.com.tw/supershowwei/2020/02/10/143236)
+
+- [jasmine](https://jasmine.github.io/)
+
+- [angular-unit-testing](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
+
+- [angular-unit-testing](https://medium.com/simform-engineering/how-to-write-unit-tests-with-jasmine-karma-f1908bdeb617)
+
+- []()
+
+- []()
+
+## JSON Server
+
+- [JSON Server](https://hackmd.io/1GYn_5CVReGI20riiY9LVQ)
+
+- [JSON Server](https://hackmd.io/@Ru/Sypv1UIdD)
+
+- [JSON server 教學](https://hackmd.io/@hexschool/B1CitMzHj)
+  - https://hackmd.io/@hexschool?utm_source=preview-mode&utm_medium=rec
+
+- [json-server-auth](https://github.com/topics/json-server-auth)
+
+- [json-server-auth](https://github.com/jeremyben/json-server-auth)
+
+- [JSON Server](https://ithelp.ithome.com.tw/articles/10230821)
+
+- [JSON Server](https://ithelp.ithome.com.tw/articles/10187889)
+
+- [利用 QuickType 將 JSON 轉成 Model](https://franksios.medium.com/%E5%88%A9%E7%94%A8-quicktype-%E5%B0%87-json-%E8%BD%89%E6%88%90-model-4b57f41512d6)
+
+- [quicktype](https://quicktype.io/)
+
+- []()
+
+- []()
+
+## Tailwind
+
+- [TailwindCSS - 從零開始](https://ithelp.ithome.com.tw/users/20119300/ironman/3948)
+
+- [烏鴉嘴](https://wyz.xyz/)
+
+- []()
+
+# Typescript
+
+- [Ultimate Courses - TypeScript Basics - Todd](https://www.bilibili.com/video/BV1MW4y1G7SD/ "Ultimate Courses - TypeScript Basics")
+
+- [Ultimate Courses - TypeScript Masterclass - Todd](https://www.bilibili.com/video/BV1ZA411o7hE/ "Ultimate Courses - TypeScript Masterclass")
+  
+- [:o: Udemy - Mastering TypeScript - 2023 Edition 1 - Colt](https://www.bilibili.com/video/BV1oF411m7x2)
+
+- [:o: Udemy - Mastering TypeScript - 2023 Edition 2 - Colt](https://www.bilibili.com/video/BV1KN411n7of)
+  - 度盘/s/1nxmdEXuK3yFOi3HaVnVCLQ?pwd=q2h9
+
+- [:x: Mastering TypeScript 2022 Edition 1 - Colt](https://www.bilibili.com/video/BV1s14y1P7wz/ "Udemy - Mastering TypeScript 2022 Edition（01-11）")
+
+- [:x: Mastering TypeScript 2022 Edition 2 - Colt](https://www.bilibili.com/video/BV1fD4y177ny/ "Udemy - Mastering TypeScript 2022 Edition（12-19）")
+
+- [TypeScript開發書單系統](https://ithelp.ithome.com.tw/users/20124462/ironman/6047)
+
+- [tsdiagram](https://tsdiagram.com/)
+
+- [Design Patterns in TypeScript](https://www.bilibili.com/video/BV1PQ4y1i7t7)
+
+- [TypeScript 面試](https://www.bilibili.com/video/BV13r42187GX)
+
+- [面向專業人員的 TypeScript](https://www.bilibili.com/video/BV1Mu4m1G7ut)
+
+- [TypeScript 開發人員課程 - 從初學者到專家-上](https://www.bilibili.com/video/BV1X6421M78Q)
+
+- [TypeScript 開發人員課程 - 從初學者到專家-下](https://www.bilibili.com/video/BV1ey42187bK/)
+
+- [TypeScript 大師班](https://www.bilibili.com/video/BV1Yp421U76A)
+
+- [Matt Pocock TypeScript ](https://www.bilibili.com/video/BV1cj421R7ez)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+### Typescript intersection & and Union |
+
+- [typescriptlang](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types)
+
+- [demystifying-typescript-unions-and-intersection](https://www.serverlessguru.com/blog/demystifying-typescript-unions-and-intersection)
+
+- [reddit](https://www.reddit.com/r/typescript/comments/9qduq3/why_is_type_intersection_called_like_that_its/)
+
+- [stackoverflow](https://stackoverflow.com/questions/70819471/typescript-intersection-confused-about-the-naming)
+
+- []()
+
+- []()
+
+# Electron
+
+- [Electron for Desktop Apps - Steven 2022](https://www.bilibili.com/video/BV1pY4y1i7Ac)
+
+- [千锋前端Vue3.0 + Electron快速入门视频教程](https://www.bilibili.com/video/BV1FP4115739)
+
+- [Electron入门到精通](https://www.bilibili.com/video/BV1xd4y1J7dB)
+
+- [Udemy Electron From Scratch - Brad](https://www.bilibili.com/video/BV1kY411w7Xo)
+
+- [Udemy Master Electron - Ray](https://www.bilibili.com/video/BV1SP4y187rR)
+
+- [Electron企业实战项目](https://www.bilibili.com/video/BV1Gu4m1w7FW/)
+
+- [Electron项目课程](https://www.bilibili.com/video/BV1ny421Y7Sr)
+
+- [Electron](https://hackmd.io/F4pzgRMyRxe4ts5K1u18Ug)
+
+- [Electron打包成執行檔](https://medium.com/something-about-javascript/electron-%E6%89%93%E5%8C%85%E6%88%90%E5%9F%B7%E8%A1%8C%E6%AA%94-e968255ec173)
+
+- [ElectronJS](https://ithelp.ithome.com.tw/users/20111867/ironman/2941)
+
+- [Electron](https://a091234765.pixnet.net/blog/post/402260369-%5belectron%e5%ad%b8%e7%bf%92%e7%ad%86%e8%a8%98%5delectr)
+
+- [跨平台的視窗應用程式](https://jonny-huang.github.io/angular/training/18_electron/)
+
+- [Windows Driver + Electron 學習筆記](https://ithelp.ithome.com.tw/users/20161812/ironman/6382)
+
+- [基於 React 的 Electron 開發環境建立與打包](https://weirenxue.github.io/2021/08/04/react_electron_build/)
+
+- [Electron學習（四）](https://tw511.com/a/01/47595.html)
+
+- [快速做一個桌面應用程式](https://blog.pureday.life/archives/1519)
+
+- [使用 electron-vue 建立桌面應用程式](https://blog.epoch.tw/2018/12/%E4%BD%BF%E7%94%A8-electron-vue-%E5%BB%BA%E7%AB%8B%E6%A1%8C%E9%9D%A2%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/)
+
+- []()
+
+- [Electron packager tutorial - Christian Engvall](https://www.christianengvall.se/electron-packager-tutorial/)
+
+- [Build a Package your Electron app and use it Locally](https://dev.to/gautham495/build-package-your-electron-app-and-use-it-locally-2dam)
+
+- [:root 根目錄選取器](https://ithelp.ithome.com.tw/articles/10228111)
+
+- [How to store user data in Electron - Cameron Nokes](https://cameronnokes.com/blog/how-to-store-user-data-in-electron/)
+
+- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+
+- [electron-react-boilerplate.js](https://electron-react-boilerplate.js.org/)
+
+- [Alex Devero](https://github.com/alexdevero/electron-react-webpack-boilerplate)
+
+- [electron-and-react-app](https://blog.alexdevero.com/electron-and-react-app/)
+
+- [httpbin.org](https://httpbin.org/)
+
+- [Placekitten](https://free.com.tw/placekitten/)
+
+- [httpbin](https://medium.com/%E5%8F%B2%E5%8A%AA%E6%AF%94%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%80%8B%E5%AE%B6-%E7%AD%86%E8%A8%98%E6%9C%AC/http-%E6%B8%AC%E8%A9%A6%E5%B9%B3%E5%8F%B0httpbin%E7%AD%86%E8%A8%98-2c5f9d9af47c)
+
+- [httpbin](https://ithelp.ithome.com.tw/articles/10195555)
+
+- [httpbin.dev](https://httpbin.dev/)
+
+- [file-examples](https://file-examples.com/)
+
+- [filesamples](https://filesamples.com/)
+
+- [dummyimage](https://dummyimage.com/)
+
+- [jsonapi](https://www.jsonapi.co/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## 網頁打包成app的工具
+
+- [Progressive Web App](https://ithelp.ithome.com.tw/users/20130026/ironman/4829)
+
+- [apk-maker](https://appsgeyser.com/apk-maker)
+
+- [PWA](https://developer.mozilla.org/zh-TW/docs/Web/Progressive_web_apps
+)
+
+- [安卓Webview](#)
+
+- [AppsGeyser把網站轉換成Android APP](https://blog.pulipuli.info/2013/08/appsgeyserandroid-app-using-appsgeyser.html)
+
+- [將網頁打包成APP](https://zhuanlan.zhihu.com/p/461425811)
+
+- [打包成app](https://blog.csdn.net/qzmlyshao/article/details/135996395)
+
+- [web打包](https://juejin.cn/s/web%E6%89%93%E5%8C%85%E6%88%90app%E5%8E%9F%E7%90%86)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- [markdownlint](https://github.com/DavidAnson/markdownlint)
+
+- []()
+
+## DI and AOP
+
+- [依賴注入(Dependency Injection)](https://hackmd.io/@spyua/BywV-SJbi)
+
+- [AOP (Aspect-Oriented Programming)](https://hackmd.io/@spyua/HJqmkKYDO?utm_source=preview-mode&utm_medium=rec)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Gamepad mapper
+
+- [AntiMicro](https://github.com/AntiMicro/antimicro)
+
+- [手把模擬器 JoyToKey](https://www.gamenir.com.tw/news-maplestory-controller)
+
+- [Xmouse](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
+
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# Rust
+
+- [【三(21-26)完结】ZeroToMastery - Rust Programming The Complete Developer's Guide 2023](https://www.bilibili.com/video/BV1ow411Y7cL/ "ZeroToMastery - Rust Programming The Complete Developer's Guide 2023")
+
+  - https://zerotomastery.io/courses/learn-rust/ 
+  - 度盘/s/1rQeCCjJwm-rX3YSi_rwOzg?pwd=eejx 提取码: eejx
+
+- [【二(11-20)】ZeroToMastery - Rust Programming The Complete Developer's Guide 2023](https://www.bilibili.com/video/BV1Zp4y1F7Eq/ "ZeroToMastery - Rust Programming The Complete Developer's Guide 2023")
+
+- [【一(01-10)】ZeroToMastery - Rust Programming The Complete Developer's Guide 2023](https://www.bilibili.com/video/BV1Az4y1G7Km/ "ZeroToMastery - Rust Programming The Complete Developer's Guide 2023")
+
+### 好客租房移动Web
+
+- [好客租房移动Web](https://blog.csdn.net/itcast_cn/article/details/128904003)
+
+- [好客租房移动web项目（1）](https://blog.csdn.net/qq_31784189/article/details/103356237)
+
+- [fanxinhua / 好客租房移动端](https://gitee.com/fanxinhua/hkzf)
+
+- [young / hkzf-server](https://gitee.com/yroad/hkzf-server)
+
+- [黑马广州前端 / React_54_好客租房项目](https://gitee.com/gzqd201802/react_54_hkzf)
+
+- [cuiwuzhi](https://github.com/cuiwuzhi)
+
+- [China-xianyu](https://github.com/China-xianyu)
+
+- [Daazzer](https://github.com/Daazzer)
+
+- [zfp111](https://github.com/zfp111)
+
+- [好客租房移动Web（React案例）｜ 青训营](https://juejin.cn/post/7271505439773638696)
+
+- [React好房租客项目：项目搭建与整体布局](https://zhuanlan.zhihu.com/p/613839213)
+
 ## Tampermonkey
+
 - [篡改猴](https://zh.wikipedia.org/zh-tw/%E7%AF%A1%E6%94%B9%E7%8C%B4)
 
 - [:+1:Tampermonkey](https://www.tampermonkey.net/index.php?locale=zh)
@@ -248,22 +969,6 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - []()
 
 - []()
-
-
-## 要學習 Next.js，建議具備以下知識和技能作為前提：
-
-1. **基本的 HTML、CSS 和 JavaScript：** Next.js 是建立在 React 框架之上的，因此對於 HTML、CSS 和 JavaScript 的基本知識是必要的。了解 HTML 元素、CSS 樣式和 JavaScript 的 DOM 操作是很重要的。
-
-2. **React 框架：** Next.js 是 React 的應用程式框架，因此對於 React 的基本概念和工作原理要有一定的了解。這包括 JSX 語法、組件、狀態管理、生命週期方法等。
-
-3. **Node.js 和 npm（Node Package Manager）：** Next.js 是基於 Node.js 平台開發的，因此對於 Node.js 的基本概念和 npm 的使用方式要有一定的了解。這包括如何安裝、管理依賴項、運行 Node.js 應用程序等。
-
-4. **基本的網絡開發知識：** 了解 HTTP 協議、客戶端和服務器端之間的通信、網頁的生命週期以及基本的網絡安全性知識是很有幫助的。
-
-5. **前端開發工具：** 熟悉一些常用的前端開發工具，比如代碼編輯器（VS Code、Sublime Text 等）、開發者工具（Chrome DevTools 等）以及版本控制工具（Git 等）。
-
-雖然上述的知識不是學習 Next.js 的絕對必要條件，但它們將有助於更好地理解和應用 Next.js 框架。特別是對於 React 和 Node.js 的熟悉程度，直接影響了你對 Next.js 的學習和應用效果。如果你已經具備了上述的知識和技能，那麼學習 Next.js 將會更加輕鬆和有趣。
-
 
 ## 關於 HTML 和 CSS 的學習建議
 ``` txt
@@ -622,7 +1327,7 @@ JavaScript 異步編程是一個重要的主題，特別是在處理 Web 開發�
 
 ---
 
-要學習 Next.js，建議具備以下知識和技能作為前提：
+## 要學習 Next.js，建議具備以下知識和技能作為前提：
 
 1.  **基本的 HTML、CSS 和 JavaScript：** Next.js 是建立在 React 框架之上的，因此對於 HTML、CSS 和 JavaScript 的基本知識是必要的。了解 HTML 元素、CSS 樣式和 JavaScript 的 DOM 操作是很重要的。
 
@@ -698,3 +1403,5 @@ RxJS 基於觀察者模式（Observer Pattern）和迭代器模式（Iterator Pa
 3.  **Subjects（主題）：** Subjects 同時充當了 Observable 和 Observer 的角色，可以被用來多播數據，也可以是 Observable 的訂閱者。
 
 RxJS 的使用場景非常廣泛，它可以應用於 Web 開發中的各種情況，比如處理用戶輸入、處理 HTTP 請求、管理狀態、處理事件等。在 Angular、React、Vue 等前端框架中，RxJS 都被廣泛應用於處理異步數據流和狀態管理。它提供了一種功能豐富且靈活的方式來處理複雜的異步邏輯，使得代碼更加清晰和易於維護。
+
+
