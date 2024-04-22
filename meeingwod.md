@@ -2436,11 +2436,21 @@ MEAN的四個組件:^[[2]](https://zh.wikipedia.org/wiki/MEAN#cite_note-MongoDBM
 
 - [mathematicsart](https://mathematicsart.com/solved-exercises/)
 
+- [Codewars](https://www.codewars.com/dashboard)
+
+- [exercism](https://exercism.org/tracks/javascript/exercises)
+
+- [leetcode](https://mechachen.github.io/docs/Code/leetcode-lv1)
+
+- []()
+
 - []()
 
 - []()
 
+- []()
 
+- []()
 
 ## JavaScript Cheatsheet
 - [JavaScript String Cheatsheet: Everything You Need to Know](https://morioh.com/a/165ba2b947b9/javascript-string-cheatsheet-everything-you-need-to-know)
