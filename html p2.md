@@ -177,7 +177,15 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-- []()
+- [plnkr](https://plnkr.co/)
+
+- [tailwindcss](https://play.tailwindcss.com/)
+
+- [exercism](https://exercism.org/dashboard)
+
+- [runkit](https://runkit.com/home)
+
+- [code wars]()
 
 - []()
 
@@ -185,9 +193,15 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-- []()
+# Docker and Kurbernetes(K8s)
 
-- []()
+- [Docker playground](https://labs.play-with-docker.com/)
+
+- [Docker playground](https://www.docker.com/play-with-docker/)
+
+- [Docker](https://ithelp.ithome.com.tw/users/20151565/ironman)
+
+- [淺談 NATS、STAN 和 JetStream](https://marco79423.net/articles/%E6%B7%BA%E8%AB%87-natsstan-%E5%92%8C-jetstream-%E5%85%A9%E4%B8%89%E4%BA%8B)
 
 - []()
 
@@ -204,8 +218,6 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 ---
 # Javascript
 
-- [How JavaScript Promises Work](https://www.freecodecamp.org/news/javascript-promise-object-explained/)
-
 - [JavaScript Fetch API For Beginners](https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/)
 
 - [「現在人人都要學會 coding」-- 但到底是要學什麼？從何開始？去哪裡學？](https://findcareerpassion.blogspot.com/2022/07/coding.html?m=1)
@@ -215,6 +227,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [輕鬆瞭解的 Vue.js 與 D3.js](https://ithelp.ithome.com.tw/users/20119062/ironman/2242)
 
 - [JSON格式化在線工具](https://coding.tools/tw/json-formatter)
+  - https://jsoncrack.com/
 
 - [30個 HackMD 技巧](https://ithelp.ithome.com.tw/users/20121130/ironman/5793)
 
@@ -225,8 +238,6 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [I Want To Know JS](https://ithelp.ithome.com.tw/users/20107790/ironman)
 
 - [前端工程師不能不知道的生產力工具](https://ithelp.ithome.com.tw/users/20110962/ironman)
-
-- [使用 Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Using_promises)
 
 - [柴柴_前端教書匠](https://www.yuque.com/fechaichai)
 
@@ -277,21 +288,129 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [JSON5 更舒服的 JSON](https://wxnacy.com/2018/02/18/json5/)
 
-- []()
+- [wordnik](https://developer.wordnik.com/)
 
-- []()
+- [Starwar API](https://swapi.dev/)
 
-- []()
+- [Swagger](https://ithelp.ithome.com.tw/articles/10242295)
 
-- []()
+- [Javascript](https://ithelp.ithome.com.tw/users/20141293/ironman)
 
-- []()
+- [鱈魚的酷酷元件](https://cod-chill-component.pages.dev/)
 
-- []()
+- [stateofjs開發趨勢](https://stateofjs.com/en-US)
+  - https://www.developers.pub/article/1163254
+  - https://stateofcss.com/en-US
 
 - [學習30套前端技術(2018)](https://ithelp.ithome.com.tw/users/20091292/ironman)
 
 - [loremflickr](https://loremflickr.com/)
+
+- []()
+
+- []()
+
+- []()
+
+## Pipe
+
+- [Function Piping in JavaScript](https://medium.com/@ian_grubb/function-piping-in-javascript-a125b0876a2b)
+
+- [tc39](https://github.com/tc39/proposal-pipeline-operator)
+
+- [Pipe Function](https://dev.to/moayad523/implementing-the-pipe-function-in-javascript-im9)
+
+- [pipe() and compose()](https://www.freecodecamp.org/news/pipe-and-compose-in-javascript-5b04004ac937/)
+
+- [Function Programming ](https://ithelp.ithome.com.tw/users/20107307/ironman/4082)
+
+- [程式x設計x通靈](https://vocus.cc/salon/65fd5e67fd89780001588a32)
+
+- [Pipe](https://ithelp.ithome.com.tw/users/20102562/ironman)
+
+- [zustand](https://github.com/pmndrs/zustand)
+
+- [Clean API with Next.js Middleware Pipes](https://giancarlobuomprisco.com/next/middleware-pipes-nextjs)
+
+- [臨池不輟](https://keelii.com/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Promise and Generator
+
+- [How JavaScript Promises Work](https://www.freecodecamp.org/news/javascript-promise-object-explained/)
+
+- [使用 Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Using_promises)
+
+- [Generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+
+- [Generator 的使用](https://pjchender.dev/javascript/js-generator/)
+
+- [cythilya](https://www.cythilya.tw/2018/11/01/generator/)
+
+- [generators](https://javascript.info/generators)
+
+- [fooish](https://www.fooish.com/javascript/ES6/generators.html)
+
+## Promisify and callbackify
+
+- [Promisify](https://realdennis.medium.com/promisify-%E8%88%87-callbackify-%E4%BD%A0%E6%88%96%E8%A8%B1%E7%94%A8%E4%B8%8D%E5%88%B0-%E4%BD%86%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%E4%B9%9F%E7%84%A1%E5%A6%A8-193d7091c091)
+
+- [mechachen](https://mechachen.github.io/docs/intro)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Call, apply and bind
+
+- [Call](https://realdennis.medium.com/javascript-%E8%81%8A%E8%81%8Acall-apply-bind%E7%9A%84%E5%B7%AE%E7%95%B0%E8%88%87%E7%9B%B8%E4%BC%BC%E4%B9%8B%E8%99%95-2f82a4b4dd66)
+
+- [apply](https://ithelp.ithome.com.tw/articles/10195896)
+
+- [bind](https://b-l-u-e-b-e-r-r-y.github.io/post/BindCallApply/)
+
+- [call](https://medium.com/schaoss-blog/%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%A9%A6%E6%9C%80%E6%84%9B%E5%95%8F%E7%9A%84-apply-bind-call-708f57518776)
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
@@ -335,13 +454,21 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-## Node.JS
+## Node.JS and Express
 
 - [Node JS Advanced Concepts - Stephen](https://www.bilibili.com/video/BV1mL411W7fb)
 
 - [[一(01-08)]Udemy - Mastering NodeJS with Interview Questions 2024](https://www.bilibili.com/video/BV1MN4y167fZ)
 
-- []()
+- [網頁開發常見之 CORS 錯誤原因與 Express 解決辦法](https://medium.com/swf-lab/%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%B8%B8%E8%A6%8B%E4%B9%8B-cors-%E9%8C%AF%E8%AA%A4%E5%8E%9F%E5%9B%A0%E8%88%87-express-%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95-bc5eeedea6dc)
+
+- [Cors error](https://ithelp.ithome.com.tw/articles/10243427)
+
+- [CORS 錯誤是什麼](https://seanacnet.com/website-related/cors-error/)
+
+- [跨域請求會產生錯誤](https://ithelp.ithome.com.tw/articles/10226262)
+
+- [解決 CORS](https://github.com/aszx87410/blog/issues/69)
 
 - []()
 
@@ -379,6 +506,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [React + GraphQL 全端](https://ithelp.ithome.com.tw/users/20128902/ironman)
   - https://www.bilibili.com/video/BV1G34y1B7YP
+  - https://ithelp.ithome.com.tw/articles/10200678
 
 - [2023ironman](https://ithelp.ithome.com.tw/2023ironman/reward_team)
 
@@ -444,6 +572,11 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [SPYxFRONTEND](https://ithelp.ithome.com.tw/users/20129873/ironman/5274)
 
+- [https://nextjs.org/learn](https://nextjs.org/learn)
+
+- [Next.js 14 P1 - Stephen(已讀)](https://www.bilibili.com/video/BV1Fj411j72B)
+  - [Next.js 14 P2 - Stephen](https://www.bilibili.com/video/BV1rw41187FQ)
+
 - [Next.js+React Jerga 2023](https://www.bilibili.com/video/BV1Tx421C7A3)
   - https://www.bilibili.com/video/BV15t421V79Y
   - https://www.bilibili.com/video/BV1uy421q7f6
@@ -459,6 +592,142 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [React 簡化 – Next.js](https://www.bilibili.com/video/BV1Mm411R7Ww)
 
+- [Next.js](https://ithelp.ithome.com.tw/users/20130695/ironman)
+
+- [用ChatGPT詠唱來完成工作與點亮前後端技能樹](https://ithelp.ithome.com.tw/users/20135750/ironman/6659)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Webpack, Vite
+
+- [vitejs](https://cn.vitejs.dev/guide/)
+
+- [explainthis](https://www.explainthis.io/zh-hant/swe/what-is-vite)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## Prisma and SQL
+
+- [prisma.io](https://www.prisma.io/)
+
+- [dataguide](https://www.prisma.io/dataguide/mysql/5-ways-to-host-mysql)
+
+- [React + GraphQL 全端練習筆記](https://ithelp.ithome.com.tw/users/20128902/ironman/3045)
+
+- [使用 Prisma、Supabase 和 Shadcn 設定 Next.js 專案](https://codelove.tw/@tony/post/B3b8Eq)
+
+- [prisma 入門指南](https://juejin.cn/post/7047001217360199710)
+
+- [【Prisma】JavaScript 的資料庫工具](https://izo.tw/prisma/)
+
+- [如何使用Prisma和SQLite建立一個Node.js資料庫](https://juejin.cn/post/7119825902594162725)
+
+- [sqlite](https://www.sqlite.org/index.html)
+
+- [SQLite 與 MySQL 的差別](https://medium.com/erens-tech-book/sqlite-%E8%88%87-mysql-%E7%9A%84%E5%B7%AE%E5%88%A5-a14926030ddd)
+
+- [sqlite](https://www.1ju.org/sqlite/index)
+
+- [SQLite to Go - 學習J筆記](https://hackmd.io/@mamokolo999/rJcILKgaD)
+
+- [【SQLite3】輕型資料庫](https://pixnashpython.pixnet.net/blog/post/39913867-%E3%80%90sqlite3%E3%80%91%E8%BC%95%E5%9E%8B%E8%B3%87%E6%96%99%E5%BA%AB(%E4%B8%80)%E5%BF%AB%E9%80%9F%E4%B8%8A)
+
+- [SQLite 操作筆記](https://blog.poychang.net/note-sqlite/)
+
+- [SQLite資料庫](https://raymond-investment.com/blog/sqlite-db-browser-install)
+
+- [infinityfree](https://dash.infinityfree.com/accounts)
+
+- [onecompiler](https://onecompiler.com/)
+
+- [db-fiddle](https://www.db-fiddle.com/)
+
+- [sqlpad](https://sqlpad.io/playground/mysql/)
+
+- [kodekloud](https://kodekloud.com/playgrounds/mysql)
+
+- [codapi](https://codapi.org/mysql/)
+
+- [w3schools](https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_func_mysql_avg)
+
+- [makeuseof](https://www.makeuseof.com/online-sql-playground/)
+
+- [:+1:drawdb](https://drawdb.vercel.app/)
+
+- [SQL Learning](https://ithelp.ithome.com.tw/users/20091494/ironman)
+
+- []()
+
+- []()
+
+## Nextui
+
+- []()
+
+- []()
+
+- []()
+
+## Zod
+
+- [zod.dev](https://zod.dev/)
+
+- [試試 Zod](https://medium.com/ikala-tech/enhance-typescript-validation-by-zod-8f52837a58a1)
+
+- [使用 Zod 做型別驗證](https://ithelp.ithome.com.tw/articles/10331458)
+
+- [How to Validate Forms with Zod and React-Hook-Form](https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/)
+
+- [Zod](https://www.totaltypescript.com/tutorials/zod)
+
+- [TypeScript + Zod (Schema Validcation)](https://medium.com/@weiyun0912/typescript-zod-schema-validcation-15404afb3d35)
+
+- []()
+
+- []()
+
+## Tanstack
+
+- [Tanstack](https://tanstack.com/)
+
+- [React 生態系統](https://codelove.tw/@tony/post/gqB053)
+
+- [React](https://ithelp.ithome.com.tw/users/20161583/ironman/6090)
+
+- []()
+
+- []()
+
+- []()
+
+## 遊戲 Game
+
+- [遊戲之美](https://ithelp.ithome.com.tw/users/20107113/ironman/1624)
+
+- []()
+
+- []()
+
 - []()
 
 - []()
@@ -470,6 +739,14 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [框架和函式庫](https://codelove.tw/@tony/post/Zq4LZq)
 
 - [QR code](https://goqr.me/)
+
+- [apiopen](https://api.apiopen.top/)
+
+- [randomuser](https://randomuser.me/)
+
+- [insoxin](https://github.com/insoxin/API)
+
+- []()
 
 - []()
 
@@ -497,7 +774,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-## Angular
+# Angular
 
 幫大家整理本次 **2021 iThome 鐵人賽**的**所有 Angular 主題**：
 
@@ -520,8 +797,6 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 8. [關於我作夢變成工程師這檔事（Angular篇)](https://ithelp.ithome.com.tw/users/20128395/ironman/4876)
 
 9. [Nativescript 由初學到初學+30天](https://ithelp.ithome.com.tw/users/20140959/ironman/4644)
-
-- [Angualr 基礎教學](https://ithelp.ithome.com.tw/users/20124767/ironman/3894)
 
 - [Angular學起來](https://ithelp.ithome.com.tw/users/20125192/ironman/5938)
 
@@ -565,11 +840,23 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [PWA](https://ithelp.ithome.com.tw/users/20071512/ironman)
 
+- [jhlstudy](https://jhlstudy.blogspot.com/)
+
+- []()
+
 - []()
 
 - []()
 
-## RxJs
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# RxJs
 
 - [rxjs](https://rxjs.tech/)
 
@@ -607,24 +894,6 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [Ultimate Courses - RxJS Basics](https://www.bilibili.com/video/BV1iy4y1R7vG/ "Ultimate Courses - RxJS Basics")
 
 - [learnrxjs](https://www.learnrxjs.io/)
-
-- []()
-
-- []()
-
-## Jasmine and Karma
-
-- [Angular testing](https://cloverhsc.blogspot.com/2018/11/angular-testing-1.html)
-
-- [Angular新手村學習筆記](https://ithelp.ithome.com.tw/users/20107868/ironman)
-
-- [用 Jasmine 撰寫一個 JavaScript 的單元測試](https://dotblogs.com.tw/supershowwei/2020/02/10/143236)
-
-- [jasmine](https://jasmine.github.io/)
-
-- [angular-unit-testing](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
-
-- [angular-unit-testing](https://medium.com/simform-engineering/how-to-write-unit-tests-with-jasmine-karma-f1908bdeb617)
 
 - []()
 
@@ -683,6 +952,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [tsdiagram](https://tsdiagram.com/)
 
 - [Design Patterns in TypeScript](https://www.bilibili.com/video/BV1PQ4y1i7t7)
+  - https://www.udemy.com/course/typescript-design-patterns/learn/lecture/7513458#overview
 
 - [TypeScript 面試](https://www.bilibili.com/video/BV13r42187GX)
 
@@ -696,7 +966,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [Matt Pocock TypeScript ](https://www.bilibili.com/video/BV1cj421R7ez)
 
-- []()
+- [櫻桃茶](https://doc.cherrychat.org/ts/)
 
 - []()
 
@@ -715,6 +985,28 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [reddit](https://www.reddit.com/r/typescript/comments/9qduq3/why_is_type_intersection_called_like_that_its/)
 
 - [stackoverflow](https://stackoverflow.com/questions/70819471/typescript-intersection-confused-about-the-naming)
+
+- [大前端之我思我想](https://www.yuque.com/dream-back-to-it/my-thinking)
+
+- []()
+
+- []()
+
+- []()
+
+## Awaited-Type
+
+- [Awaited Type](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+
+- [TypeScript ReturnType of async function](https://stackoverflow.com/questions/74315556/typescript-returntype-of-async-function)
+
+- [TypeScript 類型工具](https://wangdoc.com/typescript/utility)
+
+- [[TypeScript] 用生活例子圖解 Utility Types](https://medium.com/hannah-lin/typescript-%E7%94%A8%E7%94%9F%E6%B4%BB%E4%BE%8B%E5%AD%90%E5%9C%96%E8%A7%A3-utility-type-2eeee27a58cd)
+
+- [進階中級TypeScript](https://www.mulingyuer.com/archives/896/)
+
+- [進階的型別用法](https://magiclen.org/typescript-advanced-type/)
 
 - []()
 
@@ -843,15 +1135,42 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [AOP (Aspect-Oriented Programming)](https://hackmd.io/@spyua/HJqmkKYDO?utm_source=preview-mode&utm_medium=rec)
 
-- []()
+- [Angular DI](https://space.bilibili.com/16956293)
 
-- []()
+- [Javascript中的AOP](https://www.v2think.com/aop-programming)
 
-- []()
+- [AOP的精神與各種主流實現模式的差異](https://tech-blog.cymetrics.io/posts/maxchiu/aop/)
 
-- []()
+- [模式-Reflection, Proxy and AOP](https://ithelp.ithome.com.tw/articles/10031358)
 
-- []()
+- [Web Assembly練習](https://ithelp.ithome.com.tw/users/20000108/ironman/1593)
+
+- [An introduction to Aspect-Oriented Programming](https://medium.com/@qanlevon/an-introduction-to-aspect-oriented-programming-5a2988f51ee2)
+
+- [mjancarik](https://github.com/mjancarik/to-aop)
+
+- [AOP_in_JavaScript_and_TypeScript](https://nullcc.github.io/2018/10/28/AOP_in_JavaScript_and_TypeScript/)
+
+- [practical-aspect-oriented-programming-in-javascript](https://thecodebarbarian.com/practical-aspect-oriented-programming-in-javascript.html)
+
+- [aspect-oriented-programming-in-javascript](https://blog.bitsrc.io/aspect-oriented-programming-in-javascript-c4cb43f6bfcc)
+
+- [aspect-oriented-programming-in-javascript](https://www.ctnicholas.dev/notes/aspect-oriented-programming-in-javascript)
+
+- [JavaScript之AOP程式設計實例](https://www.niaoge.com/note/qac8vg.html)
+
+- [AOP 面向切面程式設計](https://chenshenhai.com/koajs-design-note/note/chapter02/01.html)
+
+- [AOP在JavaScript和TypeScript中的應用](https://nullcc.github.io/2019/01/11/AOP%E5%9C%A8JavaScript%E5%92%8CTypeScript%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/)
+  - https://nullcc.github.io/2018/10/28/AOP_in_JavaScript_and_TypeScript/
+
+- [node-js-aop](https://trunk-studio.com/node-js-aop/)
+
+- [AOP的精神與各種主流實現模式的差異](https://tech-blog.cymetrics.io/posts/maxchiu/aop/)
+
+- [JavaScript中AOP的應用](https://juejin.cn/post/6844903838172839943)
+
+- [模式-Reflection, Proxy and AOP](https://ithelp.ithome.com.tw/articles/10031358)
 
 - []()
 
@@ -887,6 +1206,23 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [【二(11-20)】ZeroToMastery - Rust Programming The Complete Developer's Guide 2023](https://www.bilibili.com/video/BV1Zp4y1F7Eq/ "ZeroToMastery - Rust Programming The Complete Developer's Guide 2023")
 
 - [【一(01-10)】ZeroToMastery - Rust Programming The Complete Developer's Guide 2023](https://www.bilibili.com/video/BV1Az4y1G7Km/ "ZeroToMastery - Rust Programming The Complete Developer's Guide 2023")
+
+## PUG
+
+- [pugjs](https://pugjs.org/api/getting-started.html)
+
+- [orandigo](https://orandigo.github.io/blog/)
+
+- [認識 pug 模板語法](https://medium.com/unalai/%E8%AA%8D%E8%AD%98-pug-%E6%A8%A1%E6%9D%BF%E8%AA%9E%E6%B3%95-74adeee56468)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
 
 ### 好客租房移动Web
 
@@ -965,6 +1301,157 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [FileSaver.js](https://github.com/eligrey/FileSaver.js)
 
 - [sleazyfork](https://sleazyfork.org/zh-TW)
+
+- []()
+
+- []()
+
+- []()
+
+## OAuth2
+
+- [理解OAuth 2.0](https://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+- [OAuth 2.0 授權框架](https://ithelp.ithome.com.tw/users/20102562/ironman)
+  - https://ithelp.ithome.com.tw/users/20102562/ironman/2923
+
+- [OAuth 2.0 介紹](https://yu-jack.github.io/2020/04/27/oauth-implement/)
+
+- [認識 OAuth 2.0](https://www.technice.com.tw/experience/12520/)
+
+- [OAuth 2 流程](https://openhome.cc/Gossip/Spring/OAuth2Flows.html)
+
+- [OAuth 2.0](https://hackmd.io/@tienyulin/oauth2)
+
+- [OAuth 流程 101](https://medium.com/@henry-chou/oauth-%E6%B5%81%E7%A8%8B-101-9a1575c422dc)
+
+- []()
+
+- []()
+
+- []()
+
+## Vitest, Jest, Jasmine and Karma
+
+- [前端單元測試 - 使用 Jest](https://www.casper.tw/development/2020/02/02/jest-intro/)
+
+- [無瑕的程式碼](https://ithelp.ithome.com.tw/users/20151761/ironman/5389)
+
+- [前端自動化測試](https://ithelp.ithome.com.tw/users/20161783/ironman/5952?page=1)
+
+- [很難的測試](https://hackmd.io/_42CO6I8QW25cO2sD0T1xA?both#/)
+
+- [單元測試和整合測試](https://ithelp.ithome.com.tw/articles/10229734)
+
+- [Jest建置測試環境](https://dwatow.github.io/2020/04-17-jest/jest-doc-1/)
+
+- [前端開發技術](https://ithelp.ithome.com.tw/users/20162751/ironman/6978)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- [MSW](https://mswjs.io/)
+
+- [MSW](https://ithelp.ithome.com.tw/users/20153820/ironman)
+
+- [MSW](https://ithelp.ithome.com.tw/users/20120076/ironman)
+
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+- [RTL](https://pjchender.dev/react/note-react-testing/)
+
+- [RTL](https://ithelp.ithome.com.tw/users/20105162/ironman)
+
+- [SWR](https://swr.vercel.app/zh-CN)
+
+- [SWR](https://medium.com/onedegree-tech-blog/%E4%BA%86%E8%A7%A3-swr-%E7%9A%84%E9%81%8B%E4%BD%9C%E6%A9%9F%E5%88%B6-how-these-async-state-managers-work-6236fc4f9f6)
+
+- [SWR](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/react-swr-485b8e41ef78)
+
+- [不寫測試才會沒時間](https://ithelp.ithome.com.tw/users/20107429/ironman)
+
+- [單元測試](https://medium.com/@s11110153/%E7%82%BA%E4%BD%95-%E5%A6%82%E4%BD%95-%E5%BE%9E%E4%BD%95%E5%AF%AB%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6-57fc0f1fe918)
+
+- [測試二三事（上）](https://hackmd.io/@Heidi-Liu/learn-about-testing)
+
+- [如何測試程式](https://hackmd.io/@Heidi-Liu/note-js102-jest)
+
+- [vitest](https://vitest.dev/)
+
+- [vitest](https://ithelp.ithome.com.tw/users/20129182/ironman/5931)
+
+- [從 Vitest 開始](https://israynotarray.com/vitest/20230420/4055762937/)
+
+- [Vitest + Vue Test](https://ithelp.ithome.com.tw/users/20119062/ironman)
+
+- [Vue 3 with Vitest](https://medium.com/@Monster.0313/unit-test-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%BA%8C-vue-3-with-vitest-617e8101f7c5)
+
+- [testing-library](https://testing-library.com/)
+
+- [Angular testing](https://cloverhsc.blogspot.com/2018/11/angular-testing-1.html)
+
+- [Angular新手村學習筆記](https://ithelp.ithome.com.tw/users/20107868/ironman)
+
+- [用 Jasmine 撰寫一個 JavaScript 的單元測試](https://dotblogs.com.tw/supershowwei/2020/02/10/143236)
+
+- [jasmine](https://jasmine.github.io/)
+
+- [angular-unit-testing](https://medium.com/swlh/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
+
+- [angular-unit-testing](https://medium.com/simform-engineering/how-to-write-unit-tests-with-jasmine-karma-f1908bdeb617)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## RabbitMQ
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+## MySQL, PostreSQL, Superbase, MongoDB, MariaDB
+
+- [Superbase](https://www.youtube.com/watch?v=dU7GwCOgvNY)
+
+- [Supabase全端開發](https://www.freecodecamp.org/chinese/news/the-complete-guide-to-full-stack-development-with-supabas/)
+
+- [Supabase的儲存空間](https://vocus.cc/article/650417fbfd8978000174ce01)
+
+- [使用 Prisma、Supabase 和 Shadcn 設定 Next.js 專案](https://codelove.tw/@tony/post/B3b8Eq)
+
+- [Supabase介紹](https://tw511.com/a/01/58788.html)
+
+- [Supabase專案](https://medium.com/nosegates/5a92aafe23e4)
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
