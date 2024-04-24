@@ -5,10 +5,12 @@ MeetingWord Backup(20231118)
 [![hackmd-github-sync-badge](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg/badge)](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
- 
+
+# 過來門口按609#，幫你開門 666
+
 ## [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
 
-### [Meeting1 - Down](http://meetingwords.com/CP0hu5b6tM)
+### [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
 
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
@@ -36,21 +38,29 @@ MeetingWord Backup(20231118)
 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-- [ :+1: z-lib](https://zh.singlelogin.re/)
-- [ :+1: dbook](https://www.dbooks.org/)
+- [:+1: z-lib](https://zh.singlelogin.re/)
+  - [Rail](https://zh.singlelogin.re/booklists?searchQuery=railway&order=popular)
+  - [Rail](https://zh.singlelogin.re/category/689/Technique-Transportation-Rail?order=year)
 
-- [ :+1:  :+1:  :+1: My saved webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
+- [:+1: dbook](https://www.dbooks.org/)
 
----
+- [:+1:  :+1:  :+1: My saved webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
+
+- [:+1:Convert Web to PDF](https://www.web2pdfconvert.com/)
+  - Why not print pdf?
+
+- [:+1::+1::+1:Paste to Markdown](https://p2m.gh.miniasp.com/)
+
+- [Mille Bornes](https://en.wikipedia.org/wiki/Mille_Bornes)
 
 ## My Video
 
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
-- [ :a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
- 
-- [ :panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
+- [:a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
+
+- [:panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
-- [ :B: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
+- [:B: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
 - [冬梅来了](https://www.ixigua.com/home/6891924794/?source=pgc_author_name&list_entrance=anyVideo)
 
 ### ooo
@@ -66,30 +76,31 @@ MeetingWord Backup(20231118)
 - [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 - [杰森bababa](https://www.ixigua.com/home/94380112921/?source=pgc_author_name&list_entrance=anyVideo)
 
-
-
 ## My Novel
+
 - [大國實業](http://tw.zhsxs.com/zhsbook/64623.html)
 
-- [ :a: 大醫無疆](http://tw.zhsxs.com/zhsbook/63512.html)
+- [:a: 大醫無疆](http://tw.zhsxs.com/zhsbook/63512.html)
 
 - [奶爸學園](http://tw.zhsxs.com/zhsbook/58422.html)
 
 - [我的公公叫康熙]( http://tw.zhsxs.com/zhsbook/63202.html)
 
+- [:+1: 讓你造拖拉機，你去造火箭]( https://tw.zhsshu.com/book/65456.html)
+
+- [:+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
+
+- [ :+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
+
 - [從1982開始的趕山生涯]( http://tw.zhsxs.com/zhsbook/64247.html)
 
 - [廢土第一美食小攤](https://tw.zhsshu.com/book/65377.html)
 
-- [大國軍艦](  https://tw.zhsshu.com/book/63150.html)
+- [大國軍艦](https://tw.zhsshu.com/book/63150.html)
 
-- [外科教父]( https://tw.zhsshu.com/book/60196.html)
- 
-- [帝國第一紈絝]( https://www.xpiaotian.com/zh_hant/book/334402/)
+- [外科教父](https://tw.zhsshu.com/book/60196.html)
 
-- [:+1: 讓你造拖拉機，你去造火箭]( https://tw.zhsshu.com/book/65456.html)
-
-- [ :+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
+- [帝國第一紈絝](https://www.xpiaotian.com/zh_hant/book/334402/)
 
 - [人在異界搞基建]( https://tw.zhsshu.com/book/65525.html)
 
@@ -101,9 +112,9 @@ MeetingWord Backup(20231118)
 
 - [重回年代，我有宇宙簽到系統]( https://tw.zhsshu.com/book/64741.html)
 
-- [從1981年衛校開始]( https://tw.zhsshu.com/book/63314.html)
-    - https://www.xiaoshuo.com.tw/14245/
-    
+- [從1981年衛校開始](https://tw.zhsshu.com/book/63314.html)
+  - https://www.xiaoshuo.com.tw/14245/
+
 - [從大學講師到首席院士]( https://tw.zhsshu.com/book/63171.html)
 
 - [重回七七種田養娃](  https://tw.zhsshu.com/chapter/63162.html)
@@ -166,8 +177,13 @@ MeetingWord Backup(20231118)
 - []()
 - []()
 - []()
-- [佐佐木與文鳥小嗶](https://tw.linovelib.com/novel/3210/catalog)
 - []()
+- []()
+
+- [虧成首富從遊戲開始](https://yhdm.one/vod-play/2023145550/ep1.html)
+
+- [佐佐木與文鳥小嗶](https://tw.linovelib.com/novel/3210/catalog)
+- [歡迎來到實力至上主義的教室](https://tw.linovelib.com/novel/8.html)
 
 
 - https://tw.uukanshu.com/
@@ -181,38 +197,107 @@ MeetingWord Backup(20231118)
 
 - [秒殺外掛太強了](https://www.baozimh.com/comic/miaoshawaiguataiqiangliaoyishijiedejiahuomengenbenjiubushiduishouao-naduhuawantengxiaogangzhichenglaitisato)
 
+- [婚戒物语](https://www.dm5.cn/manhua-hunjiewuyu/)
+
+- [葬送的芙莉蓮](https://www.dm5.cn/manhua-zangsongdefulilian/)
+
+- [魔都精兵的奴隸](https://www.dm5.cn/manhua-modujingbingdenuli/)
+
+- [婚戒物语](https://www.manhuagui.com/comic/12984/)
+
+- [Re：Monster](https://www.baozimh.com/comic/remonster-xiaozaochuanharuyosijinzhanerhu)
+19
+- [轉生七王子的魔法全解](https://www.baozimh.com/comic/zhuanshengqiwangzidemofaquanjie-qianxunasakurushizeyongjie)
+
+- [轉生貴族靠著鑑定技能一飛衝天](https://www.dm5.cn/manhua-zhuanshengguizukaozhejiandingjinengyifeichongtian/)
+  - https://m.favcomic.com/comic/detail/877196176011698176
+  - https://tw.linovelib.com/novel/4027/catalog
+
+- [favcomic](https://m.favcomic.com/)
+
+- [從Lv2開始開掛的原勇者候補 38](https://www.manhuagui.com/comic/31504/)
+  - https://tw.linovelib.com/novel/2629.html
+  - https://www.baozimh.com/comic/conglv2kaishikaiguadeyuanyongzhehoubuyouxiandeyishijieshenghuo-guinochengmiya
+
+- [虧成首富從遊戲開始 29](https://www.tbmanga.com/comic/chapter/yuchengshoufucongyouxikaishi-yuewenmanhua/0_28.html)
+
+- [The New Gate](https://www.baozimh.com/comic/thenewgate-fengbosinogisanlunyotuyuki)
+
+- [異世界悠閒紀行](https://www.baozimh.com/comic/yishijieyouxianjixingbianyangwabiandangmouxianzhe-shuiwuyuejingliumizunatomomi)
+
+- [大室家 搖曳百合外傳](https://www.baozimh.com/comic/dashijiayaoyibaihewaichuan-namori)
+
+- [花野井同學的戀愛病](https://www.baozimh.com/comic/huayejingtongxuedelianaibing-senyemeng_ts4erc)
+
+- [忘卻Battery](https://www.baozimh.com/comic/wangquebattery-mikawahuizi)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+---
+
+## My articles
+- [長文章、PDF 一鍵轉換成心智圖，收斂式 ChatGPT 知識圖表整理](https://www.playpcesor.com/2024/02/blog-post.html)
+
 - [Ivon的部落格](https://ivonblog.com/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 ---
 
 ## My magazine
-share magazine >>> https://gofile.io/d/HlD0mf
 
-root >>> https://gofile.io/d/5ZxCbx
+- [share magazine](https://gofile.io/d/HlD0mf)
 
-Z-Library https://singlelogin.re/ 
+- [Claude's root](https://gofile.io/d/5ZxCbx)
+
+- [Z-Library](https://singlelogin.re/ )
+
+- [:+1:Convert Web to PDF](https://www.web2pdfconvert.com/)
+  - Why not print pdf?
+
+- [git lfs](https://github.com/git-lfs/git-lfs)
+
+- [rail jr](https://pdfmagazines.club/other/471005--n194-march-2024.html)
+
+- []()
+
+### GRE Words
+
+mstrategist.com/most-common-gre-vocabulary-words/)
+
+- [2](https://www.kaptest.com/study/gre/top-52-gre-vocabulary-words/)
+
+- [3](https://www.facebook.com/photo/?fbid=700197472114144&set=pcb.700202198780338)
 
 
-Convert Web to PDF 
-https://www.web2pdfconvert.com/
 
-git lfs
-https://github.com/git-lfs/git-lfs
-
-
-GRE Words
-- https://examstrategist.com/most-common-gre-vocabulary-words/
-- https://www.kaptest.com/study/gre/top-52-gre-vocabulary-words/
-- https://www.facebook.com/photo/?fbid=700197472114144&set=pcb.700202198780338
-
+### 電氣基礎知識講解
 [了解近30種電氣元件電氣基礎知識講解](https://www.youtube.com/watch?v=TDhsZJJGlQA)
 
-Megger
-https://zhuanlan.zhihu.com/p/612443006
-https://factpedia.org/index.php?title=%E5%85%86%E6%AC%A7%E8%A1%A8&variant=zh-hant
+- [Megger 兆欧表](https://zhuanlan.zhihu.com/p/612443006)
+ - [QQQ](https://factpedia.org/index.php?title=%E5%85%86%E6%AC%A7%E8%A1%A8&variant=zh-hant)
 
 【電工電路識圖佈線接線與維修】1冊（清倉價）NT$799 【電工電路識圖佈線接線與維修+電工從零基礎到實戰】NT$1099
 
+### Free ThreadX source code
 - [:grinning: ThreadX](https://github.com/eclipse-threadx/)
 
 ### ChatGPT
@@ -223,8 +308,8 @@ https://github.com/xtekky/gpt4free
 
 [Cheat RS](https://cheats.rs/)
 
-
 ### Pixiv
+
 https://www.pixiv.net/
 https://www.pixiv.net/users/3284839
 https://www.pixiv.net/tags/%E7%94%9F%E7%90%86/artworks
@@ -266,19 +351,18 @@ https://www.reneelab.net/convert-pdf-to-midi.html
 賴禎祥的摺紙世界(The Origami World Of Lai-Chen-Hsiang)
 摺紙教學DIY學習
 
-用 Web 介面加入 Webex 會議時，加入後都聽不到聲音的情況。因為我有兩個輸出音訊的設備，預設選錯的時候就會覺得怎麼都沒聲音。剛好 Webex 的 Web UI 並沒有提供調整音訊裝置的地方，所以就會卡一段時間。
-以下這兩個連結是 Chrome / Edge 用來調整瀏覽器預設音訊/視訊裝置的位址 
- chrome://settings/content/camera
- chrome://settings/content/microphone
+## PM
 
-## 過來門口按609#，幫你開門 666
-
+```
 這似乎也證明了抬杠的終極奧義，其實就隻是兩點。
 
-    第一就是永遠保持冷靜，不要被憤怒衝昏頭腦，率先破防！
+第一就是永遠保持冷靜，不要被憤怒衝昏頭腦，率先破防！
 
-    第二就是始終堅持不能放棄，不論是轉進話題還是死纏爛打，一定不能做倒數第二個說話的人，
-    要保證最後一句話，一定是從自己這邊發出的。
+第二就是始終堅持不能放棄，不論是轉進話題還是死纏爛打，
+一定不能做倒數第二個說話的人，
+
+要保證最後一句話，一定是從自己這邊發出的。
+```    
 
 - [椪皮仔 pm](https://ponpizai.com/)
 
