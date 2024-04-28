@@ -187,6 +187,22 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [code wars]()
 
+- [onecompiler](https://onecompiler.com/typescript)
+
+- [playcode](https://playcode.io/)
+
+- [mozilla](https://developer.mozilla.org/en-US/play)
+
+- [jsplayground](https://www.jsplayground.dev/)
+
+- [runjs](https://runjs.co/)
+
+- []()
+
+- []()
+
+- []()
+
 - []()
 
 - []()
@@ -334,9 +350,9 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [臨池不輟](https://keelii.com/)
 
-- []()
+- [pipeline-operator](https://learningsky.io/javascript-pipeline-operator/)
 
-- []()
+- [feat: Function Programming](https://ithelp.ithome.com.tw/users/20107307/ironman/4082)
 
 - []()
 
@@ -596,7 +612,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [用ChatGPT詠唱來完成工作與點亮前後端技能樹](https://ithelp.ithome.com.tw/users/20135750/ironman/6659)
 
-- []()
+- [Next.js](https://ithelp.ithome.com.tw/users/20110504/ironman/4269)
 
 - []()
 
@@ -724,7 +740,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [遊戲之美](https://ithelp.ithome.com.tw/users/20107113/ironman/1624)
 
-- []()
+- [kaboomjs](https://kaboomjs.com/)
 
 - []()
 
@@ -745,6 +761,30 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [randomuser](https://randomuser.me/)
 
 - [insoxin](https://github.com/insoxin/API)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# SVELTE
+
+- [SVELTE 簡介](https://hackmd.io/@kna8421/rkXjom64c)
+
+- [Svelte 從入門到原理](https://www.readfog.com/a/1630735829881163776)
+
+- [學 Svelte](https://ithelp.ithome.com.tw/users/20103565/ironman/3632)
+
+- [SVELTE](https://medium.com/@wastemobile/%E6%95%B8%E4%BD%8D%E5%85%A7%E5%AE%B9%E4%BD%9C%E8%80%85%E7%9A%84%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6-fb186e7bbd5c)
 
 - []()
 
@@ -953,6 +993,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [Design Patterns in TypeScript](https://www.bilibili.com/video/BV1PQ4y1i7t7)
   - https://www.udemy.com/course/typescript-design-patterns/learn/lecture/7513458#overview
+  - https://refactoringguru.cn/
 
 - [TypeScript 面試](https://www.bilibili.com/video/BV13r42187GX)
 
@@ -1223,6 +1264,31 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+# Github + Hexo
+
+- [架設部落格](https://chanchandev.com/note/Hexo/hexo-introduction/2335841689/)
+
+- [hexo.io](https://hexo.io/zh-tw/docs/github-pages)
+
+- [Hexo 部落格部屬到 Github](https://ithelp.ithome.com.tw/articles/10272520)
+
+- [用 Hexo 及 GitHub Pages 打造部落格](https://kanido386.github.io/2021/06/hexo-github-pages-blog/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 ### 好客租房移动Web
 
@@ -1405,7 +1471,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [angular-unit-testing](https://medium.com/simform-engineering/how-to-write-unit-tests-with-jasmine-karma-f1908bdeb617)
 
-- []()
+- [chibivue](https://github.com/Ubugeeei/chibivue)
 
 - []()
 
@@ -1419,7 +1485,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 ## RabbitMQ
 
-- []()
+- [Task Queue](https://ithelp.ithome.com.tw/articles/10295925)
 
 - []()
 
@@ -1433,7 +1499,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-## MySQL, PostreSQL, Superbase, MongoDB, MariaDB
+## MySQL, PostreSQL, Superbase, MongoDB, MariaDB, Redis
 
 - [Superbase](https://www.youtube.com/watch?v=dU7GwCOgvNY)
 
@@ -1446,6 +1512,44 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [Supabase介紹](https://tw511.com/a/01/58788.html)
 
 - [Supabase專案](https://medium.com/nosegates/5a92aafe23e4)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+### Redis
+
+- [輕量級網站](https://ithelp.ithome.com.tw/users/20005266/ironman/512)
+
+- [開始使用 Redis](https://www.navicat.com/en/company/aboutus/blog/2269-%E9%96%8B%E5%A7%8B%E4%BD%BF%E7%94%A8-redis)
+
+- [Redis了解與應用](https://hackmd.io/@cynote/BkobMykLw)
+
+- [Redis](https://ithelp.ithome.com.tw/users/20125192/ironman)
+
+- [Redis](https://ithelp.ithome.com.tw/users/20161807/ironman)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
