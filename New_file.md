@@ -78,13 +78,13 @@ MeetingWord Backup(20231118)
 
 ## My Novel
 
-- [大國實業](http://tw.zhsxs.com/zhsbook/64623.html)
+- [大國實業](https://tw.zhswx.com/book/64623.html)
 
-- [:a: 大醫無疆](http://tw.zhsxs.com/zhsbook/63512.html)
+- [:a: 大醫無疆](https://tw.zhswx.com/book/63512.html)
 
-- [奶爸學園](http://tw.zhsxs.com/zhsbook/58422.html)
+- [奶爸學園](https://tw.zhswx.com/book/58422.html)
 
-- [我的公公叫康熙]( http://tw.zhsxs.com/zhsbook/63202.html)
+- [我的公公叫康熙]( https://tw.zhswx.com/book/63202.html)
 
 - [:+1: 讓你造拖拉機，你去造火箭]( https://tw.zhsshu.com/book/65456.html)
 
@@ -92,7 +92,7 @@ MeetingWord Backup(20231118)
 
 - [ :+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
 
-- [從1982開始的趕山生涯]( http://tw.zhsxs.com/zhsbook/64247.html)
+- [從1982開始的趕山生涯]( https://tw.zhswx.com/book/64247.html)
 
 - [廢土第一美食小攤](https://tw.zhsshu.com/book/65377.html)
 
@@ -125,27 +125,27 @@ MeetingWord Backup(20231118)
 
 - [人生1984](https://tw.zhsshu.com/book/65280.html)
 
-- [我在星際賣盒飯]( http://tw.zhsxs.com/zhschapter/63868.html)
+- [我在星際賣盒飯]( https://tw.zhswx.com/book/63868.html)
 
-- [宋檀記事]( http://tw.zhsxs.com/zhschapter/63215.html)
+- [宋檀記事]( https://tw.zhswx.com/book/63215.html)
 
-- [我的姐夫是太子]( http://tw.zhsxs.com/zhsbook/63117.html)
+- [我的姐夫是太子]( https://tw.zhswx.com/book/63117.html)
 
-- [我的1995小農莊]( http://tw.zhsxs.com/zhsbook/63515.html)
+- [我的1995小農莊]( https://tw.zhswx.com/book/63515.html)
 
-- [重生90：我靠種田培養學霸老哥]( http://tw.zhsxs.com/zhsbook/63450.html)
-- [科技霸主從帶娃開始]( http://tw.zhsxs.com/zhschapter/62257.html)
-- [重生八零，山有靈兮我有田]( http://tw.zhsxs.com/zhschapter/63592.html)
-- [種田開荒，我在古代嬌養侯爺]( http://tw.zhsxs.com/zhsbook/62771.html)
-- [旅行從攝影開始]( http://tw.zhsxs.com/zhsbook/64275.html)
-- [重返2000：大國機長]( http://tw.zhsxs.com/zhsbook/63638.html)
-- [從跟天后領證開始]( http://tw.zhsxs.com/zhsbook/64266.html)
-- [一口天價炒飯]( http://tw.zhsxs.com/zhsbook/64874.html)
-- [滿級千金她颯爆回歸]( http://tw.zhsxs.com/zhschapter/63892.html)
-- [魔眼小神醫]( http://tw.zhsxs.com/zhsbook/58600.html)
+- [重生90：我靠種田培養學霸老哥]( https://tw.zhswx.com/book/63450.html)
+- [科技霸主從帶娃開始]( https://tw.zhswx.com/book/62257.html)
+- [重生八零，山有靈兮我有田]( https://tw.zhswx.com/book/63592.html)
+- [種田開荒，我在古代嬌養侯爺]( https://tw.zhswx.com/book/62771.html)
+- [旅行從攝影開始]( https://tw.zhswx.com/book/64275.html)
+- [重返2000：大國機長]( https://tw.zhswx.com/book/63638.html)
+- [從跟天后領證開始]( https://tw.zhswx.com/book/64266.html)
+- [一口天價炒飯]( https://tw.zhswx.com/book/64874.html)
+- [滿級千金她颯爆回歸]( https://tw.zhswx.com/book/63892.html)
+- [魔眼小神醫](https://tw.zhswx.com/book/58600.html)
 - [掌门低调点]( https://www.xhsxsw.com/book/zhangmenditiaodian/)
-- [重生去當鄉村醫生]( http://tw.zhsxs.com/zhschapter/64160.html)
-- [做媒這一塊]( http://tw.zhsxs.com/zhsread/63008_22283246.html)
+- [重生去當鄉村醫生]( https://tw.zhswx.com/book/64160.html)
+- [做媒這一塊]( https://tw.zhswx.com/book/63008.html)
 - https://tw.linovelib.com/novel/3435/173996.html
 - https://tw.linovelib.com/novel/2456/174935_2.html
 - https://tw.linovelib.com/novel/2796/134690.html
@@ -231,7 +231,7 @@ MeetingWord Backup(20231118)
 
 - [忘卻Battery](https://www.baozimh.com/comic/wangquebattery-mikawahuizi)
 
-- []()
+- [怪人的沙拉碗](https://www.baozimh.com/comic/guairendeshalawan-pingbandu)
 
 - []()
 
