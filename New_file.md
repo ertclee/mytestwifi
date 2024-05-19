@@ -1,4 +1,4 @@
-MeetingWord Backup(20231118)
+MeetingWord Backup(20240519)
 ===
 
 
@@ -53,6 +53,8 @@ MeetingWord Backup(20231118)
 
 - [Mille Bornes](https://en.wikipedia.org/wiki/Mille_Bornes)
 
+- [Map geovisearth](https://online.geovisearth.com/browser)
+
 ## My Video
 
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
@@ -91,6 +93,12 @@ MeetingWord Backup(20231118)
 - [:+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
 
 - [ :+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
+
+- [重回98做大醫](https://czbooks.net/n/uihbi6)
+
+- [台灣小說網](https://xsw.tw/)
+
+- []()
 
 - [從1982開始的趕山生涯]( https://tw.zhswx.com/book/64247.html)
 
@@ -177,7 +185,7 @@ MeetingWord Backup(20231118)
 - []()
 - []()
 - []()
-- []()
+- [retro games](https://www.classic-retro-games.com/)
 - []()
 
 - [虧成首富從遊戲開始](https://yhdm.one/vod-play/2023145550/ep1.html)
@@ -232,8 +240,9 @@ MeetingWord Backup(20231118)
 - [忘卻Battery](https://www.baozimh.com/comic/wangquebattery-mikawahuizi)
 
 - [怪人的沙拉碗](https://www.baozimh.com/comic/guairendeshalawan-pingbandu)
+  - https://tw.linovelib.com/novel/3523/catalog
 
-- []()
+- [疑似後宮](https://www.baozimh.com/comic/yisihougong-qitengyuu)
 
 - []()
 
