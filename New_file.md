@@ -1,4 +1,4 @@
-MeetingWord Backup(20240519)
+MeetingWord Backup(20240612)
 ===
 
 
@@ -22,7 +22,7 @@ MeetingWord Backup(20240519)
 
 - ### [Temp HackMd(20230120)](https://hackmd.io/7_xuAeqwRPGaMiVdm2S8tQ)
 
-- ### [:O: Trello](https://trello.com/b/e49YcOYv/mtk-work)
+- ### [:o: Trello](https://trello.com/b/e49YcOYv/mtk-work)
 
 - ### [My CHIP-8](https://hackmd.io/wI-lw4BxRLy30PaUi7qhYw)
 
@@ -38,7 +38,7 @@ MeetingWord Backup(20240519)
 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-- [:+1: z-lib](https://zh.singlelogin.re/)
+- [:+1: z-lib](https://zh.singlelogin.re/categories)
   - [Rail](https://zh.singlelogin.re/booklists?searchQuery=railway&order=popular)
   - [Rail](https://zh.singlelogin.re/category/689/Technique-Transportation-Rail?order=year)
 
@@ -58,11 +58,13 @@ MeetingWord Backup(20240519)
 ## My Video
 
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
+  - https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o
+
 - [:a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
 
 - [:panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
-- [:B: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
+- [:b: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
 - [冬梅来了](https://www.ixigua.com/home/6891924794/?source=pgc_author_name&list_entrance=anyVideo)
 
 ### ooo
@@ -70,6 +72,7 @@ MeetingWord Backup(20240519)
 - [华哥货车自驾游](https://www.ixigua.com/home/3237374800190640/?list_entrance=anyVideo)
 - [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
 - [云游兄弟](https://www.ixigua.com/home/1472952104134967/?list_entrance=search)
+- [周周的环游梦](https://www.ixigua.com/home/1151898300726365/?source=pgc_author_name&list_entrance=anyVideo)
 - [开车趣探险](https://www.ixigua.com/home/73243582899/?source=pgc_author_name&list_entrance=anyVideo)
 - [868黑娃黑妹](https://www.ixigua.com/home/1965517735472455/?source=pgc_author_name&list_entrance=anyVideo)
 - [穷游的似水年华](https://www.ixigua.com/home/85614639172/?list_entrance=category&video_card_type=shortvideo)
@@ -78,7 +81,13 @@ MeetingWord Backup(20240519)
 - [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 - [杰森bababa](https://www.ixigua.com/home/94380112921/?source=pgc_author_name&list_entrance=anyVideo)
 
+- [擅長捉弄的高木同學](https://dramasq.com/xj/jp240327/)
+
 ## My Novel
+
+- [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
+
+- [tw.linovelib](https://tw.linovelib.com/)
 
 - [大國實業](https://tw.zhswx.com/book/64623.html)
 
@@ -92,7 +101,9 @@ MeetingWord Backup(20240519)
 
 - [:+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
 
-- [ :+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
+- [:+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
+
+- [學妹，別人不知道你是穿越者吧](https://czbooks.net/n/uipbei)
 
 - [重回98做大醫](https://czbooks.net/n/uihbi6)
 
@@ -260,6 +271,16 @@ MeetingWord Backup(20240519)
 - [長文章、PDF 一鍵轉換成心智圖，收斂式 ChatGPT 知識圖表整理](https://www.playpcesor.com/2024/02/blog-post.html)
 
 - [Ivon的部落格](https://ivonblog.com/)
+
+- []()
+
+- []()
+
+### Notepad++ Block mode
+
+- [列模式編輯](https://jesse-webs.blogspot.com/2015/06/notepad-column-mode-editing.html)
+
+- [Selection modes & Column Editor](https://npp-user-manual.org/docs/editing/)
 
 - []()
 
