@@ -2,7 +2,6 @@ MeetingWord Backup(20240612)
 ===
 
 
-[![hackmd-github-sync-badge](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg/badge)](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
 
@@ -81,7 +80,7 @@ MeetingWord Backup(20240612)
 - [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 - [杰森bababa](https://www.ixigua.com/home/94380112921/?source=pgc_author_name&list_entrance=anyVideo)
 
-- [擅長捉弄的高木同學](https://dramasq.com/xj/jp240327/)
+- [擅長捉弄的高木同學 v](https://dramasq.com/xj/jp240327/)
 
 ## My Novel
 
@@ -105,11 +104,17 @@ MeetingWord Backup(20240612)
 
 - [學妹，別人不知道你是穿越者吧](https://czbooks.net/n/uipbei)
 
+- [異界之無限煉金](https://www.xiaoshuo.com.tw/133459/)
+
 - [重回98做大醫](https://czbooks.net/n/uihbi6)
 
 - [台灣小說網](https://xsw.tw/)
 
 - []()
+
+- [JavaScript 記憶體管理](https://ithelp.ithome.com.tw/users/20116883/ironman)
+
+
 
 - [從1982開始的趕山生涯]( https://tw.zhswx.com/book/64247.html)
 
