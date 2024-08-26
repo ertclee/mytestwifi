@@ -1,9 +1,7 @@
-前端Web開發HTML5+CSS3 Part 2
+前端Web開發 HTML5+CSS3 Part 2
 ===
 
-[![hackmd-github-sync-badge](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ/badge)](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
-
-tags: `Xian` `Galaxian` `HTML5` `CSS3`
+tags: `Xian` `HTML5` `CSS3` `WebDev`
 
 ---
 
@@ -11,8 +9,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [前端Web開發HTML5+CSS3 Part 2](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
 
 ---
-
-- [My backup](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
+- ### [My backup](https://hackmd.io/Y1OMHsvLRtKCT5_FD5suJg)
 
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
@@ -36,7 +33,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - ### [Working Note](https://hackmd.io/EebZ1ErNTh6fLGdOSNabfw)
 
-- [:O: My tools](https://hackmd.io/xfCzcuCTQLmGe1x4aq43RA)
+- [:o: My tools](https://hackmd.io/xfCzcuCTQLmGe1x4aq43RA)
 
 - [Trello](https://trello.com/b/e49YcOYv/mtk-work)
 
@@ -65,6 +62,9 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [js book](https://github.com/basicExploration/books)
 
 - [Think Speak](https://thingspeak.com/account)
+
+- [Felo Search](https://search.glarity.ai/)
+
 ---
 
 - CSDN: ertclee@yahoo.com/aA3......0!
@@ -91,6 +91,20 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
+- []()
+
+- []()
+
+## free Udemy
+
+- [coursetreat](https://coursetreat.com/index)
+
+- []()
+
+- []()
+
+- []()
+
 ## Web Tools
 
 - [ip138](https://tool.ip138.com/)
@@ -112,6 +126,12 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [ascii](https://www.techmarks.com/ascii-generator/)
 
 - [lowdb](https://github.com/typicode/lowdb)
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
@@ -164,6 +184,24 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [regextester](https://www.regextester.com/)
 
+- [JS REPL](https://repljs.com/)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
 - [工具邦](https://tw.piliapp.com/)
 
 - [:+1:2024前端學習資源](https://www.may-notes.com/free-front-end-collection/)
@@ -196,6 +234,12 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - [jsplayground](https://www.jsplayground.dev/)
 
 - [runjs](https://runjs.co/)
+
+- [sololearn](https://www.sololearn.com/en/compiler-playground)
+
+- [Stephen Grider](https://stephengrider.github.io/JSPlaygrounds/)
+
+- [babeljs](https://babeljs.io/)
 
 - []()
 
@@ -322,6 +366,66 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [loremflickr](https://loremflickr.com/)
 
+- [exploringjs](https://exploringjs.com/)
+
+- [collect](https://collect.js.org/)
+
+- [adviceslip](https://api.adviceslip.com/)
+
+- [danielfullstack](https://www.danielfullstack.com/article/this-typescript-trick-will-blow-your-mind)
+
+- [JavaScript 記憶體管理](https://ithelp.ithome.com.tw/users/20116883/ironman)
+
+- [linghuam](https://github.com/linghuam/boutique-books)
+
+- [You-Dont-Know-JS](https://github.com/zhangpenglin/You-Dont-Know-JS)
+
+- [You-Dont-Know-JS](https://github.com/yunyi1895/You-Dont-Know-JS-zh)
+
+- [You-Dont-Know-JS](https://github.com/hwaphon/You-Dont-Know-JS)
+
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+- [exploringjs](https://exploringjs.com/js/)
+
+- []()
+
+- []()
+
+- []()
+
+## UUID and ULID
+
+- [ULID](https://github.com/ulid/spec)
+
+- [解說 ULID](https://myapollo.com.tw/post/ulid/)
+
+- [myapollo](https://myapollo.com.tw/)
+
+- []()
+
+- []()
+
+- []()
+
+## Mock
+
+- [Mock.js 假資料的製作](https://hackmd.io/@ME1splK_SaS67P2I6U7h_w/SkEeW-3Fn)
+  - https://hackmd.io/@ME1splK_SaS67P2I6U7h_w
+
+- [Mockjs使用](https://juejin.cn/post/6953199521031520292)
+
+- [mockjs](http://mockjs.com/)
+
+- [Json Server](https://ithelp.ithome.com.tw/articles/10297715)
+  - https://ithelp.ithome.com.tw/users/20151497/ironman/5797
+
+- []()
+
+- []()
+
+- []()
+
 - []()
 
 - []()
@@ -354,6 +458,16 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [feat: Function Programming](https://ithelp.ithome.com.tw/users/20107307/ironman/4082)
 
+- [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+- [FP](https://jigsawye.gitbooks.io/mostly-adequate-guide/content/)
+
+- []()
+
+- []()
+
+- []()
+
 - []()
 
 - []()
@@ -363,6 +477,22 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - []()
 
 - []()
+
+### Proxy
+
+- [Proxy](https://ithelp.ithome.com.tw/articles/10214886)
+
+- [Proxy監聽資料變化](https://ithelp.ithome.com.tw/articles/10264681)
+
+- []()
+
+- []()
+
+- []()
+
+### Immutable
+
+- [Immutablejs](https://ithelp.ithome.com.tw/articles/10187571)
 
 - []()
 
@@ -390,17 +520,18 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [mechachen](https://mechachen.github.io/docs/intro)
 
-- []()
+- [promisesaplus](https://promisesaplus.com/)
 
-- []()
+- [Promises/A+ 規範](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/promises-a-plus-330dda203569)
 
-- []()
+- [從Promise開始的JavaScript異步生活](https://eyesofkids.gitbooks.io/javascript-start-es6-promise/content/)
+  - https://eddy-chang.gitbook.io/javascript-start-es6-promise
+   
+- [從Promise開始](https://ms314006.github.io/js-promise/)
 
-- []()
+- [Promises/A+ 規範](https://tsejx.github.io/javascript-guidebook/standard-built-in-objects/control-abstraction-objects/promise-standard/)
 
-- []()
-
-- []()
+- [實作一個 Promise](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/implement-promise-aed55f3e84e9)
 
 - []()
 
@@ -429,6 +560,40 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 - []()
 
 - []()
+
+## <css-doodle></css-doodle>
+- [<css-doodle](https://css-doodle.com/)
+
+- [CSS 生成藝術初探](https://blog.techbridge.cc/2020/05/25/css-generative-art-css-doodle/)
+
+- [github](https://github.com/css-doodle/css-doodle)
+
+- [css-doodle](https://juejin.cn/post/6844903827745800200)
+
+- []()
+
+- []()
+
+## MVVM
+
+- [MVVM](https://medium.com/ken-do-everything/mvvm-%E6%9E%B6%E6%A7%8B%E7%AF%87-%E6%9B%B8%E8%AE%80%E5%BE%97%E5%A4%9A-%E4%BA%BA%E8%87%AA%E7%84%B6%E5%B0%B1%E5%A5%BD%E7%9C%8B%E8%B5%B7%E4%BE%86-4fd595581e7f)
+
+- [MVVM](https://learn.microsoft.com/zh-tw/dotnet/architecture/maui/mvvm)
+
+- [MVVM](https://ithelp.ithome.com.tw/articles/10192829)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+
+
+
+---
 
 ### Web Tools
 
@@ -622,7 +787,9 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - []()
 
-- []()
+## Nest.js
+
+- [Nest](https://ithelp.ithome.com.tw/articles/10264935)
 
 - []()
 
@@ -692,7 +859,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [SQL Learning](https://ithelp.ithome.com.tw/users/20091494/ironman)
 
-- []()
+- [Firebase](https://ithelp.ithome.com.tw/articles/10205404)
 
 - []()
 
@@ -1009,7 +1176,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [櫻桃茶](https://doc.cherrychat.org/ts/)
 
-- []()
+- [danielfullstack](https://www.danielfullstack.com/article/this-typescript-trick-will-blow-your-mind)
 
 - []()
 
@@ -1125,7 +1292,7 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [jsonapi](https://www.jsonapi.co/)
 
-- []()
+- [crockford](https://www.crockford.com/solitaire.html)
 
 - []()
 
@@ -1473,7 +1640,16 @@ tags: `Xian` `Galaxian` `HTML5` `CSS3`
 
 - [chibivue](https://github.com/Ubugeeei/chibivue)
 
-- []()
+- [重新認識 Vue.js](https://book.vue.tw/CH1/1-1-introduction.html)
+  - [重新認識 JavaScript](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)
+
+- [vue3-News](https://vue3.github.io/vue3-News/)
+
+- [vue3js](https://vue3js.cn/)
+
+- [guide](https://cn.vuejs.org/guide/introduction.html)
+
+- [Vue3開始學](https://ithelp.ithome.com.tw/users/20162607/ironman/6461)
 
 - []()
 
