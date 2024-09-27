@@ -1,13 +1,12 @@
-MeetingWord Backup(20240612)
+MeetingWord Backup(20240927)
 ===
-
-
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
 
 # 過來門口按609#，幫你開門 666
 
-## [Meeting2 - up](http://meetingwords.com/unlQYTCAwG)
+## [Meeting2 - Down](http://meetingwords.com/unlQYTCAwG)
+- https://github.com/ether/etherpad-lite
 
 ### [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
 
@@ -20,6 +19,13 @@ MeetingWord Backup(20240612)
 - ### [MeetingWord Backup(20230607)](https://hackmd.io/SvfPzqlESm6MAYC1rDixJw)
 
 - ### [Temp HackMd(20230120)](https://hackmd.io/7_xuAeqwRPGaMiVdm2S8tQ)
+
+- ### [Go link](https://hackmd.io/EA_uxlsrRQO62Hf5lusjcA)
+
+- ### [Pyhton link](https://hackmd.io/dyrk9j62REOjGZTV2R6VnQ)
+
+- ### [Rust Link](https://hackmd.io/6fXSw_GFSIKFMksSOmyvQw)
+
 
 - ### [:o: Trello](https://trello.com/b/e49YcOYv/mtk-work)
 
@@ -56,30 +62,20 @@ MeetingWord Backup(20240612)
 
 ## My Video
 
-- [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
+- :a: [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
   - https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o
+  - https://www.douyin.com/user/MS4wLjABAAAADFJXJJiH3A32tqE30u4VFj1yyIbzYqY2Y1iVdxTgJDw?relation=0&vid=7131363389632253196
 
-- [:a: 安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
+- [安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
 
 - [:panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
 - [:b: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
-- [冬梅来了](https://www.ixigua.com/home/6891924794/?source=pgc_author_name&list_entrance=anyVideo)
 
 ### ooo
 
-- [华哥货车自驾游](https://www.ixigua.com/home/3237374800190640/?list_entrance=anyVideo)
 - [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
-- [云游兄弟](https://www.ixigua.com/home/1472952104134967/?list_entrance=search)
-- [周周的环游梦](https://www.ixigua.com/home/1151898300726365/?source=pgc_author_name&list_entrance=anyVideo)
-- [开车趣探险](https://www.ixigua.com/home/73243582899/?source=pgc_author_name&list_entrance=anyVideo)
-- [868黑娃黑妹](https://www.ixigua.com/home/1965517735472455/?source=pgc_author_name&list_entrance=anyVideo)
-- [穷游的似水年华](https://www.ixigua.com/home/85614639172/?list_entrance=category&video_card_type=shortvideo)
-- [家和远方的旅行](https://www.ixigua.com/home/2392171011639870/?source=pgc_author_name&list_entrance=anyVideo)
-- [刘师傅游记](https://www.ixigua.com/home/51025704100/?source=pgc_author_name&list_entrance=anyVideo)
 - [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
-- [杰森bababa](https://www.ixigua.com/home/94380112921/?source=pgc_author_name&list_entrance=anyVideo)
-
 - [擅長捉弄的高木同學 v](https://dramasq.com/xj/jp240327/)
 
 ## My Novel
@@ -102,6 +98,12 @@ MeetingWord Backup(20240612)
 
 - [:+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
 
+- [諸天養老從火紅年代開始](https://czbooks.net/n/s6p3p3)
+  - https://69shuba.cx/book/48421.htm
+
+- [我盡力了](https://czbooks.net/a/%E6%88%91%E7%9B%A1%E5%8A%9B%E4%BA%86)
+  - https://69shuba.cx/book/55739/
+
 - [學妹，別人不知道你是穿越者吧](https://czbooks.net/n/uipbei)
 
 - [異界之無限煉金](https://www.xiaoshuo.com.tw/133459/)
@@ -109,6 +111,18 @@ MeetingWord Backup(20240612)
 - [重回98做大醫](https://czbooks.net/n/uihbi6)
 
 - [台灣小說網](https://xsw.tw/)
+
+- [美食定製商](https://czbooks.net/n/s668dh)
+
+- [擺攤的我怎麼成廚神了](https://czbooks.net/n/s664a6)
+
+- [從修牛蹄開始](https://czbooks.net/n/s6p7e0)
+
+- [【我推的孩子】](https://tw.linovelib.com/novel/2602/catalog)
+
+- [不時輕聲地以俄語遮羞的鄰座艾莉同學](https://tw.linovelib.com/novel/2939/catalog)
+
+- []()
 
 - []()
 
@@ -219,6 +233,8 @@ MeetingWord Backup(20240612)
 - [:red_circle: 女王的手術刀](https://www.baozimh.com/comic/nuwangdeshouzhudao-liuren_8qfeip)
 - [我獨自升級](https://www.baozimh.com/comic/woduzishengji-duburedicestudio_gi486f)
 
+- [公爵的契約未婚妻](https://www.baozimh.com/comic/gongjuedeqiyueweihunqi-whalezhubi_gb3x8l)
+
 - [秒殺外掛太強了](https://www.baozimh.com/comic/miaoshawaiguataiqiangliaoyishijiedejiahuomengenbenjiubushiduishouao-naduhuawantengxiaogangzhichenglaitisato)
 
 - [婚戒物语](https://www.dm5.cn/manhua-hunjiewuyu/)
@@ -230,7 +246,7 @@ MeetingWord Backup(20240612)
 - [婚戒物语](https://www.manhuagui.com/comic/12984/)
 
 - [Re：Monster](https://www.baozimh.com/comic/remonster-xiaozaochuanharuyosijinzhanerhu)
-19
+
 - [轉生七王子的魔法全解](https://www.baozimh.com/comic/zhuanshengqiwangzidemofaquanjie-qianxunasakurushizeyongjie)
 
 - [轉生貴族靠著鑑定技能一飛衝天](https://www.dm5.cn/manhua-zhuanshengguizukaozhejiandingjinengyifeichongtian/)
@@ -260,9 +276,9 @@ MeetingWord Backup(20240612)
 
 - [疑似後宮](https://www.baozimh.com/comic/yisihougong-qitengyuu)
 
-- []()
+- [久保同學不放過我](https://www.baozimh.com/comic/jiubaotongxuebufangguowo-xuesenzhuzhu)
 
-- []()
+- [小森拒不了！](https://www.baozimh.com/comic/xiaosenjubuliao-kurujiaoxinzhe)
 
 - []()
 
@@ -640,20 +656,26 @@ https://topaz2012.pixnet.net/blog/post/26392440
 FIRST LOOK: Low Latency Analogue & Digital Retro Gaming Interface | CTRLDock
 
 ### DOS game
-https://dos.zczc.cz
+- https://dos.zczc.cz
+- https://legacy.dos.zczc.cz/
+
+- https://www.zophar.net/
+- https://www.retrostic.com/
+- https://www.retrogames.onl/
+
+- https://github.com/zajo/appler
+- https://forum.gamer.com.tw/C.php?bsn=10859&snA=515
+- https://kowala21.blogspot.com/2012/06/prince-of-persia-1.html
 
 ### 家用主機 & 大型電玩
-https://emulatorgames.online/
-https://myemulator.online/
-https://www.retrogames.cz/
+- https://emulatorgames.online/
+- https://myemulator.online/
+- https://www.retrogames.cz/
 
+- https://gist.github.com/ertclee/16c6fcce0c54afa7b5cd29aa0f4fa645
 
-
-
-https://gist.github.com/ertclee/16c6fcce0c54afa7b5cd29aa0f4fa645
-
-https://www.youtube.com/watch?v=UNxpRiw8pRE
-https://github.com/codecrafters-io/build-your-own-x
+- https://www.youtube.com/watch?v=UNxpRiw8pRE
+- https://github.com/codecrafters-io/build-your-own-x
 
 ### online radio
 http://publicdomainradio.org/
@@ -1512,12 +1534,60 @@ https://www.youtube.com/channel/UCtZrrbHCBaU3nd_0_ejXqMw
 
 https://tw.manhuagui.com/comic/35151/
 
-JP Drama
+### JP Drama
 https://dramasq.cc/jp/
 https://gimy.app/type/30.html
 https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A
 
+### Dos Game download
 
+https://dos-bin.zczc.cz/%E7%A9%BA%E9%99%8D%E6%B8%B8%E9%AA%91%E5%85%B5.zip
+
+https://dos-bin.zczc.cz/.zip
+
+https://dos-bin.zczc.cz/幽浮1未知敌人.zip
+https://dos-bin.zczc.cz/幽浮2深海之谜题.zip
+https://dos-bin.zczc.cz/幽浮3天启光碟版.zip
+https://dos-bin.zczc.cz/魔兽争霸2中文版.zip
+
+https://dos-bin.zczc.cz/魔法门4星云之谜.zip
+https://dos-bin.zczc.cz/魔法门5黑暗魔君.zip
+
+
+https://dos-bin.zczc.cz/魔法门英雄无敌.zip
+https://dos-bin.zczc.cz/魔法门英雄无敌2.zip
+https://dos-bin.zczc.cz/魔法门英雄无敌2中文.zip
+https://dos-bin.zczc.cz/魔法门英雄无敌中文.zip
+
+https://dos-bin.zczc.cz/魔法门星云之剑.zip
+
+https://dos-bin.zczc.cz/毁灭战士2终结版.zip
+
+
+
+{
+  "games": {
+    "仙剑奇侠传": {
+      "identifier": "仙剑奇侠传",
+      "name": {
+        "zh-Hans": "仙剑奇侠传",
+        "zh-Hant": "仙劍奇俠傳",
+        "en": "The Legend of Sword and Fairy"
+      },
+      "releaseYear": 1995,
+      "executable": "PAL!.EXE",
+      "keymaps": {
+        "←→↑↓": "移动",
+        "Alt": "显示菜单、取消操作",
+        "Enter/Ctrl/Space": "对话、调查、菜单选择"
+      },
+      "links": {
+        "仙劍奇俠傳攻略": "https://chiuinan.github.io/game/game/intro/ch/c11/pal/"
+      },
+      "coverFilename": "cover.png",
+      "sha256": "ef209d15734a9e2e533d9a73f2550b3524be5c4cfd5b0ed68c82df6638784adb",
+      "filesize": 20272189
+    },
 
 
 
