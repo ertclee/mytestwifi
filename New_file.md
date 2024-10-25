@@ -35,7 +35,7 @@ MeetingWord Backup(20240927)
 
 - [New York Times](https://cn.nytimes.com/zh-hant/)
 
-- [New York Time + UDN](https://udn.com/author/articles/2/810)
+- [紐時賞析 UDN](https://udn.com/author/articles/2/810)
 
 - [William Yeh](https://william-yeh.net/)
 
@@ -44,6 +44,8 @@ MeetingWord Backup(20240927)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 - [:+1: z-lib](https://zh.singlelogin.re/categories)
+  - https://zh.articles.sk/
+  - https://z-library.sk/
   - [Rail](https://zh.singlelogin.re/booklists?searchQuery=railway&order=popular)
   - [Rail](https://zh.singlelogin.re/category/689/Technique-Transportation-Rail?order=year)
 
@@ -60,13 +62,22 @@ MeetingWord Backup(20240927)
 
 - [Map geovisearth](https://online.geovisearth.com/browser)
 
+---
+- ### [Daily Note](https://hackmd.io/BrJcnA3STEWct-4mychV9Q)
+
+- Train Station
+https://portal.pixelfederation.com/en/trainstation
+---
 ## My Video
 
 - :a: [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
-  - https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o
-  - https://www.douyin.com/user/MS4wLjABAAAADFJXJJiH3A32tqE30u4VFj1yyIbzYqY2Y1iVdxTgJDw?relation=0&vid=7131363389632253196
+  - [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
+- [安姑爱生活](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E5%A7%91%E7%88%B1%E7%94%9F%E6%B4%BB?type=video)
+
+- [Girl Model Train](https://www.douyin.com/user/MS4wLjABAAAADFJXJJiH3A32tqE30u4VFj1yyIbzYqY2Y1iVdxTgJDw?relation=0&vid=7131363389632253196)
 
 - [安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
+  - [安舅是亮仔](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E8%88%85%E6%98%AF%E4%BA%AE%E4%BB%94?type=video)
 
 - [:panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
 - [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
@@ -92,9 +103,7 @@ MeetingWord Backup(20240927)
 
 - [我的公公叫康熙]( https://tw.zhswx.com/book/63202.html)
 
-- [:+1: 讓你造拖拉機，你去造火箭]( https://tw.zhsshu.com/book/65456.html)
-
-- [:+1: 從下鄉后開始的咸魚生活]( https://tw.zhsshu.com/book/65120.html)
+- [:+1: 讓你造拖拉機，你去造火箭](https://czbooks.net/n/uijceg)
 
 - [:+1: 從下鄉後開始的鹹魚生活](https://czbooks.net/n/s6pofo)
 
@@ -279,6 +288,23 @@ MeetingWord Backup(20240927)
 - [久保同學不放過我](https://www.baozimh.com/comic/jiubaotongxuebufangguowo-xuesenzhuzhu)
 
 - [小森拒不了！](https://www.baozimh.com/comic/xiaosenjubuliao-kurujiaoxinzhe)
+
+- [再見龍生你好人生](https://tw.baozimh.com/comic/zaijianlongshengnihaorensheng-kuronoyongdaohiroaki)
+  - https://tw.linovelib.com/novel/2336/catalog
+  
+- [嘆息的亡靈好想隱退](https://www.baozimh.com/comic/tanxidewanglinghaoxiangyintuizuiruoxishoudezuiqiangduiwuyangchengzhu-guiyingsheyerai)
+
+- [我的可愛對黑巖目高不管用](https://www.baozimh.com/comic/wodekeaiduiheiyanmugaobuguanyong-jiushilan)
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 - []()
 
