@@ -1,4 +1,4 @@
-MeetingWord Backup(20240927)
+MeetingWord Backup(20241119)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -65,28 +65,25 @@ MeetingWord Backup(20240927)
 ---
 - ### [Daily Note](https://hackmd.io/BrJcnA3STEWct-4mychV9Q)
 
-- Train Station
-https://portal.pixelfederation.com/en/trainstation
+- ### [Train Station](https://portal.pixelfederation.com/en/trainstation)
 ---
 ## My Video
 
-- :a: [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
-  - [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
-- [安姑爱生活](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E5%A7%91%E7%88%B1%E7%94%9F%E6%B4%BB?type=video)
+- [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
+- :a: [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
+- :b: [安姑爱生活](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E5%A7%91%E7%88%B1%E7%94%9F%E6%B4%BB?type=video)
+
+- :ab: [安舅是亮仔](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E8%88%85%E6%98%AF%E4%BA%AE%E4%BB%94?type=video)
+
+- [劉偉元的旅行](https://www.douyin.com/user/MS4wLjABAAAAGP2NgXpugophYV1vVh6-Mii_mUWXwzDMoMzxaGMIGK17FgewQceXZZUKu3E3Ltjz)
 
 - [Girl Model Train](https://www.douyin.com/user/MS4wLjABAAAADFJXJJiH3A32tqE30u4VFj1yyIbzYqY2Y1iVdxTgJDw?relation=0&vid=7131363389632253196)
 
-- [安舅是亮仔](https://www.ixigua.com/home/4089829185566935/?source=pgc_author_name&list_entrance=anyVideo)
-  - [安舅是亮仔](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E8%88%85%E6%98%AF%E4%BA%AE%E4%BB%94?type=video)
-
-- [:panda_face: 徐云流浪中国](https://www.ixigua.com/home/2190661622972016/?source=pgc_author_name&list_entrance=anyVideo)
-- [刘伟元的旅行](https://www.ixigua.com/home/71989078427/?list_entrance=search)
-- [:b: 小彩籽](https://www.ixigua.com/home/1943557887754557/)
+- [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
+- [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 
 ### ooo
 
-- [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
-- [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 - [擅長捉弄的高木同學 v](https://dramasq.com/xj/jp240327/)
 
 ## My Novel
@@ -94,6 +91,12 @@ https://portal.pixelfederation.com/en/trainstation
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
 - [tw.linovelib](https://tw.linovelib.com/)
+
+- [小說之家](https://m.xszj.org/ "小說之家")
+
+- [ttkan](https://www.ttkan.co/)
+
+- [85小說](https://www.85novel.com/)
 
 - [大國實業](https://tw.zhswx.com/book/64623.html)
 
