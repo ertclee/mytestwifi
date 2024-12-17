@@ -1,4 +1,4 @@
-MeetingWord Backup(20241119)
+MeetingWord Backup(20241217)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -10,6 +10,8 @@ MeetingWord Backup(20241119)
 
 ### [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
 
+- ### [My Password](https://hackmd.io/YC5ard5bTQCRMpdaxIyTkw)
+ 
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
 - ### [Data Transfer 資料交換區X](https://hackmd.io/xfCzcuCTQLmGe1x4aq43RA)
@@ -70,6 +72,9 @@ MeetingWord Backup(20241119)
 ## My Video
 
 - [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
+
+- :star: [douyin](https://www.douyin.com/follow)
+
 - :a: [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
 - :b: [安姑爱生活](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E5%A7%91%E7%88%B1%E7%94%9F%E6%B4%BB?type=video)
 
@@ -97,6 +102,8 @@ MeetingWord Backup(20241119)
 - [ttkan](https://www.ttkan.co/)
 
 - [85小說](https://www.85novel.com/)
+
+- [oread8](http://www.oread8.net/)
 
 - [大國實業](https://tw.zhswx.com/book/64623.html)
 
