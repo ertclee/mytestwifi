@@ -1,4 +1,4 @@
-My Daily Work(20250513)
+My Daily Work(20250612)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -33,7 +33,10 @@ My Daily Work(20250513)
 
 - ### [My CHIP-8](https://hackmd.io/wI-lw4BxRLy30PaUi7qhYw)
 
-- ### [前端Web開發HTML5+CSS3](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
+- ### [前端Web開發HTML5+CSS3 Part-1](https://hackmd.io/8aPcsk7cRoKr8PxRJJIl-w)
+
+- ### [前端Web開發HTML5+CSS3 Part-2](https://hackmd.io/ikDxHmG7SnCwnrNFKwhahQ)
+
 
 - [New York Times](https://cn.nytimes.com/zh-hant/)
 
