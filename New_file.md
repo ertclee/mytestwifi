@@ -1,4 +1,4 @@
-My Daily Work(20250612)
+My Daily Work(20250715)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -79,21 +79,11 @@ My Daily Work(20250612)
 
 ## My Video
 
-- [安妈超正](https://www.ixigua.com/home/3192578366771757/?source=pgc_author_name&list_entrance=anyVideo)
-
 - :star: [douyin](https://www.douyin.com/follow)
 
 - :a: [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
-- :b: [安姑爱生活](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E5%A7%91%E7%88%B1%E7%94%9F%E6%B4%BB?type=video)
-
-- :ab: [安舅是亮仔](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o/search/%E5%AE%89%E8%88%85%E6%98%AF%E4%BA%AE%E4%BB%94?type=video)
 
 - [劉偉元的旅行](https://www.douyin.com/user/MS4wLjABAAAAGP2NgXpugophYV1vVh6-Mii_mUWXwzDMoMzxaGMIGK17FgewQceXZZUKu3E3Ltjz)
-
-- [Girl Model Train](https://www.douyin.com/user/MS4wLjABAAAADFJXJJiH3A32tqE30u4VFj1yyIbzYqY2Y1iVdxTgJDw?relation=0&vid=7131363389632253196)
-
-- [青云迹](https://www.ixigua.com/home/111359635698/?list_entrance=category&video_card_type=shortvideo)
-- [巡游轨迹](https://www.ixigua.com/home/2950681436095219/?source=pgc_author_name&list_entrance=anyVideo)
 
 ### ooo
 
@@ -101,9 +91,19 @@ My Daily Work(20250612)
 
 ## My Novel
 
+- [69](https://www.69shuba.com/modules/article/bookcase.php)
+
+- [Taiwan Novel](https://twkan.com/bookcase)
+
+- [101 book](https://101kanshu.com/)
+
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
 - [tw.linovelib](https://tw.linovelib.com/)
+
+- [Rabbit](https://sto55.com/)
+
+- [book sea](https://www.shuhaige.net/)
 
 - [Tan Tan Kan](https://ttk.tw/)
 
