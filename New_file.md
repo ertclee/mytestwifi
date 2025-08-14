@@ -1,4 +1,4 @@
-My Daily Work(20250715)
+My Daily Work(20250815)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -92,6 +92,7 @@ My Daily Work(20250715)
 ## My Novel
 
 - [69](https://www.69shuba.com/modules/article/bookcase.php)
+  - https://www.69yd.top
 
 - [Taiwan Novel](https://twkan.com/bookcase)
 
