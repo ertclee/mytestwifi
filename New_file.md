@@ -1,4 +1,4 @@
-My Daily Work(20250915)
+My Daily Work(20251115)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
@@ -70,7 +70,7 @@ My Daily Work(20250915)
 - [Map geovisearth](https://online.geovisearth.com/browser)
 
 ---
-- ### [Daily Note](https://hackmd.io/BrJcnA3STEWct-4mychV9Q)
+- ### [Daily Note](https://hackmd.io/jZxpEDwzTR2pkKNg0uMxdA)
 
 - ### [:heart: My Mobile Note](https://hackmd.io/XxUsZ_mmRTiK9xW7hk7fKQ)
 
