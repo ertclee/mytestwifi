@@ -48,15 +48,21 @@ My Daily Work(20251115)
 
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
-- [:+1: z-lib](https://zh.singlelogin.re/categories)
+- [:+1: z-lib](https://z-library.ec/)
   - https://zh.articles.sk/
   - https://z-library.sk/
+  - https://z-library.ec/
   - 網址是： [https://zh.z-lib.gs/](https://zh.z-lib.gs/ "https://zh.z-lib.gs/")
 
   - [Rail](https://zh.singlelogin.re/booklists?searchQuery=railway&order=popular)
   - [Rail](https://zh.singlelogin.re/category/689/Technique-Transportation-Rail?order=year)
 
 - [:+1: dbook](https://www.dbooks.org/)
+
+- [:heart::+1: Anna's Archive](https://annas-archive.org/)
+	- https://tw.annas-archive.org/
+		- 帳號 ID：9r53Qbi
+		- Key: 9r53Qbi4bsHUPAejyinDHW8Lz3t2v
 
 - [:+1:  :+1:  :+1: My saved webpages](https://hackmd.io/RUMZ3vB9RHe3M7aavF4CXw?view)
 
@@ -97,6 +103,8 @@ My Daily Work(20251115)
 - [Taiwan Novel](https://twkan.com/bookcase)
 
 - [101 book](https://101kanshu.com/)
+
+- [Cola](https://www.klxs.tw/)
 
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
