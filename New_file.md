@@ -1,9 +1,9 @@
-My Daily Work(20251115)
+My Daily Work(20260312)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
 
-# 過來門口按609#，幫你開門 666
+# 按609#，開門
 
 ## [Meeting2 - Down](http://meetingwords.com/unlQYTCAwG)
 - https://github.com/ether/etherpad-lite
@@ -75,6 +75,8 @@ My Daily Work(20251115)
 
 - [Map geovisearth](https://online.geovisearth.com/browser)
 
+- [Learning](https://jc.ntust.edu.tw/p/404-1008-47515.php?Lang=zh-tw)
+
 ---
 - ### [Daily Note](https://hackmd.io/jZxpEDwzTR2pkKNg0uMxdA)
 
@@ -104,11 +106,13 @@ My Daily Work(20251115)
 
 - [101 book](https://101kanshu.com/)
 
+- [101 Novel](https://novel101.com/)
+
 - [Cola](https://www.klxs.tw/)
 
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
-- [tw.linovelib](https://tw.linovelib.com/)
+- :heart: [tw.linovelib](https://tw.linovelib.com/)
 
 - [Rabbit](https://sto55.com/)
 
@@ -385,15 +389,6 @@ My Daily Work(20251115)
 
 - []()
 
-### GRE Words
-
-mstrategist.com/most-common-gre-vocabulary-words/)
-
-- [2](https://www.kaptest.com/study/gre/top-52-gre-vocabulary-words/)
-
-- [3](https://www.facebook.com/photo/?fbid=700197472114144&set=pcb.700202198780338)
-
-
 
 ### 電氣基礎知識講解
 [了解近30種電氣元件電氣基礎知識講解](https://www.youtube.com/watch?v=TDhsZJJGlQA)
@@ -634,6 +629,20 @@ https://www.callapple.org/
 http://cpmarchives.classiccmp.org/cpm/mirrors/www.cpm8680.com/
 CP/M 3.1 to the Apple II + Softcard platform (here http://cpm.z80.de/download/apl2cpm3.zip
 http://loderunnerwebgame.com/LodeRunner/
+- https://apple2ts.com/
+- https://apple2ts.com/#https://drive.usercontent.google.com/download?id=1ztLKGPz2rVcOg0wL2TtaQfSOXwcMrdOH
+- https://boardgamearena.com/
+- https://www.tomsguide.com/
+- https://keyboardtest.io/
+- https://dos.zone/
+- https://www.romspedia.com/
+- https://ankergames.net/
+- https://www.4fnet.org/
+- https://gamesfrog.com/
+- https://emulatoronline.xyz/
+- https://romspure.cc/
+- https://romsfun.com/
+- https://www.myinstants.com/en/index/tw/
 
 
 ## pahole
