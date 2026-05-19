@@ -1,14 +1,23 @@
-My Daily Work(20260312)
+My Daily Work(20260519)
 ===
 
-###### tags: `Xian` `temp` `Galaxian` `MeetingWord`
+###### tags: `Xian` `temp` `Galaxian`
 
 # 按609#，開門
 
-## [Meeting2 - Down](http://meetingwords.com/unlQYTCAwG)
-- https://github.com/ether/etherpad-lite
+---
+- ### [Daily Note](https://hackmd.io/jZxpEDwzTR2pkKNg0uMxdA)
 
-### [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
+- ### [:heart: My Mobile Note](https://hackmd.io/XxUsZ_mmRTiK9xW7hk7fKQ)
+
+- ### [Train Station](https://portal.pixelfederation.com/en/trainstation)
+
+---
+
+- :star: [douyin](https://www.douyin.com/follow)
+
+- ### [MeetingWord - Down](https://github.com/ether/etherpad-lite)
+	- [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
 
 - ### [My Password](https://hackmd.io/YC5ard5bTQCRMpdaxIyTkw)
  
@@ -78,16 +87,8 @@ My Daily Work(20260312)
 - [Learning](https://jc.ntust.edu.tw/p/404-1008-47515.php?Lang=zh-tw)
 
 ---
-- ### [Daily Note](https://hackmd.io/jZxpEDwzTR2pkKNg0uMxdA)
-
-- ### [:heart: My Mobile Note](https://hackmd.io/XxUsZ_mmRTiK9xW7hk7fKQ)
-
-- ### [Train Station](https://portal.pixelfederation.com/en/trainstation)
----
 
 ## My Video
-
-- :star: [douyin](https://www.douyin.com/follow)
 
 - :a: [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
 
@@ -105,10 +106,14 @@ My Daily Work(20260312)
 - [Taiwan Novel](https://twkan.com/bookcase)
 
 - [101 book](https://101kanshu.com/)
-
+- https://101kks.com/bookcase
 - [101 Novel](https://novel101.com/)
 
 - [Cola](https://www.klxs.tw/)
+
+- [超級進化](https://www.hetubook.com/book/3085/index.html)
+	- https://big5.quanben5.io/n/chaojijinhua_xiaoqian/xiaoshuo.html
+	- https://m.wfxs.tw/xs-1491177.html
 
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
@@ -303,6 +308,9 @@ My Daily Work(20260312)
 
 - [虧成首富從遊戲開始 29](https://www.tbmanga.com/comic/chapter/yuchengshoufucongyouxikaishi-yuewenmanhua/0_28.html)
 
+### Baozi
+- https://www.twmanga.com/
+- 
 - [The New Gate](https://www.baozimh.com/comic/thenewgate-fengbosinogisanlunyotuyuki)
 
 - [異世界悠閒紀行](https://www.baozimh.com/comic/yishijieyouxianjixingbianyangwabiandangmouxianzhe-shuiwuyuejingliumizunatomomi)
