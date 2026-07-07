@@ -1,4 +1,4 @@
-My Daily Work(20260519)
+My Daily Work(20260707)
 ===
 
 ###### tags: `Xian` `temp` `Galaxian`
@@ -14,12 +14,18 @@ My Daily Work(20260519)
 
 ---
 
-- :star: [douyin](https://www.douyin.com/follow)
+- ### :star: [douyin](https://www.douyin.com/follow)
 
-- ### [MeetingWord - Down](https://github.com/ether/etherpad-lite)
-	- [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
+### Slideshare and scribd downloader
+- https://www.slidegrabber.com/
+- https://slidesharedownloder.com/
+- https://scribdvdownloader.com/
+- https://scribd.vpdfs.com/
+- https://pixpretty.tenorshare.ai/zh-tw/reviews/scribd-downloader.html
 
 - ### [My Password](https://hackmd.io/YC5ard5bTQCRMpdaxIyTkw)
+
+- [Meeting1 - Down](https://hackmd.io/hrQZrLEiT9eITkc9hrV3RQ)
  
 - ### [Data Transfer 資料交換區](https://hackmd.io/B0saRZGXSSq1Zhh5nxA0Xw)
 
@@ -310,6 +316,7 @@ My Daily Work(20260519)
 
 ### Baozi
 - https://www.twmanga.com/
+- @@ https://www.manhuagui.com/
 - 
 - [The New Gate](https://www.baozimh.com/comic/thenewgate-fengbosinogisanlunyotuyuki)
 
@@ -381,8 +388,6 @@ My Daily Work(20260519)
 ---
 
 ## My magazine
-
-- [share magazine](https://gofile.io/d/HlD0mf)
 
 - [Claude's root](https://gofile.io/d/5ZxCbx)
 
@@ -564,12 +569,12 @@ http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/?redirectU
  以上是世界最大的電子書資料庫登入連結; 可用 tor 瀏覽器 (onion) 隱匿電子足跡瀏覽器開啟以上網址, 註冊, 每天可10本電子書 (用 calibre如簡體可用外掛轉繁) 
 
 ## Manga
-https://www.manhuagui.com/comic/34253/
-https://www.wenku8.net/modules/article/articleinfo.php?id=2971&charset=big5
-http://m.dm5.cn/manhua-yingxiongwang-weileqiongjinwudaoerzhuansheng-ranhou-chengweishijiezuiqiangdejianxiqishi/
-https://www.dm5.com/m804767/
-https://www.wenku8.net/index.php
-https://www.xlsmh.com/manhua/kuichengshoufucongyouxikaishi/1246295.html
+- https://www.manhuagui.com/comic/34253/
+- https://www.wenku8.net/modules/article/articleinfo.php?id=2971&charset=big5
+- http://m.dm5.cn/manhua-yingxiongwang-weileqiongjinwudaoerzhuansheng-ranhou-chengweishijiezuiqiangdejianxiqishi/
+- https://www.dm5.com/m804767/
+- https://www.wenku8.net/index.php
+- https://www.xlsmh.com/manhua/kuichengshoufucongyouxikaishi/1246295.html
 
 
 https://tw.linovelib.com/
@@ -784,9 +789,6 @@ https://blog.darkthread.net/blog/spi-i2c-oled-benchmark/
 Krita v5.1.5 取代 Photoshop, Painter 的專業繪圖軟體（繁體中文版）
 https://blog.user.today/
 
-
-## Rubber band
-https://www.youtube.com/watch?v=8de50u4vASg
 
 ## HidMarcos and LuaMarcos
 - https://github.com/me2d13/luamacros
@@ -1100,10 +1102,6 @@ https://medium.com/%E5%BE%AE%E5%B3%AF%E9%A3%9B%E7%BF%94/golang-go-mod-%E8%B5%B7%
 
 https://myapollo.com.tw/zh-tw/golang-go-module-tutorial/
 
-Claude • 10:45 AM
-
-
-
 
 https://www.mhgui.com/comic/31550/444948.html
 
@@ -1115,9 +1113,9 @@ https://www3.nhk.or.jp/nhkworld/zt/ondemand/program/video/japanrailway/?type=tvE
 【心有猛虎，細嗅薔薇！】
 隻要躺得夠平，什麼樣的鐮刀都割不到你。
 
-Apple II
-https://www.scullinsteel.com/apple2/
-https://github.com/whscullin/apple2js
+### Apple II
+- https://www.scullinsteel.com/apple2/
+- https://github.com/whscullin/apple2js
 
 https://zh.wikipedia.org/wiki/Category:%E8%AF%8D%E7%89%8C
  “花褪殘紅青杏小。
@@ -1163,10 +1161,6 @@ https://www.manhuagui.com/comic/33881/
 https://www.linovelib.com/novel/2918/144170_2.html
 https://anime1.me/9002
 
-謝立琪
-https://www.flickr.com/photos/tags/%E8%AC%9D%E7%AB%8B%E7%90%AA/
-https://www.youtube.com/watch?v=-qUTw7GI-Hw
-
 A4U
 https://e-hentai.org/g/123448/6ace8580aa/?p=1
 https://www.jav.ink/category/asian-exclusive/asian-4-you-2/asian4you-cd21-cd30/page/2/
@@ -1176,9 +1170,6 @@ https://e-hentai.org/
 - [A4U](https://www.asianude4u.net/category/asian4you/)
 
 
-DIY
-https://www.youtube.com/watch?v=y5vmozoawgw
-小樂圖客(ZIG)
 龍貓
 https://digilog.tw/
 
@@ -1204,23 +1195,9 @@ https://gobyexample-cn.github.io/slices
 
 https://www.jianguoyun.com/d/home#/
 
-##Pinterest
-https://chrome.google.com/webstore/detail/pindown/flieckppkcgagklbnnhnkkeladdghogp/related
-https://www.pinterest.com/banjisaiougaoumasan093055/_saved/
-https://www.pinterest.com/aufarok/_saved/
-https://www.pinterest.com/5254subway/_saved/
-https://www.pinterest.com/mk258847/_saved/
-https://www.pinterest.com/d98232300/_saved/
-https://www.pinterest.com/kentarou_0523/_saved/
-https://www.pinterest.com/tyama1963/_saved/
-https://www.pinterest.com/ryuryu120821/_saved/
-https://www.pinterest.com/jjjjj05050505/_saved/
-https://www.pinterest.com/episode8385/_saved/
-https://www.pinterest.com/chin298823239451/_saved/
-
-6502
-https://github.com/SlithyMatt/x16-assembly-tutorial
-https://github.com/commanderx16/x16-rom
+### 6502
+- https://github.com/SlithyMatt/x16-assembly-tutorial
+- https://github.com/commanderx16/x16-rom
 
 February 21, 2021
 ===
