@@ -3,9 +3,6 @@ My Daily Work(20260707)
 
 ###### tags: `Xian` `temp` `Galaxian`
 
-# 按609#，開門
-
----
 - ### [Daily Note](https://hackmd.io/jZxpEDwzTR2pkKNg0uMxdA)
 
 - ### [:heart: My Mobile Note](https://hackmd.io/XxUsZ_mmRTiK9xW7hk7fKQ)
@@ -14,14 +11,20 @@ My Daily Work(20260707)
 
 ---
 
-- ### :star: [douyin](https://www.douyin.com/follow)
+- [思維筆記圖書館 Wicanr2](https://github.com/wicanr2/thought_notebook)
 
 ### Slideshare and scribd downloader
+- https://www.slideshare.net/simenli?tab=documents
 - https://www.slidegrabber.com/
 - https://slidesharedownloder.com/
-- https://scribdvdownloader.com/
+- https://scribd.vdownloaders.com/
 - https://scribd.vpdfs.com/
+- https://scribdvdownloader.com/
 - https://pixpretty.tenorshare.ai/zh-tw/reviews/scribd-downloader.html
+
+## My Video
+
+- [劉偉元的旅行](https://www.douyin.com/user/MS4wLjABAAAAGP2NgXpugophYV1vVh6-Mii_mUWXwzDMoMzxaGMIGK17FgewQceXZZUKu3E3Ltjz)
 
 - ### [My Password](https://hackmd.io/YC5ard5bTQCRMpdaxIyTkw)
 
@@ -94,13 +97,6 @@ My Daily Work(20260707)
 
 ---
 
-## My Video
-
-- :a: [安妈超正](https://www.douyin.com/user/MS4wLjABAAAA0drDApVzeOq58myyNNPlhreVMneEayL_kVHhc1MyI2o)
-
-- [劉偉元的旅行](https://www.douyin.com/user/MS4wLjABAAAAGP2NgXpugophYV1vVh6-Mii_mUWXwzDMoMzxaGMIGK17FgewQceXZZUKu3E3Ltjz)
-
-### ooo
 
 - [擅長捉弄的高木同學 v](https://dramasq.com/xj/jp240327/)
 
@@ -124,7 +120,8 @@ My Daily Work(20260707)
 - [piaotian](https://www.piaotia.com/modules/article/bookcase.php)
 
 - :heart: [tw.linovelib](https://tw.linovelib.com/)
-
+	- https://www.8novel.com/
+	
 - [Rabbit](https://sto55.com/)
 
 - [book sea](https://www.shuhaige.net/)
